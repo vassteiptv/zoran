@@ -1470,7 +1470,7 @@ http://a1.gokakka.club:8880/testzyx030/123456789/49029
 http://a1.gokakka.club:8880/testzyx030/123456789/49028
 #EXTINF:-1 ,YU299:Zadruga 4
 http://a1.gokakka.club:8880/testzyx030/123456789/49027
-#EXTINF:-1 ,------|Bulgaria|------
+#EXTINF:-1 tvg-id="" tvg-name="------|Yugoslavia|------" tvg-logo="" group-title="Bulgaria tv",------|Yugoslavia|------
 http://a1.gokakka.club:8880/testzyx030/123456789/30826
 #EXTINF:-1 ,BG001:BNT 1 HD
 http://a1.gokakka.club:8880/testzyx030/123456789/30825
