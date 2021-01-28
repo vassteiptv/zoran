@@ -1,1211 +1,416 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: 24 Vesti" tvg-logo="" group-title="Live: Macedonia",MK: 24 Vesti
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/16307
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Alfa TV" tvg-logo="" group-title="Live: Macedonia",MK: Alfa TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/10063
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Alsat" tvg-logo="" group-title="Live: Macedonia",MK: Alsat
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3804
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Animal Planet" tvg-logo="" group-title="Live: Macedonia",MK: Animal Planet
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42234
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Balkan Music" tvg-logo="" group-title="Live: Macedonia",MK: Balkan Music
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42212
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: CinePlex HD" tvg-logo="" group-title="Live: Macedonia",MK: CinePlex HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42213
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Cinestar TV Premiere 1" tvg-logo="" group-title="Live: Macedonia",MK: Cinestar TV Premiere 1
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42214
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Cinestar TV Premiere 2" tvg-logo="" group-title="Live: Macedonia",MK: Cinestar TV Premiere 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42215
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: EDO" tvg-logo="" group-title="Live: Macedonia",MK: EDO
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/16300
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Film Box Plus" tvg-logo="" group-title="Live: Macedonia",MK: Film Box Plus
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42217
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Filmbox Extra FHD" tvg-logo="" group-title="Live: Macedonia",MK: Filmbox Extra FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42216
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Folk" tvg-logo="" group-title="Live: Macedonia",MK: Folk
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42219
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Folk Klub" tvg-logo="" group-title="Live: Macedonia",MK: Folk Klub
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42218
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Fox" tvg-logo="" group-title="Live: Macedonia",MK: Fox
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42221
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Fox Life" tvg-logo="" group-title="Live: Macedonia",MK: Fox Life
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42220
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: HBO 2 HD MK" tvg-logo="" group-title="Live: Macedonia",MK: HBO 2 HD MK
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/16295
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: HBO 3 HD MK" tvg-logo="" group-title="Live: Macedonia",MK: HBO 3 HD MK
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/16294
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: HBO HD MK" tvg-logo="" group-title="Live: Macedonia",MK: HBO HD MK
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/16296
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Hugo 2" tvg-logo="" group-title="Live: Macedonia",MK: Hugo 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/16304
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Hugo Tv" tvg-logo="" group-title="Live: Macedonia",MK: Hugo Tv
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/16308
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: INTV Avstralija" tvg-logo="" group-title="Live: Macedonia",MK: INTV Avstralija
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42223
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Iris TV Stip" tvg-logo="" group-title="Live: Macedonia",MK: Iris TV Stip
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42233
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Kafanska" tvg-logo="" group-title="Live: Macedonia",MK: Kafanska
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42224
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Kanal 5" tvg-logo="" group-title="Live: Macedonia",MK: Kanal 5
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/15818
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Kanal+5" tvg-logo="" group-title="Live: Macedonia",MK: Kanal+5
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3803
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: KLAN HD" tvg-logo="" group-title="Live: Macedonia",MK: KLAN HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/16297
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Leskovac TV" tvg-logo="" group-title="Live: Macedonia",MK: Leskovac TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/16305
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: M1 Film" tvg-logo="" group-title="Live: Macedonia",MK: M1 Film
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42222
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Macedonian Documentary" tvg-logo="" group-title="Live: Macedonia",MK: Macedonian Documentary
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42235
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: MRT 3" tvg-logo="" group-title="Live: Macedonia",MK: MRT 3
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42225
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: MEGA BITOLA" tvg-logo="" group-title="Live: Macedonia",MK: MEGA BITOLA
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/16303
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: MRT 1" tvg-logo="" group-title="Live: Macedonia",MK: MRT 1
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13591
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: MRT 2" tvg-logo="" group-title="Live: Macedonia",MK: MRT 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13592
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: MRT TV 1" tvg-logo="" group-title="Live: Macedonia",MK: MRT TV 1
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3802
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: MRT TV 2" tvg-logo="" group-title="Live: Macedonia",MK: MRT TV 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3801
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: MTM" tvg-logo="" group-title="Live: Macedonia",MK: MTM
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42226
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: MTV Igman" tvg-logo="" group-title="Live: Macedonia",MK: MTV Igman
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/10062
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Nasa TV (Nasha TV)" tvg-logo="" group-title="Live: Macedonia",MK: Nasa TV (Nasha TV)
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/16302
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Sandzak TV" tvg-logo="" group-title="Live: Macedonia",MK: Sandzak TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/10065
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Shenja Tv" tvg-logo="" group-title="Live: Macedonia",MK: Shenja Tv
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/16310
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Sitel" tvg-logo="" group-title="Live: Macedonia",MK: Sitel
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3800
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Sitel FHD" tvg-logo="" group-title="Live: Macedonia",MK: Sitel FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3799
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Sky Folk" tvg-logo="" group-title="Live: Macedonia",MK: Sky Folk
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/16299
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Sobraniski Kanal" tvg-logo="" group-title="Live: Macedonia",MK: Sobraniski Kanal
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42227
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Sportska TV" tvg-logo="" group-title="Live: Macedonia",MK: Sportska TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/16298
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Sutel TV" tvg-logo="" group-title="Live: Macedonia",MK: Sutel TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/16293
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Televizija 5" tvg-logo="" group-title="Live: Macedonia",MK: Televizija 5
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/35922
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Telma" tvg-logo="" group-title="Live: Macedonia",MK: Telma
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/16309
-#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Tera TV HD" tvg-logo="" group-title="Live: Macedonia",MK: Tera TV HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42211
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: TLC" tvg-logo="" group-title="Live: Macedonia",MK: TLC
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42228
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Travel Channel" tvg-logo="" group-title="Live: Macedonia",MK: Travel Channel
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42229
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: TV 1000" tvg-logo="" group-title="Live: Macedonia",MK: TV 1000
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42230
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: TV Sonce" tvg-logo="" group-title="Live: Macedonia",MK: TV Sonce
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/16306
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: TV+ Kumanovo" tvg-logo="" group-title="Live: Macedonia",MK: TV+ Kumanovo
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/16301
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Viasat Explore" tvg-logo="" group-title="Live: Macedonia",MK: Viasat Explore
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42231
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Viasat History" tvg-logo="" group-title="Live: Macedonia",MK: Viasat History
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42232
-
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP RS: Zadruga Uživo 1" tvg-logo="" group-title="Live: EX-Yu",VIP RS: Zadruga Uživo 1
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/33669
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP RS: Zadruga Uživo 2" tvg-logo="" group-title="Live: EX-Yu",VIP RS: Zadruga Uživo 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/33670
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP RS: Zadruga Uživo 3" tvg-logo="" group-title="Live: EX-Yu",VIP RS: Zadruga Uživo 3
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/33671
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP RS: Zadruga Uživo 4" tvg-logo="" group-title="Live: EX-Yu",VIP RS: Zadruga Uživo 4
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/33672
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP BH: Nova Sport FHD" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Nova Sport FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/34653
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP BH: Nova Sport HD" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Nova Sport HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/34562
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP BH: Dobra Balkanska" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Balkanska
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42666
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP BH: Dobra Bosnjacka" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Bosnjacka
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42665
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP BH: Dobra Cinema" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Cinema
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42664
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP BH: Dobra Cinema Plus" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Cinema Plus
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42663
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP BH: Dobra Crnogorska" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Crnogorska
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42662
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP BH: Dobra Exclusive" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Exclusive
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42661
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP BH: Dobra Islamska" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Islamska
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42660
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP BH: Dobra Muzicka" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Muzicka
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42659
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP BH: Dobra Nasheed" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Nasheed
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42658
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP BH: Dobra Plus" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Plus
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42657
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP BH: Dobra S. Makedonska" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra S. Makedonska
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42656
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP BH: Dobra Sevdah" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Sevdah
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42655
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP BH: Dobra Sportska" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Sportska
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42654
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP BH: Dobra Srpska" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Srpska
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42653
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP BH: Dobra Svadba" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Svadba
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42652
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP BH: Dobra Travel" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Travel
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42651
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP BH: Dobra World Music" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra World Music
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42650
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP RS: ARENA SPORT FHD 1" tvg-logo="[" group-title="Live: EX-Yu",VIP RS: ARENA SPORT FHD 1
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/31093
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP RS: ARENA SPORT FHD 2" tvg-logo="[" group-title="Live: EX-Yu",VIP RS: ARENA SPORT FHD 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/31094
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP RS: ARENA SPORT FHD 3" tvg-logo="[" group-title="Live: EX-Yu",VIP RS: ARENA SPORT FHD 3
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/31095
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP RS: ARENA SPORT FHD 4" tvg-logo="[" group-title="Live: EX-Yu",VIP RS: ARENA SPORT FHD 4
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/31096
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP RS: ARENA SPORT FHD 5" tvg-logo="[" group-title="Live: EX-Yu",VIP RS: ARENA SPORT FHD 5
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/31097
-#EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="VIP CRO: ARENA SPORT FHD 1" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: ARENA SPORT FHD 1
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20644
-#EXTINF:-1 tvg-id="arenasport2.hr" tvg-name="VIP CRO: ARENA SPORT FHD 2" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: ARENA SPORT FHD 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20643
-#EXTINF:-1 tvg-id="arenasport3.hr" tvg-name="VIP CRO: ARENA SPORT FHD 3" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: ARENA SPORT FHD 3
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20642
-#EXTINF:-1 tvg-id="arenasport4.hr" tvg-name="VIP CRO: ARENA SPORT FHD 4" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: ARENA SPORT FHD 4
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20641
-#EXTINF:-1 tvg-id="arenasport5.hr" tvg-name="VIP CRO: ARENA SPORT FHD 5" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: ARENA SPORT FHD 5
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20640
-#EXTINF:-1 tvg-id="arenasport6.hr" tvg-name="VIP CRO: ARENA SPORT FHD 6" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: ARENA SPORT FHD 6
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20639
-#EXTINF:-1 tvg-id="planetsport1.ht" tvg-name="VIP CRO: PLANET SPORT 1 HD" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: PLANET SPORT 1 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/19187
-#EXTINF:-1 tvg-id="planetsport2.hr" tvg-name="VIP CRO: PLANET SPORT 2 HD" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: PLANET SPORT 2 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/19188
-#EXTINF:-1 tvg-id="planetsport3.hr" tvg-name="VIP CRO: PLANET SPORT 3 HD" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: PLANET SPORT 3 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/19189
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP CRO: PLANET SPORT 4 HD" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: PLANET SPORT 4 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/64359
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP CRO: PLANET SPORT 5 HD" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: PLANET SPORT 5 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/64360
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP CRO: SPORT KLUB SPECIAL" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB SPECIAL
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/64358
-#EXTINF:-1 tvg-id="sportklub1.hr" tvg-name="VIP CRO: SPORT KLUB 1 FHD" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 1 FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20654
-#EXTINF:-1 tvg-id="sportklub2.hr" tvg-name="VIP CRO: SPORT KLUB 2 FHD" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 2 FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20653
-#EXTINF:-1 tvg-id="sportklub3.hr" tvg-name="VIP CRO: SPORT KLUB 3 FHD" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 3 FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20652
-#EXTINF:-1 tvg-id="sportklub4.hr" tvg-name="VIP CRO: SPORT KLUB 4" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 4
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20651
-#EXTINF:-1 tvg-id="sportklub5.hr" tvg-name="VIP CRO: SPORT KLUB 5" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 5
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20650
-#EXTINF:-1 tvg-id="sportklub6.hr" tvg-name="VIP CRO: SPORT KLUB 6" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 6
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20649
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP CRO: SPORT KLUB 7" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 7
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20648
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP CRO: SPORT KLUB 8" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 8
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20647
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP CRO: SPORT KLUB 9" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 9
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20646
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP CRO: SPORT KLUB 10" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 10
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20645
-#EXTINF:-1 tvg-id="htv1.hr" tvg-name="CRO: HRT 1" tvg-logo="[" group-title="Live: EX-Yu",CRO: HRT 1
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/1033
-#EXTINF:-1 tvg-id="htv1.hr" tvg-name="CRO: HRT 1 FHD" tvg-logo="[" group-title="Live: EX-Yu",CRO: HRT 1 FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23715
-#EXTINF:-1 tvg-id="htv2.hr" tvg-name="CRO: HRT 2" tvg-logo="[" group-title="Live: EX-Yu",CRO: HRT 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/1034
-#EXTINF:-1 tvg-id="htv2.hr" tvg-name="CRO: HRT 2 FHD" tvg-logo="[" group-title="Live: EX-Yu",CRO: HRT 2 FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23714
-#EXTINF:-1 tvg-id="htv3.hr" tvg-name="CRO: HRT 3" tvg-logo="" group-title="Live: EX-Yu",CRO: HRT 3
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/1035
-#EXTINF:-1 tvg-id="htv3.hr" tvg-name="CRO: HRT 3 FHD" tvg-logo="[" group-title="Live: EX-Yu",CRO: HRT 3 FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23713
-#EXTINF:-1 tvg-id="htv4.hr" tvg-name="CRO: HRT 4" tvg-logo="" group-title="Live: EX-Yu",CRO: HRT 4
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/1036
-#EXTINF:-1 tvg-id="htv4.hr" tvg-name="CRO: HRT 4 FHD" tvg-logo="[" group-title="Live: EX-Yu",CRO: HRT 4 FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23712
-#EXTINF:-1 tvg-id="htvinternational.hr" tvg-name="CRO: HRT Int" tvg-logo="[" group-title="Live: EX-Yu",CRO: HRT Int
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20422
-#EXTINF:-1 tvg-id="novahd.hr" tvg-name="CRO: NOVA HD" tvg-logo="" group-title="Live: EX-Yu",CRO: NOVA HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2482
-#EXTINF:-1 tvg-id="prvaplus.rs" tvg-name="CRO: PRVA PLUS" tvg-logo="" group-title="Live: EX-Yu",CRO: PRVA PLUS
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2495
-#EXTINF:-1 tvg-id="prva.rs" tvg-name="CRO: PRVA TV" tvg-logo="" group-title="Live: EX-Yu",CRO: PRVA TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2481
-#EXTINF:-1 tvg-id="rtl.hr" tvg-name="CRO: RTL HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: RTL HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2480
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: RTL" tvg-logo="" group-title="Live: EX-Yu",CRO: RTL
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/52368
-#EXTINF:-1 tvg-id="rtl2.hr" tvg-name="CRO: RTL 2" tvg-logo="" group-title="Live: EX-Yu",CRO: RTL 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2479
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRO: RTL ADRIA" tvg-logo="" group-title="Live: EX-Yu",CRO: RTL ADRIA
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42965
-#EXTINF:-1 tvg-id="rtlcrime.hr" tvg-name="CRO: RTL CRIME" tvg-logo="[" group-title="Live: EX-Yu",CRO: RTL CRIME
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2478
-#EXTINF:-1 tvg-id="rtlliving.hr" tvg-name="CRO: RTL LIVING" tvg-logo="[" group-title="Live: EX-Yu",CRO: RTL LIVING
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2477
-#EXTINF:-1 tvg-id="rtlpassion.hr" tvg-name="CRO: RTL PASSION" tvg-logo="[" group-title="Live: EX-Yu",CRO: RTL PASSION
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13596
-#EXTINF:-1 tvg-id="babytv.rs" tvg-name="CRO: Baby TV" tvg-logo="[" group-title="Live: EX-Yu",CRO: Baby TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23672
-#EXTINF:-1 tvg-id="nickelodeon.hr" tvg-name="CRO: Nickelodeon" tvg-logo="[" group-title="Live: EX-Yu",CRO: Nickelodeon
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23673
-#EXTINF:-1 tvg-id="nationalgeographic.hr" tvg-name="CRO: National Geographic" tvg-logo="[" group-title="Live: EX-Yu",CRO: National Geographic
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23658
-#EXTINF:-1 tvg-id="nickjr.hr" tvg-name="CRO: Nick Jr" tvg-logo="[" group-title="Live: EX-Yu",CRO: Nick Jr
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23674
-#EXTINF:-1 tvg-id="minitv.hr" tvg-name="CRO: Mini TV" tvg-logo="[" group-title="Live: EX-Yu",CRO: Mini TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23671
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRO: M1 Film" tvg-logo="" group-title="Live: EX-Yu",CRO: M1 Film
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23693
-#EXTINF:-1 tvg-id="cbsreality.hr" tvg-name="CRO: CBS Reality" tvg-logo="[" group-title="Live: EX-Yu",CRO: CBS Reality
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23662
-#EXTINF:-1 tvg-id="cinemax.hr" tvg-name="CRO: CINEMAX" tvg-logo="[" group-title="Live: EX-Yu",CRO: CINEMAX
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2490
-#EXTINF:-1 tvg-id="cinemax2.hr" tvg-name="CRO: CINEMAX 2" tvg-logo="" group-title="Live: EX-Yu",CRO: CINEMAX 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2489
-#EXTINF:-1 tvg-id="cinestarpremiere1.hr" tvg-name="CRO: CINESTAR PREMIERE 1" tvg-logo="[" group-title="Live: EX-Yu",CRO: CINESTAR PREMIERE 1
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2488
-#EXTINF:-1 tvg-id="cinestarpremiere2.hr" tvg-name="CRO: CINESTAR PREMIERE 2" tvg-logo="[" group-title="Live: EX-Yu",CRO: CINESTAR PREMIERE 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2487
-#EXTINF:-1 tvg-id="cinestartv.hr" tvg-name="CRO: CINESTAR TV" tvg-logo="[" group-title="Live: EX-Yu",CRO: CINESTAR TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2486
-#EXTINF:-1 tvg-id="cinestaractionandthriller.hr" tvg-name="CRO: CINESTAR TV ACTION" tvg-logo="[" group-title="Live: EX-Yu",CRO: CINESTAR TV ACTION
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2485
-#EXTINF:-1 tvg-id="cinestarfantasy.rs" tvg-name="CRO: CINESTAR TV Fantasy HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: CINESTAR TV Fantasy HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23677
-#EXTINF:-1 tvg-id="filmboxextrahd.hr" tvg-name="CRO: FILMBOX EXTRA" tvg-logo="[" group-title="Live: EX-Yu",CRO: FILMBOX EXTRA
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13598
-#EXTINF:-1 tvg-id="filmboxplus.hr" tvg-name="CRO: FILMBOX PLUS" tvg-logo="" group-title="Live: EX-Yu",CRO: FILMBOX PLUS
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13599
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: Filmovi 1" tvg-logo="" group-title="Live: EX-Yu",CRO: Filmovi 1
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23689
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: Filmovi 2" tvg-logo="" group-title="Live: EX-Yu",CRO: Filmovi 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23688
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: Filmovi 3" tvg-logo="" group-title="Live: EX-Yu",CRO: Filmovi 3
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23687
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: Filmovi 4" tvg-logo="" group-title="Live: EX-Yu",CRO: Filmovi 4
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23686
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: CINESTAR TV 2" tvg-logo="" group-title="Live: EX-Yu",CRO: CINESTAR TV 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23676
-#EXTINF:-1 tvg-id="croatianmusicchannel.hr" tvg-name="CRO: CMC" tvg-logo="" group-title="Live: EX-Yu",CRO: CMC
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2484
-#EXTINF:-1 tvg-id="comedycentralextra.hr" tvg-name="CRO: Comedy Central Extra" tvg-logo="" group-title="Live: EX-Yu",CRO: Comedy Central Extra
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23675
-#EXTINF:-1 tvg-id="crimeandinvestigation.rs" tvg-name="CRO: Crime & Investigation" tvg-logo="[" group-title="Live: EX-Yu",CRO: Crime & Investigation
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23663
-#EXTINF:-1 tvg-id="discovery.hr" tvg-name="CRO: Discovery Channel" tvg-logo="" group-title="Live: EX-Yu",CRO: Discovery Channel
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23667
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRO: Discovery ID" tvg-logo="[" group-title="Live: EX-Yu",CRO: Discovery ID
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23666
-#EXTINF:-1 tvg-id="discoveryidxtra.rs" tvg-name="CRO: Discovery ID Xtra HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: Discovery ID Xtra HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23664
-#EXTINF:-1 tvg-id="discoveryscience.hr" tvg-name="CRO: Discovery Science HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: Discovery Science HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23665
-#EXTINF:-1 tvg-id="diva.hr" tvg-name="CRO: Diva" tvg-logo="[" group-title="Live: EX-Yu",CRO: Diva
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13594
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRO: DocuBox" tvg-logo="" group-title="Live: EX-Yu",CRO: DocuBox
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23690
-#EXTINF:-1 tvg-id="domatv.hr" tvg-name="CRO: Doma TV" tvg-logo="" group-title="Live: EX-Yu",CRO: Doma TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13595
-#EXTINF:-1 tvg-id="E!" tvg-name="CRO: E!" tvg-logo="[" group-title="Live: EX-Yu",CRO: E!
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23670
-#EXTINF:-1 tvg-id="fox.hr" tvg-name="CRO: FOX" tvg-logo="[" group-title="Live: EX-Yu",CRO: FOX
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2496
-#EXTINF:-1 tvg-id="foxcrime.hr" tvg-name="CRO: Fox Crime" tvg-logo="[" group-title="Live: EX-Yu",CRO: Fox Crime
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23681
-#EXTINF:-1 tvg-id="foxlife.hr" tvg-name="CRO: Fox Life" tvg-logo="[" group-title="Live: EX-Yu",CRO: Fox Life
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23680
-#EXTINF:-1 tvg-id="filmboxextrahd.hr" tvg-name="CRO: FOX MOVIES" tvg-logo="[" group-title="Live: EX-Yu",CRO: FOX MOVIES
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2483
-#EXTINF:-1 tvg-id="hbo.hr" tvg-name="CRO: HBO ADRIA HD" tvg-logo="" group-title="Live: EX-Yu",CRO: HBO ADRIA HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2491
-#EXTINF:-1 tvg-id="hbo2.hr" tvg-name="CRO: HBO 2 FHD" tvg-logo="" group-title="Live: EX-Yu",CRO: HBO 2 FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23679
-#EXTINF:-1 tvg-id="hbo3.hr" tvg-name="CRO: HBO 3 FHD" tvg-logo="" group-title="Live: EX-Yu",CRO: HBO 3 FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23678
-#EXTINF:-1 tvg-id="scifich.hr" tvg-name="CRO: SciFi" tvg-logo="[" group-title="Live: EX-Yu",CRO: SciFi
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23685
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: KINO HD" tvg-logo="" group-title="Live: EX-Yu",CRO: KINO HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23683
-#EXTINF:-1 tvg-id="historychannelhd.hr" tvg-name="CRO: History 2" tvg-logo="[" group-title="Live: EX-Yu",CRO: History 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23659
-#EXTINF:-1 tvg-id="historychannel.hr" tvg-name="CRO: History Channel" tvg-logo="[" group-title="Live: EX-Yu",CRO: History Channel
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23660
-#EXTINF:-1 tvg-id="hntv.hr" tvg-name="CRO: HNTV" tvg-logo="[" group-title="Live: EX-Yu",CRO: HNTV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23651
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRO: Jabuka TV" tvg-logo="" group-title="Live: EX-Yu",CRO: Jabuka TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23697
-#EXTINF:-1 tvg-id="jugoton.hr" tvg-name="CRO: Jugoton TV" tvg-logo="" group-title="Live: EX-Yu",CRO: Jugoton TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23699
-#EXTINF:-1 tvg-id="kanalri.hr" tvg-name="CRO: Kanal Ri" tvg-logo="" group-title="Live: EX-Yu",CRO: Kanal Ri
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23702
-#EXTINF:-1 tvg-id="klasiktv.hr" tvg-name="CRO: Klasik TV" tvg-logo="" group-title="Live: EX-Yu",CRO: Klasik TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13600
-#EXTINF:-1 tvg-id="kreatortv.hr" tvg-name="CRO: Kreator TV" tvg-logo="[" group-title="Live: EX-Yu",CRO: Kreator TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23652
-#EXTINF:-1 tvg-id="laudatotv.hr" tvg-name="CRO: Laudato TV" tvg-logo="" group-title="Live: EX-Yu",CRO: Laudato TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23704
-#EXTINF:-1 tvg-id="loviribolov.rs" tvg-name="CRO: Lov I Ribolov" tvg-logo="[" group-title="Live: EX-Yu",CRO: Lov I Ribolov
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23661
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: MAXCRO SELECT 1 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 1 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23649
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: MAXCRO SELECT 2 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 2 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23646
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: MAXCRO SELECT 3 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 3 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23645
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: MAXCRO SELECT 4 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 4 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23644
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: MAXCRO SELECT 5 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 5 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23643
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: MAXCRO SELECT 6 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 6 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23642
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: MAXCRO SELECT 7 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 7 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23641
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: MAXCRO SELECT 8 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 8 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23640
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: MAXCRO SELECT 9 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 9 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23639
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: MAXCRO SELECT 10 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 10 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23648
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: MAXCRO SELECT 11 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 11 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23647
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: MAXCRO SELECT Action HD" tvg-logo="" group-title="Live: EX-Yu",CRO: MAXCRO SELECT Action HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23637
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: Mreza Split" tvg-logo="" group-title="Live: EX-Yu",CRO: Mreza Split
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23638
-#EXTINF:-1 tvg-id="mtvadria.cr" tvg-name="CRO: MTV Adria" tvg-logo="" group-title="Live: EX-Yu",CRO: MTV Adria
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23703
-#EXTINF:-1 tvg-id="n1.hr" tvg-name="CRO: N1 Hrvatska" tvg-logo="[" group-title="Live: EX-Yu",CRO: N1 Hrvatska
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23711
-#EXTINF:-1 tvg-id="narodnatv.hr" tvg-name="CRO: Narodna TV" tvg-logo="[" group-title="Live: EX-Yu",CRO: Narodna TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23695
-#EXTINF:-1 tvg-id="natgeowild.hr" tvg-name="CRO: Nat Geo Wild" tvg-logo="[" group-title="Live: EX-Yu",CRO: Nat Geo Wild
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23657
-#EXTINF:-1 tvg-id="novatv.hr" tvg-name="CRO: Nova World" tvg-logo="" group-title="Live: EX-Yu",CRO: Nova World
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/22247
-#EXTINF:-1 tvg-id="osjeckatv.hr" tvg-name="CRO: Osjecka" tvg-logo="[" group-title="Live: EX-Yu",CRO: Osjecka
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23707
-#EXTINF:-1 tvg-id="sbtv.hr" tvg-name="CRO: SB TV" tvg-logo="" group-title="Live: EX-Yu",CRO: SB TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23696
-#EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="CRO: Arena Sport 1 HD" tvg-logo="" group-title="Live: EX-Yu",CRO: Arena Sport 1 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2505
-#EXTINF:-1 tvg-id="arenasport2.hr" tvg-name="CRO: Arena Sport 2 HD" tvg-logo="" group-title="Live: EX-Yu",CRO: Arena Sport 2 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2503
-#EXTINF:-1 tvg-id="arenasport3.hr" tvg-name="CRO: Arena Sport 3 HD" tvg-logo="" group-title="Live: EX-Yu",CRO: Arena Sport 3 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2501
-#EXTINF:-1 tvg-id="arenasport4.hr" tvg-name="CRO: Arena Sport 4 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: Arena Sport 4 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2499
-#EXTINF:-1 tvg-id="arenasport5.hr" tvg-name="CRO: Arena Sport 5 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: Arena Sport 5 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2497
-#EXTINF:-1 tvg-id="arenasport6.hr" tvg-name="CRO: Arena Sport 6 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: Arena Sport 6 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13586
-#EXTINF:-1 tvg-id="sportklub1.hr" tvg-name="CRO: SPORT KLUB 1 HD" tvg-logo="" group-title="Live: EX-Yu",CRO: SPORT KLUB 1 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2494
-#EXTINF:-1 tvg-id="sportklub2.hr" tvg-name="CRO: SPORT KLUB 2 HD" tvg-logo="" group-title="Live: EX-Yu",CRO: SPORT KLUB 2 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2493
-#EXTINF:-1 tvg-id="sportklub3.hr" tvg-name="CRO: SPORT KLUB 3 HD" tvg-logo="" group-title="Live: EX-Yu",CRO: SPORT KLUB 3 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2492
-#EXTINF:-1 tvg-id="sportklub4.hr" tvg-name="CRO: SPORT KLUB 4 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: SPORT KLUB 4 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/5345
-#EXTINF:-1 tvg-id="sportklub5.hr" tvg-name="CRO: SPORT KLUB 5 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: SPORT KLUB 5 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/5344
-#EXTINF:-1 tvg-id="sportklub6.hr" tvg-name="CRO: SPORT KLUB 6 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: SPORT KLUB 6 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/5343
-#EXTINF:-1 tvg-id="tlc.rs" tvg-name="CRO: TLC" tvg-logo="" group-title="Live: EX-Yu",CRO: TLC
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23694
-#EXTINF:-1 tvg-id="travelchannel.hr" tvg-name="CRO: Travel Channel" tvg-logo="[" group-title="Live: EX-Yu",CRO: Travel Channel
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23656
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRO: Trend TV Karlovac" tvg-logo="" group-title="Live: EX-Yu",CRO: Trend TV Karlovac
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23706
-#EXTINF:-1 tvg-id="tv1000.hr" tvg-name="CRO: TV 1000" tvg-logo="" group-title="Live: EX-Yu",CRO: TV 1000
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13597
-#EXTINF:-1 tvg-id="viasatexplore.hr" tvg-name="CRO: Viasat Explorer" tvg-logo="[" group-title="Live: EX-Yu",CRO: Viasat Explorer
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23655
-#EXTINF:-1 tvg-id="viasathistory.hr" tvg-name="CRO: Viasat History" tvg-logo="[" group-title="Live: EX-Yu",CRO: Viasat History
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23654
-#EXTINF:-1 tvg-id="viasatnature.hr" tvg-name="CRO: Viasat Nature" tvg-logo="[" group-title="Live: EX-Yu",CRO: Viasat Nature
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23653
-#EXTINF:-1 tvg-id="vinkovackatv.hr" tvg-name="CRO: Vinkovacka TV" tvg-logo="[" group-title="Live: EX-Yu",CRO: Vinkovacka TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23701
-#EXTINF:-1 tvg-id="amc.hr" tvg-name="CRO: AMC" tvg-logo="[" group-title="Live: EX-Yu",CRO: AMC
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23684
-#EXTINF:-1 tvg-id="animalplanet.hr" tvg-name="CRO: Animal Planet" tvg-logo="[" group-title="Live: EX-Yu",CRO: Animal Planet
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23668
-#EXTINF:-1 tvg-id="axn.rs" tvg-name="CRO: AXN Adria" tvg-logo="[" group-title="Live: EX-Yu",CRO: AXN Adria
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23692
-#EXTINF:-1 tvg-id="tvjadran.hr" tvg-name="CRO: Jadran TV" tvg-logo="" group-title="Live: EX-Yu",CRO: Jadran TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23698
-#EXTINF:-1 tvg-id="axnspin.rs" tvg-name="CRO: AXN Spin" tvg-logo="[" group-title="Live: EX-Yu",CRO: AXN Spin
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23691
-#EXTINF:-1 tvg-id="slavonskatv.hr" tvg-name="CRO: Slavonska TV" tvg-logo="[" group-title="Live: EX-Yu",CRO: Slavonska TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23708
-#EXTINF:-1 tvg-id="tvistra.hr" tvg-name="CRO: TV Istra" tvg-logo="" group-title="Live: EX-Yu",CRO: TV Istra
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23709
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: TV Banovina" tvg-logo="[" group-title="Live: EX-Yu",CRO: TV Banovina
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23710
-#EXTINF:-1 tvg-id="varazdinskatelevizija.hr" tvg-name="CRO: VTV Varazdin" tvg-logo="" group-title="Live: EX-Yu",CRO: VTV Varazdin
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23705
-#EXTINF:-1 tvg-id="24kitchen.rs" tvg-name="CRO: 24 Kitchen" tvg-logo="[" group-title="Live: EX-Yu",CRO: 24 Kitchen
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23669
-#EXTINF:-1 tvg-id="z1.hr" tvg-name="CRO: Z1 HD" tvg-logo="" group-title="Live: EX-Yu",CRO: Z1 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20607
-#EXTINF:-1 tvg-id="zdravatv.hr" tvg-name="CRO: Zdrava TV" tvg-logo="[" group-title="Live: EX-Yu",CRO: Zdrava TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23700
-#EXTINF:-1 tvg-id="NULL" tvg-name="CRO: Mreza Zagreb" tvg-logo="" group-title="Live: EX-Yu",CRO: Mreza Zagreb
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/43570
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: RTS HD" tvg-logo="" group-title="Live: EX-Yu",RS: RTS HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9119
-#EXTINF:-1 tvg-id="rts1.rs" tvg-name="RS: RTS 1" tvg-logo="" group-title="Live: EX-Yu",RS: RTS 1
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/1037
-#EXTINF:-1 tvg-id="rts2.rs" tvg-name="RS: RTS 2" tvg-logo="" group-title="Live: EX-Yu",RS: RTS 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/1038
-#EXTINF:-1 tvg-id="rts3.rs" tvg-name="RS: RTS 3" tvg-logo="" group-title="Live: EX-Yu",RS: RTS 3
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7025
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: B92" tvg-logo="" group-title="Live: EX-Yu",RS: B92
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7043
-#EXTINF:-1 tvg-id="prva.rs" tvg-name="RS: Prva TV" tvg-logo="" group-title="Live: EX-Yu",RS: Prva TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7032
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: Animal Planet" tvg-logo="" group-title="Live: EX-Yu",RS: Animal Planet
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7899
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: ANP" tvg-logo="[" group-title="Live: EX-Yu",RS: ANP
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13534
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: Nick Jr." tvg-logo="[" group-title="Live: EX-Yu",RS: Nick Jr.
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13549
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: Nickelodeon" tvg-logo="" group-title="Live: EX-Yu",RS: Nickelodeon
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13547
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Pink Kids" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Kids
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13553
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Baby TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Baby TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13546
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: Balkanika" tvg-logo="" group-title="Live: EX-Yu",RS: Balkanika
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7041
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Mini TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Mini TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13544
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Mini Ultra TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Mini Ultra TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23613
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Belle Amie" tvg-logo="[" group-title="Live: EX-Yu",RS: Belle Amie
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23623
-#EXTINF:-1 tvg-id="BN.bn" tvg-name="RS: BN BIH" tvg-logo="" group-title="Live: EX-Yu",RS: BN BIH
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/1032
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: BN Music" tvg-logo="" group-title="Live: EX-Yu",RS: BN Music
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7731
-#EXTINF:-1 tvg-id="dmsat.rs" tvg-name="RS: DM SAT" tvg-logo="" group-title="Live: EX-Yu",RS: DM SAT
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7040
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Grand 2" tvg-logo="[" group-title="Live: EX-Yu",RS: Grand 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9120
-#EXTINF:-1 tvg-id="grand.rs" tvg-name="RS: Grand TV" tvg-logo="" group-title="Live: EX-Yu",RS: Grand TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7037
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Boomerang" tvg-logo="[" group-title="Live: EX-Yu",RS: Boomerang
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13548
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: Discovery Channel" tvg-logo="" group-title="Live: EX-Yu",RS: Discovery Channel
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7900
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Discovery Xtra" tvg-logo="[" group-title="Live: EX-Yu",RS: Discovery Xtra
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13543
-#EXTINF:-1 tvg-id="dutv.hr" tvg-name="RS: Duga TV" tvg-logo="" group-title="Live: EX-Yu",RS: Duga TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7039
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: E!" tvg-logo="[" group-title="Live: EX-Yu",RS: E!
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13531
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: CINEMANIA" tvg-logo="" group-title="Live: EX-Yu",RS: CINEMANIA
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23603
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Comedy Central Extra" tvg-logo="[" group-title="Live: EX-Yu",RS: Comedy Central Extra
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13532
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: CRIME & INVESTIGATION" tvg-logo="[" group-title="Live: EX-Yu",RS: CRIME & INVESTIGATION
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13535
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Film Klub" tvg-logo="[" group-title="Live: EX-Yu",RS: Film Klub
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/21417
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: Film Klub Extra" tvg-logo="" group-title="Live: EX-Yu",RS: Film Klub Extra
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23614
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: Filmbox Extra" tvg-logo="" group-title="Live: EX-Yu",RS: Filmbox Extra
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/21416
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Filmbox Plus" tvg-logo="[" group-title="Live: EX-Yu",RS: Filmbox Plus
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/21415
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Food Network" tvg-logo="[" group-title="Live: EX-Yu",RS: Food Network
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13542
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: RTV BOGJUNO" tvg-logo="[" group-title="Live: EX-Yu",RS: RTV BOGJUNO
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23621
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: HAPPY PAROVI" tvg-logo="[" group-title="Live: EX-Yu",RS: HAPPY PAROVI
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23596
-#EXTINF:-1 tvg-id="happytv.rs" tvg-name="RS: Happy TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Happy TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7036
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: HBO Adria" tvg-logo="" group-title="Live: EX-Yu",RS: HBO Adria
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7736
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: History 2" tvg-logo="[" group-title="Live: EX-Yu",RS: History 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13541
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: History Channel" tvg-logo="" group-title="Live: EX-Yu",RS: History Channel
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7901
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: HNTV" tvg-logo="[" group-title="Live: EX-Yu",RS: HNTV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13589
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: IDJ TV" tvg-logo="" group-title="Live: EX-Yu",RS: IDJ TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/14152
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: Izvorna TV" tvg-logo="" group-title="Live: EX-Yu",RS: Izvorna TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7897
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Jefimija TV" tvg-logo="" group-title="Live: EX-Yu",RS: Jefimija TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23605
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Jugotov TV" tvg-logo="" group-title="Live: EX-Yu",RS: Jugotov TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7896
-#EXTINF:-1 tvg-id="kanal6.ba" tvg-name="RS: Kanal 6 HD" tvg-logo="[" group-title="Live: EX-Yu",RS: Kanal 6 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7038
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: KCN 1" tvg-logo="" group-title="Live: EX-Yu",RS: KCN 1
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/21285
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: KCN 2" tvg-logo="" group-title="Live: EX-Yu",RS: KCN 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/21286
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: KCN 3" tvg-logo="" group-title="Live: EX-Yu",RS: KCN 3
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/21287
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: Leskovac TV" tvg-logo="" group-title="Live: EX-Yu",RS: Leskovac TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23630
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Mag TV" tvg-logo="" group-title="Live: EX-Yu",RS: Mag TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23633
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Minimax/Cinemania" tvg-logo="[" group-title="Live: EX-Yu",RS: Minimax/Cinemania
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13545
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: N1 SRBIJA" tvg-logo="[" group-title="Live: EX-Yu",RS: N1 SRBIJA
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7893
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Nasha TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Nasha TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23634
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Nat Geo Wild HD" tvg-logo="" group-title="Live: EX-Yu",RS: Nat Geo Wild HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7902
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Live: EX-Yu",RS: NATIONAL GEOGRAPHIC
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7903
-#EXTINF:-1 tvg-id="nova.rs" tvg-name="RS: Nova HD" tvg-logo="[" group-title="Live: EX-Yu",RS: Nova HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7034
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: O 2" tvg-logo="[" group-title="Live: EX-Yu",RS: O 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23597
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: TV Istok" tvg-logo="" group-title="Live: EX-Yu",RS: TV Istok
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13537
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: OTV Valentino" tvg-logo="" group-title="Live: EX-Yu",RS: OTV Valentino
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7895
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: SuperStar HD" tvg-logo="[" group-title="Live: EX-Yu",RS: SuperStar HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13556
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Partizan TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Partizan TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13587
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Pikaboo" tvg-logo="" group-title="Live: EX-Yu",RS: Pikaboo
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23635
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Podrinje TV" tvg-logo="" group-title="Live: EX-Yu",RS: Podrinje TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/54592
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: PRVA KICK" tvg-logo="[" group-title="Live: EX-Yu",RS: PRVA KICK
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23599
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Prva MAX" tvg-logo="[" group-title="Live: EX-Yu",RS: Prva MAX
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13557
-#EXTINF:-1 tvg-id="prvaplus.rs" tvg-name="RS: Prva Plus" tvg-logo="" group-title="Live: EX-Yu",RS: Prva Plus
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7031
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Prva World" tvg-logo="[" group-title="Live: EX-Yu",RS: Prva World
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13558
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Pink HD" tvg-logo="" group-title="Live: EX-Yu",RS: Pink HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/45383
-#EXTINF:-1 tvg-id="pink1.rs" tvg-name="RS: Pink" tvg-logo="" group-title="Live: EX-Yu",RS: Pink
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/473
-#EXTINF:-1 tvg-id="pink2.rs" tvg-name="RS: Pink 2" tvg-logo="" group-title="Live: EX-Yu",RS: Pink 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/472
-#EXTINF:-1 tvg-id="pink3.rs" tvg-name="RS: Pink 3" tvg-logo="" group-title="Live: EX-Yu",RS: Pink 3
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/468
-#EXTINF:-1 tvg-id="pinkaction.rs" tvg-name="RS: Pink Action" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Action
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/470
-#EXTINF:-1 tvg-id="pinkbh.rs" tvg-name="RS: Pink BH" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink BH
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/465
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Pink Bravo" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Bravo
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42236
-#EXTINF:-1 tvg-id="pinkclassic.rs" tvg-name="RS: Pink Classic" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Classic
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/38350
-#EXTINF:-1 tvg-id="pinkcomedy.rs" tvg-name="RS: Pink Comedy" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Comedy
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/471
-#EXTINF:-1 tvg-id="pinkcrimeandmystery.rs" tvg-name="RS: Pink Crime & Mystery" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Crime & Mystery
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7911
-#EXTINF:-1 tvg-id="pinkextra.rs" tvg-name="RS: Pink Extra" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Extra
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7914
-#EXTINF:-1 tvg-id="pinkfamily.rs" tvg-name="RS: Pink Family" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Family
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/38351
-#EXTINF:-1 tvg-id="pinkfashion.rs" tvg-name="RS: Pink Fashion" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Fashion
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42239
-#EXTINF:-1 tvg-id="pinkfilm.rs" tvg-name="RS: Pink Film" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Film
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/469
-#EXTINF:-1 tvg-id="pinkfolk1.rs" tvg-name="RS: Pink Folk 1" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Folk 1
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7906
-#EXTINF:-1 tvg-id="pinkfolk2.rs" tvg-name="RS: Pink Folk 2" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Folk 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7907
-#EXTINF:-1 tvg-id="pinkhaha.rs" tvg-name="RS: Pink HAHA" tvg-logo="" group-title="Live: EX-Yu",RS: Pink HAHA
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/38352
-#EXTINF:-1 tvg-id="pinkhits.rs" tvg-name="RS: Pink Hits" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Hits
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42238
-#EXTINF:-1 tvg-id="pinkhits2.rs" tvg-name="RS: Pink Hits 2" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Hits 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/38356
-#EXTINF:-1 tvg-id="pinkhorror.rs" tvg-name="RS: Pink Horror" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Horror
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/467
-#EXTINF:-1 tvg-id="pinkkids.rs" tvg-name="RS: Pink Kids" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Kids
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7909
-#EXTINF:-1 tvg-id="pinkkoncert.rs" tvg-name="RS: Pink Koncert" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Koncert
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/38355
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Pink Kuvar" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Kuvar
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7913
-#EXTINF:-1 tvg-id="pinklol.rs" tvg-name="RS: Pink LOL" tvg-logo="" group-title="Live: EX-Yu",RS: Pink LOL
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/38353
-#EXTINF:-1 tvg-id="pinkmovies.rs" tvg-name="RS: Pink Movies" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Movies
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7910
-#EXTINF:-1 tvg-id="pinkmusic.rs" tvg-name="RS: Pink Music" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Music
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7905
-#EXTINF:-1 tvg-id="pinkmusic2.rs" tvg-name="RS: Pink Music 2" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Music 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42240
-#EXTINF:-1 tvg-id="pinkpedia.rs" tvg-name="RS: Pink Pedia" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Pedia
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/466
-#EXTINF:-1 tvg-id="pinkplus.rs" tvg-name="RS: Pink Plus" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Plus
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7908
-#EXTINF:-1 tvg-id="pinkpremium.rs" tvg-name="RS: Pink Premium" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Premium
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/464
-#EXTINF:-1 tvg-id="pinkreality.rs" tvg-name="RS: Pink Reality" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Reality
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/463
-#EXTINF:-1 tvg-id="pinkromance.rs" tvg-name="RS: Pink Romance" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Romance
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/462
-#EXTINF:-1 tvg-id="pinkandroll.rs" tvg-name="RS: Pink & Roll" tvg-logo="" group-title="Live: EX-Yu",RS: Pink & Roll
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/42237
-#EXTINF:-1 tvg-id="pinkscifiandfantasy.rs" tvg-name="RS: Pink Sci-FI & Fantasy" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Sci-FI & Fantasy
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7912
-#EXTINF:-1 tvg-id="pinkserije.rs" tvg-name="RS: Pink Serije" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Serije
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7506
-#EXTINF:-1 tvg-id="pinkshow.rs" tvg-name="RS: Pink Show" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Show
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/35700
-#EXTINF:-1 tvg-id="pinksoap.rs" tvg-name="RS: Pink Soap" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Soap
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/461
-#EXTINF:-1 tvg-id="pinkstyle.rs" tvg-name="RS: Pink Style" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Style
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/38354
-#EXTINF:-1 tvg-id="pinkthriller.rs" tvg-name="RS: Pink Thriller" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Thriller
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/460
-#EXTINF:-1 tvg-id="pinkwestern.rs" tvg-name="RS: Pink Western" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Western
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/459
-#EXTINF:-1 tvg-id="pinkworld.rs" tvg-name="RS: Pink World" tvg-logo="" group-title="Live: EX-Yu",RS: Pink World
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/458
-#EXTINF:-1 tvg-id="pinkworldcinema.rs" tvg-name="RS: Pink World Cinema" tvg-logo="" group-title="Live: EX-Yu",RS: Pink World Cinema
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7915
-#EXTINF:-1 tvg-id="pinkzabava.rs" tvg-name="RS: Pink Zabava" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Zabava
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/457
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: Roma TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Roma TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23619
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: RTL Kockica" tvg-logo="[" group-title="Live: EX-Yu",RS: RTL Kockica
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13554
-#EXTINF:-1 tvg-id="rtrs.ba" tvg-name="RS: RTRS" tvg-logo="" group-title="Live: EX-Yu",RS: RTRS
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7030
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: RTS Drama" tvg-logo="[" group-title="Live: EX-Yu",RS: RTS Drama
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23627
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: RTS Muzika" tvg-logo="[" group-title="Live: EX-Yu",RS: RTS Muzika
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23626
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: RTS Svet" tvg-logo="" group-title="Live: EX-Yu",RS: RTS Svet
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23636
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: RTS Trezor" tvg-logo="[" group-title="Live: EX-Yu",RS: RTS Trezor
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23625
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: RTS Zivot" tvg-logo="" group-title="Live: EX-Yu",RS: RTS Zivot
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23624
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: RTV SLON" tvg-logo="[" group-title="Live: EX-Yu",RS: RTV SLON
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23604
-#EXTINF:-1 tvg-id="sportklub4k.rs" tvg-name="RS: SK HD" tvg-logo="[" group-title="Live: EX-Yu",RS: SK HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7033
-#EXTINF:-1 tvg-id="sos.rs" tvg-name="RS: SOS Kanal" tvg-logo="" group-title="Live: EX-Yu",RS: SOS Kanal
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7028
-#EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="RS: Arena Sport 1 HD" tvg-logo="" group-title="Live: EX-Yu",RS: Arena Sport 1 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2504
-#EXTINF:-1 tvg-id="arenasport2.rs" tvg-name="RS: Arena Sport 2 HD" tvg-logo="" group-title="Live: EX-Yu",RS: Arena Sport 2 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2502
-#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="RS: Arena Sport 3 HD" tvg-logo="" group-title="Live: EX-Yu",RS: Arena Sport 3 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2500
-#EXTINF:-1 tvg-id="arenasport4.rs" tvg-name="RS: Arena Sport 4 HD" tvg-logo="" group-title="Live: EX-Yu",RS: Arena Sport 4 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/2498
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Arena Sport 5 HD" tvg-logo="" group-title="Live: EX-Yu",RS: Arena Sport 5 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13590
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: SPORT KLUB 1 HD" tvg-logo="[]" group-title="Live: EX-Yu",RS: SPORT KLUB 1 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7735
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: SPORT KLUB 2 HD" tvg-logo="[" group-title="Live: EX-Yu",RS: SPORT KLUB 2 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7734
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: SPORT KLUB 3 HD" tvg-logo="" group-title="Live: EX-Yu",RS: SPORT KLUB 3 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7733
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: SPORT KLUB 4 HD" tvg-logo="[" group-title="Live: EX-Yu",RS: SPORT KLUB 4 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23610
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: SPORT KLUB 5 HD" tvg-logo="" group-title="Live: EX-Yu",RS: SPORT KLUB 5 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23609
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: SPORT KLUB 6 HD" tvg-logo="[" group-title="Live: EX-Yu",RS: SPORT KLUB 6 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23608
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: SPORT KLUB Golf" tvg-logo="[" group-title="Live: EX-Yu",RS: SPORT KLUB Golf
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23607
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: Eurosport 1" tvg-logo="" group-title="Live: EX-Yu",RS: Eurosport 1
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23612
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Eurosport 2" tvg-logo="" group-title="Live: EX-Yu",RS: Eurosport 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23611
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: Sportska TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Sportska TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13588
-#EXTINF:-1 tvg-id="loviribolov.rs" tvg-name="RS: Lov and Ribolov" tvg-logo="" group-title="Live: EX-Yu",RS: Lov and Ribolov
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7035
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Nautical TV" tvg-logo="" group-title="Live: EX-Yu",RS: Nautical TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23622
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: STUDIO B" tvg-logo="[" group-title="Live: EX-Yu",RS: STUDIO B
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23595
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: SuperKids" tvg-logo="[" group-title="Live: EX-Yu",RS: SuperKids
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13552
-#EXTINF:-1 tvg-id="rtrsplus.ba" tvg-name="RS: RTRS Plus" tvg-logo="[" group-title="Live: EX-Yu",RS: RTRS Plus
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13575
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: TLC  Discovery" tvg-logo="[" group-title="Live: EX-Yu",RS: TLC  Discovery
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13533
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: Top Sound" tvg-logo="[" group-title="Live: EX-Yu",RS: Top Sound
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23618
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: TOP TV" tvg-logo="[" group-title="Live: EX-Yu",RS: TOP TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23598
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Travel Channel" tvg-logo="[" group-title="Live: EX-Yu",RS: Travel Channel
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13538
-#EXTINF:-1 tvg-id="domatv.hr" tvg-name="RS: TV Doma" tvg-logo="" group-title="Live: EX-Yu",RS: TV Doma
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7026
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: TV Hram" tvg-logo="[" group-title="Live: EX-Yu",RS: TV Hram
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23615
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Ultra" tvg-logo="[" group-title="Live: EX-Yu",RS: Ultra
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13550
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: USK BH" tvg-logo="" group-title="Live: EX-Yu",RS: USK BH
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7042
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: Vavoom" tvg-logo="[" group-title="Live: EX-Yu",RS: Vavoom
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23600
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: Viasat History" tvg-logo="[" group-title="Live: EX-Yu",RS: Viasat History
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13539
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: VIASAT Nature" tvg-logo="[" group-title="Live: EX-Yu",RS: VIASAT Nature
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13540
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: Viassat Explorer" tvg-logo="[" group-title="Live: EX-Yu",RS: Viassat Explorer
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13536
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: RED TV" tvg-logo="" group-title="Live: EX-Yu",RS: RED TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23617
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: 24 Kitchen" tvg-logo="" group-title="Live: EX-Yu",RS: 24 Kitchen
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7904
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: A TV" tvg-logo="[" group-title="Live: EX-Yu",RS: A TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7044
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Istra TV" tvg-logo="" group-title="Live: EX-Yu",RS: Istra TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13555
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: TV Kladovo" tvg-logo="" group-title="Live: EX-Yu",RS: TV Kladovo
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23616
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: TV Sarajevo" tvg-logo="" group-title="Live: EX-Yu",RS: TV Sarajevo
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7892
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Banovina TV" tvg-logo="" group-title="Live: EX-Yu",RS: Banovina TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7898
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: RTV VISOKO" tvg-logo="[" group-title="Live: EX-Yu",RS: RTV VISOKO
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23620
-#EXTINF:-1 tvg-id="rtvnovipazar.rs" tvg-name="RS: RTV Novi Pazar" tvg-logo="" group-title="Live: EX-Yu",RS: RTV Novi Pazar
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/7029
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: RTV Vojvodina 1" tvg-logo="[" group-title="Live: EX-Yu",RS: RTV Vojvodina 1
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23632
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: RTV Vojvodina 2" tvg-logo="[" group-title="Live: EX-Yu",RS: RTV Vojvodina 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23631
-#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Yu Planet TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Yu Planet TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/23601
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: SPORT TV 1 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORT TV 1 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9298
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: SPORT TV 2 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORT TV 2 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9297
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: SPORT TV 3 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORT TV 3 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9296
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: SPORTKLUB 1" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB 1
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9295
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: SPORTKLUB 2" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9294
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: SPORTKLUB 3" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB 3
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9293
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: SPORTKLUB 4" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB 4
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9299
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: SPORTKLUB 5" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB 5
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9290
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: SPORTKLUB 6" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB 6
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9289
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: SPORTKLUB GOLF" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB GOLF
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/19309
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: SLO 1 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SLO 1 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9314
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: SLO 2 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SLO 2 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9313
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: SLO 3" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SLO 3
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9287
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: TV3 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: TV3 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/19198
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: POP TV HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: POP TV HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9312
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: POP BRIO HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: POP BRIO HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9310
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: POP KINO HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: POP KINO HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9311
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: POP OTO HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: POP OTO HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9309
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: KANAL A HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: KANAL A HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9308
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: PLANET TV HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: PLANET TV HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9307
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: PLANET 2 TV" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: PLANET 2 TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9286
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: PLANET PLUS HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: PLANET PLUS HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32889
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: AMC HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: AMC HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32846
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: ANIMAL PLANET HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: ANIMAL PLANET HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32868
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: ARCADIA WORLD HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: ARCADIA WORLD HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32865
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: AXN" tvg-logo="" group-title="Live: Slovenia",VIP SLO: AXN
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32877
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: BABY TV" tvg-logo="" group-title="Live: Slovenia",VIP SLO: BABY TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32885
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: BBC EARTH HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: BBC EARTH HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32867
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: BK TV" tvg-logo="" group-title="Live: Slovenia",VIP SLO: BK TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32879
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: TZRIC TV" tvg-logo="" group-title="Live: Slovenia",VIP SLO: TZRIC TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32874
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: CINESTAR ACTION HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: CINESTAR ACTION HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32845
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: CINESTAR FANTASY HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: CINESTAR FANTASY HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32844
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: CINESTAR PREMIERE 1 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: CINESTAR PREMIERE 1 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32842
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: CINESTAR PREMIERE 2 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: CINESTAR PREMIERE 2 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32843
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: DA VINCI LEARING" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DA VINCI LEARING
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32873
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: DISCOVERY CHANNEL" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: DISCOVERY CHANNEL
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9278
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: DISCOVERY ID HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DISCOVERY ID HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32858
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: DISCOVERY SCIENCE HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DISCOVERY SCIENCE HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32857
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: DISCOVERY SHOWCASE HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DISCOVERY SHOWCASE HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32856
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: DISCOVERY TURBO XTRA HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DISCOVERY TURBO XTRA HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32855
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: DISNEY JUNIOR HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DISNEY JUNIOR HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32888
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: DISNEY XD HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DISNEY XD HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32887
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: DIVA" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: DIVA
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/19197
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: EPIC DRAMA HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: EPIC DRAMA HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32847
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: EUROSPORT 1 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: EUROSPORT 1 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32850
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: EUROSPORT 2 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: EUROSPORT 2 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32851
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: FASHION HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: FASHION HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32872
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: FIGHT NETWORK HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: FIGHT NETWORK HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32854
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: FOX Crime" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: FOX Crime
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/19196
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: FOX HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: FOX HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32848
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: FOX LIFE HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: FOX LIFE HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32849
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: FOX Movies" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: FOX Movies
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9292
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: GOLD TV" tvg-logo="" group-title="Live: Slovenia",VIP SLO: GOLD TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32878
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: GTV" tvg-logo="" group-title="Live: Slovenia",VIP SLO: GTV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32882
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: HBO" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: HBO
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9291
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: HBO 2 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: HBO 2 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32840
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: HBO 3 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: HBO 3 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32841
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: HISTORY CHANNEL 2 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: HISTORY CHANNEL 2 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32862
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: HISTORY CHANNEL HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: HISTORY CHANNEL HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32861
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: JIM JAM" tvg-logo="" group-title="Live: Slovenia",VIP SLO: JIM JAM
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32886
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: MINIMAX" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: MINIMAX
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9300
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: MMC HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: MMC HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32881
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: NATIONAL GEOGRAPHIC HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32859
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: NATIONAL GEOGRAPHIC WILD HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32860
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: NICKELODEON" tvg-logo="" group-title="Live: Slovenia",VIP SLO: NICKELODEON
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32884
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: NOVA 24 TV" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: NOVA 24 TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9284
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: PETELIN" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: PETELIN
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9288
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: PLANET EARTH HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: PLANET EARTH HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32866
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: RED BULL HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: RED BULL HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32852
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: 2.NOVA 24 TV" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: 2.NOVA 24 TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/9283
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: TRAVEL CHANNEL HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: TRAVEL CHANNEL HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32863
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: TRAVEL XP HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: TRAVEL XP HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32864
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: TV 1000" tvg-logo="" group-title="Live: Slovenia",VIP SLO: TV 1000
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32875
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: TV MARIBOR" tvg-logo="" group-title="Live: Slovenia",VIP SLO: TV MARIBOR
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32880
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: UFC FIGHT PASS HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: UFC FIGHT PASS HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32853
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: VESELJAK TV" tvg-logo="" group-title="Live: Slovenia",VIP SLO: VESELJAK TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32883
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: VIASAT EXPLORE" tvg-logo="" group-title="Live: Slovenia",VIP SLO: VIASAT EXPLORE
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32870
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: VIASAT HISTORY" tvg-logo="" group-title="Live: Slovenia",VIP SLO: VIASAT HISTORY
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32869
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP SLO: VIASAT NATURE" tvg-logo="" group-title="Live: Slovenia",VIP SLO: VIASAT NATURE
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32871
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP SLO: VOYO" tvg-logo="" group-title="Live: Slovenia",VIP SLO: VOYO
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/32876
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: BNT 1" tvg-logo="" group-title="Live: Bulgaria",BG: BNT 1
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3284
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: BNT 2" tvg-logo="" group-title="Live: Bulgaria",BG: BNT 2
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3263
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: BNT 3" tvg-logo="" group-title="Live: Bulgaria",BG: BNT 3
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3283
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: BNT 4" tvg-logo="" group-title="Live: Bulgaria",BG: BNT 4
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/19595
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: bTV HD" tvg-logo="" group-title="Live: Bulgaria",BG: bTV HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3282
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: bTV Comedy" tvg-logo="" group-title="Live: Bulgaria",BG: bTV Comedy
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3256
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: bTV Cinema" tvg-logo="" group-title="Live: Bulgaria",BG: bTV Cinema
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3268
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: bTV Action HD" tvg-logo="" group-title="Live: Bulgaria",BG: bTV Action HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3269
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: bTV Lady" tvg-logo="" group-title="Live: Bulgaria",BG: bTV Lady
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3255
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Max Sport 1 HD" tvg-logo="" group-title="Live: Bulgaria",BG: Max Sport 1 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/14936
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Max Sport 2 HD" tvg-logo="" group-title="Live: Bulgaria",BG: Max Sport 2 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/14937
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Max Sport 3 HD" tvg-logo="" group-title="Live: Bulgaria",BG: Max Sport 3 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/20341
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Max Sport 4 HD" tvg-logo="" group-title="Live: Bulgaria",BG: Max Sport 4 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26353
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Diema TV" tvg-logo="" group-title="Live: Bulgaria",BG: Diema TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3279
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Diema Sport FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Diema Sport FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/40770
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Diema Sport HD" tvg-logo="" group-title="Live: Bulgaria",BG: Diema Sport HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3281
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Diema Sport 2 FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Diema Sport 2 FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/40769
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Diema Sport 2 HD" tvg-logo="" group-title="Live: Bulgaria",BG: Diema Sport 2 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3280
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Diema Family" tvg-logo="" group-title="Live: Bulgaria",BG: Diema Family
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3254
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: 100 Automoto TV" tvg-logo="" group-title="Live: Bulgaria",BG: 100 Automoto TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26502
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: 24 Kitchen FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: 24 Kitchen FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26533
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: 24 Kitchen HD" tvg-logo="" group-title="Live: Bulgaria",BG: 24 Kitchen HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26546
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: 78 TV" tvg-logo="" group-title="Live: Bulgaria",BG: 78 TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3261
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Action Plus HD" tvg-logo="" group-title="Live: Bulgaria",BG: Action Plus HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3285
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Agro TV" tvg-logo="" group-title="Live: Bulgaria",BG: Agro TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/51838
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Alfa TV" tvg-logo="" group-title="Live: Bulgaria",BG: Alfa TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3260
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: AMC" tvg-logo="" group-title="Live: Bulgaria",BG: AMC
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26501
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Animal Planet FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Animal Planet FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26532
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Auto Motor Sport HD" tvg-logo="" group-title="Live: Bulgaria",BG: Auto Motor Sport HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/41914
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: AXN HD" tvg-logo="" group-title="Live: Bulgaria",BG: AXN HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26535
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Baby TV" tvg-logo="" group-title="Live: Bulgaria",BG: Baby TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26545
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Balkanika Music TV HD" tvg-logo="" group-title="Live: Bulgaria",BG: Balkanika Music TV HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3259
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: BG Music HD" tvg-logo="" group-title="Live: Bulgaria",BG: BG Music HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3258
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: BG-DNES FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: BG-DNES FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26531
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: BH TV" tvg-logo="" group-title="Live: Bulgaria",BG: BH TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/51839
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Bloomberg" tvg-logo="" group-title="Live: Bulgaria",BG: Bloomberg
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/27879
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: BNP TV" tvg-logo="" group-title="Live: Bulgaria",BG: BNP TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/51840
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Box TV" tvg-logo="" group-title="Live: Bulgaria",BG: Box TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3257
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: BSTV" tvg-logo="" group-title="Live: Bulgaria",BG: BSTV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/31269
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Bulgaria 24" tvg-logo="" group-title="Live: Bulgaria",BG: Bulgaria 24
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26544
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Bulgaria On Air" tvg-logo="" group-title="Live: Bulgaria",BG: Bulgaria On Air
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3265
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Cartoon Network" tvg-logo="" group-title="Live: Bulgaria",BG: Cartoon Network
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26543
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: CBS Reality" tvg-logo="" group-title="Live: Bulgaria",BG: CBS Reality
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/51842
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Sportal.bg" tvg-logo="" group-title="Live: Bulgaria",BG: Sportal.bg
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26498
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Cherno More" tvg-logo="" group-title="Live: Bulgaria",BG: Cherno More
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26529
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: CI" tvg-logo="" group-title="Live: Bulgaria",BG: CI
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/51841
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Cinema Plus" tvg-logo="" group-title="Live: Bulgaria",BG: Cinema Plus
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3267
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: CineMax 1 FHD" tvg-logo="" group-title="Live: Bulgaria",BG: CineMax 1 FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/17948
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: CineMax 2 FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: CineMax 2 FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/17949
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: City TV" tvg-logo="" group-title="Live: Bulgaria",BG: City TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/19596
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Comedy Plus" tvg-logo="" group-title="Live: Bulgaria",BG: Comedy Plus
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3266
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Da Vinci Learning" tvg-logo="" group-title="Live: Bulgaria",BG: Da Vinci Learning
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/51843
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: DESTINATIONS" tvg-logo="" group-title="Live: Bulgaria",BG: DESTINATIONS
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26500
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Discovery Channel FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Discovery Channel FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26528
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Discovery Science FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Discovery Science FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26527
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Disney HD" tvg-logo="" group-title="Live: Bulgaria",BG: Disney HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26534
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Vivacom Arena FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Vivacom Arena FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/51844
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Djazz HD" tvg-logo="" group-title="Live: Bulgaria",BG: Djazz HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3252
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: DSTV" tvg-logo="" group-title="Live: Bulgaria",BG: DSTV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26542
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Duck TV" tvg-logo="[" group-title="Live: Bulgaria",BG: Duck TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26541
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Ekids" tvg-logo="" group-title="Live: Bulgaria",BG: Ekids
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/19597
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Eurosport 1 FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Eurosport 1 FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26526
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Eurosport 2 FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Eurosport 2 FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26525
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Evrokom" tvg-logo="" group-title="Live: Bulgaria",BG: Evrokom
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/19598
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: F Plus" tvg-logo="" group-title="Live: Bulgaria",BG: F Plus
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3278
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Fen TV HD" tvg-logo="" group-title="Live: Bulgaria",BG: Fen TV HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3253
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: FightBox FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: FightBox FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26524
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: FilmBox Extra HD" tvg-logo="" group-title="Live: Bulgaria",BG: FilmBox Extra HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3251
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Fine Living" tvg-logo="" group-title="Live: Bulgaria",BG: Fine Living
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/51845
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Folklor TV" tvg-logo="" group-title="Live: Bulgaria",BG: Folklor TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26549
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Food Network FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Food Network FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26523
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Fox Crime FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Fox Crime FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26522
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: FOX FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: FOX FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26521
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Fox Life FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Fox Life FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26520
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: HBO 2 HD" tvg-logo="" group-title="Live: Bulgaria",BG: HBO 2 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/17399
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: HBO 3 HD" tvg-logo="[" group-title="Live: Bulgaria",BG: HBO 3 HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/17400
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: HBO HD" tvg-logo="" group-title="Live: Bulgaria",BG: HBO HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/17401
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: History Channel FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: History Channel FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26519
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Hit Mix Channel" tvg-logo="" group-title="Live: Bulgaria",BG: Hit Mix Channel
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26540
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Hobby Lov" tvg-logo="" group-title="Live: Bulgaria",BG: Hobby Lov
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3264
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Hobby TV HD" tvg-logo="" group-title="Live: Bulgaria",BG: Hobby TV HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3277
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: iConcerts HD" tvg-logo="" group-title="Live: Bulgaria",BG: iConcerts HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26497
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: ID Xtra FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: ID Xtra FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26518
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Jim Jam" tvg-logo="" group-title="Live: Bulgaria",BG: Jim Jam
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26504
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Kanal 3" tvg-logo="" group-title="Live: Bulgaria",BG: Kanal 3
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3250
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: KHL FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: KHL FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26536
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: KinoNova" tvg-logo="" group-title="Live: Bulgaria",BG: KinoNova
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3276
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Light Channel" tvg-logo="" group-title="Live: Bulgaria",BG: Light Channel
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/51837
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Light FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Light FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26517
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: MagicTV" tvg-logo="" group-title="Live: Bulgaria",BG: MagicTV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3262
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Moviestar" tvg-logo="" group-title="Live: Bulgaria",BG: Moviestar
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/51846
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: MTV" tvg-logo="" group-title="Live: Bulgaria",BG: MTV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26496
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Nat Geo FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Nat Geo FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26516
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Nat Geo Wild FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Nat Geo Wild FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26515
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Nick JR" tvg-logo="" group-title="Live: Bulgaria",BG: Nick JR
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/51828
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Nickelodeon" tvg-logo="" group-title="Live: Bulgaria",BG: Nickelodeon
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26539
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Nova Sport FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Nova Sport FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26514
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Nova Sport HD" tvg-logo="" group-title="Live: Bulgaria",BG: Nova Sport HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3247
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: NOVA TV" tvg-logo="" group-title="Live: Bulgaria",BG: NOVA TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3275
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Planeta Folk TV" tvg-logo="[" group-title="Live: Bulgaria",BG: Planeta Folk TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26538
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Planeta HD" tvg-logo="" group-title="Live: Bulgaria",BG: Planeta HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3274
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Retro Music TV" tvg-logo="" group-title="Live: Bulgaria",BG: Retro Music TV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/13842
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: RING BG HD" tvg-logo="" group-title="Live: Bulgaria",BG: RING BG HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3246
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: RING.BG FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: RING.BG FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26513
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: RodinaTV" tvg-logo="" group-title="Live: Bulgaria",BG: RodinaTV
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/51847
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Skat" tvg-logo="" group-title="Live: Bulgaria",BG: Skat
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3270
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: SPORT Plus HD" tvg-logo="" group-title="Live: Bulgaria",BG: SPORT Plus HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3273
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Sport+ FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Sport+ FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26512
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: SPORTAL.BG HD" tvg-logo="" group-title="Live: Bulgaria",BG: SPORTAL.BG HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26503
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: SunriseMusic" tvg-logo="" group-title="Live: Bulgaria",BG: SunriseMusic
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/51848
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: The Voice" tvg-logo="" group-title="Live: Bulgaria",BG: The Voice
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3272
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Tiankov Folk" tvg-logo="" group-title="Live: Bulgaria",BG: Tiankov Folk
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26548
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Tiankov Orient Folk" tvg-logo="" group-title="Live: Bulgaria",BG: Tiankov Orient Folk
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/51849
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: TLC" tvg-logo="" group-title="Live: Bulgaria",BG: TLC
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/17946
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Trace Sport Stars HD" tvg-logo="" group-title="Live: Bulgaria",BG: Trace Sport Stars HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26547
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Travel Channel FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Travel Channel FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26511
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Travel HD" tvg-logo="" group-title="Live: Bulgaria",BG: Travel HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3248
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Travel TV FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Travel TV FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26510
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: TV 1000" tvg-logo="" group-title="Live: Bulgaria",BG: TV 1000
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/17947
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: TV EUROPE" tvg-logo="" group-title="Live: Bulgaria",BG: TV EUROPE
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26499
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: TV Plus" tvg-logo="" group-title="Live: Bulgaria",BG: TV Plus
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3271
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: TV1 FHD" tvg-logo="" group-title="Live: Bulgaria",BG: TV1 FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26509
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: TVT" tvg-logo="" group-title="Live: Bulgaria",BG: TVT
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/51850
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Viasat History FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Viasat History FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26508
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: Viasat Nature & History HD" tvg-logo="[" group-title="Live: Bulgaria",BG: Viasat Nature & History HD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/3249
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: VTK" tvg-logo="" group-title="Live: Bulgaria",BG: VTK
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26537
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Wild TV FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Wild TV FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26507
-#EXTINF:-1 tvg-id="NULL" tvg-name="BG: WnessTV FHD" tvg-logo="" group-title="Live: Bulgaria",BG: WnessTV FHD
-http://clientportal-worldiptv.club:8080/Makedonski1/wz0Z2DBra9/26506
+#EXTINF:-1 tvg-id="" tvg-name="------|Yugoslavia|------" tvg-logo="" group-title="Yugoslavia A1",------|Yugoslavia|------
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX YU: CINEMAX 1" tvg-logo="" group-title="(no group)",EX YU: CINEMAX 1
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1975
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX YU: CINEMAX-2" tvg-logo="" group-title="(no group)",EX YU: CINEMAX-2
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1976
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX YU: DOMA-TV" tvg-logo="" group-title="(no group)",EX YU: DOMA-TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1977
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX YU: HBO 3" tvg-logo="" group-title="(no group)",EX YU: HBO 3
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1978
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX YU: HISTORY CHANNEL" tvg-logo="" group-title="(no group)",EX YU: HISTORY CHANNEL
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1979
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX YU: HRT 2" tvg-logo="" group-title="(no group)",EX YU: HRT 2
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1980
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX YU: RTL 2" tvg-logo="" group-title="(no group)",EX YU: RTL 2
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1981
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX YU: NOVA TV HR" tvg-logo="" group-title="(no group)",EX YU: NOVA TV HR
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1982
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX YU: Happy tv" tvg-logo="" group-title="(no group)",EX YU: Happy tv
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1983
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX YU: HRT 4" tvg-logo="" group-title="(no group)",EX YU: HRT 4
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1984
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: BHT" tvg-logo="" group-title="(no group)",EX-YU: BHT
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1986
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX YU: HBO 2" tvg-logo="" group-title="(no group)",EX YU: HBO 2
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1985
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: ANIMAL PLANET" tvg-logo="" group-title="(no group)",EX-YU: ANIMAL PLANET
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1987
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: PINK 3(1)" tvg-logo="" group-title="(no group)",EX-YU: PINK 3(1)
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1988
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX YU: HBO Adria" tvg-logo="" group-title="(no group)",EX YU: HBO Adria
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1989
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Cinestar Premier 2" tvg-logo="" group-title="(no group)",EX-YU: Cinestar Premier 2
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1990
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Cinestar Premiere 1" tvg-logo="" group-title="(no group)",EX-YU: Cinestar Premiere 1
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1991
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: BN SAT" tvg-logo="" group-title="(no group)",EX-YU: BN SAT
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1992
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: BN" tvg-logo="" group-title="(no group)",EX-YU: BN
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1993
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX YU: HRT 3" tvg-logo="" group-title="(no group)",EX YU: HRT 3
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1994
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Eurosport 1" tvg-logo="" group-title="(no group)",EX-YU: Eurosport 1
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1995
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Eurosport 2" tvg-logo="" group-title="(no group)",EX-YU: Eurosport 2
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1996
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: FOX" tvg-logo="" group-title="(no group)",EX-YU: FOX
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1997
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: FACE TV" tvg-logo="" group-title="(no group)",EX-YU: FACE TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1998
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Discovery" tvg-logo="" group-title="(no group)",EX-YU: Discovery
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1999
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX YU: RTL" tvg-logo="" group-title="(no group)",EX YU: RTL
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: FilmBox Extra" tvg-logo="" group-title="(no group)",EX-YU: FilmBox Extra
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2001
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Fightbox" tvg-logo="" group-title="(no group)",EX-YU: Fightbox
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2002
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Fox Crime" tvg-logo="" group-title="(no group)",EX-YU: Fox Crime
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2003
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Fox Life" tvg-logo="" group-title="(no group)",EX-YU: Fox Life
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2004
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Federalna TV" tvg-logo="" group-title="(no group)",EX-YU: Federalna TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2005
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Al Jazeera Balkan" tvg-logo="" group-title="(no group)",EX-YU: Al Jazeera Balkan
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2006
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: GRAND TV" tvg-logo="" group-title="(no group)",EX-YU: GRAND TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2007
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: HAYAT" tvg-logo="" group-title="(no group)",EX-YU: HAYAT
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2008
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: HAYAT FOLK" tvg-logo="" group-title="(no group)",EX-YU: HAYAT FOLK
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2009
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: HAYAT PLUS" tvg-logo="" group-title="(no group)",EX-YU: HAYAT PLUS
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2010
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Fox Movies" tvg-logo="" group-title="(no group)",EX-YU: Fox Movies
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2011
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: BHT 1 HD" tvg-logo="" group-title="(no group)",EX-YU: BHT 1 HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2012
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: KCN 1" tvg-logo="" group-title="(no group)",EX-YU: KCN 1
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2013
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: KCN 2" tvg-logo="" group-title="(no group)",EX-YU: KCN 2
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2014
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: KCN 3" tvg-logo="" group-title="(no group)",EX-YU: KCN 3
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2015
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: HRT 1" tvg-logo="" group-title="(no group)",EX-YU: HRT 1
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2016
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: LOV I RIBOLOV" tvg-logo="" group-title="(no group)",EX-YU: LOV I RIBOLOV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2018
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: BN Music" tvg-logo="" group-title="(no group)",EX-YU: BN Music
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2017
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: MGM" tvg-logo="" group-title="(no group)",EX-YU: MGM
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2019
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: KLASIK TV" tvg-logo="" group-title="(no group)",EX-YU: KLASIK TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2020
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Cinestar Action" tvg-logo="" group-title="(no group)",EX-YU: Cinestar Action
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2021
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: MTV Adria" tvg-logo="" group-title="(no group)",EX-YU: MTV Adria
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2022
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: MRT 2" tvg-logo="" group-title="(no group)",EX-YU: MRT 2
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2023
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Nat Geo Wild" tvg-logo="" group-title="(no group)",EX-YU: Nat Geo Wild
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2089
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: N1 Bosna" tvg-logo="" group-title="(no group)",EX-YU: N1 Bosna
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2088
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: SPORTKLUB 6 SD" tvg-logo="" group-title="(no group)",EX-YU: SPORTKLUB 6 SD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2087
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: SPORTKLUB 5 SD" tvg-logo="" group-title="(no group)",EX-YU: SPORTKLUB 5 SD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2086
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: SPORTKLUB 4 SD" tvg-logo="" group-title="(no group)",EX-YU: SPORTKLUB 4 SD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2085
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Sport Klub 3" tvg-logo="" group-title="(no group)",EX-YU: Sport Klub 3
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2084
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: MRTV 3 MK" tvg-logo="" group-title="(no group)",EX-YU: MRTV 3 MK
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2024
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: CMC" tvg-logo="" group-title="(no group)",EX-YU: CMC
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2026
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: MRT 1 (local)" tvg-logo="" group-title="(no group)",EX-YU: MRT 1 (local)
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2025
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Mini TV HR" tvg-logo="" group-title="(no group)",EX-YU: Mini TV HR
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2027
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Mini TV" tvg-logo="" group-title="(no group)",EX-YU: Mini TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2028
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: MTV Igman" tvg-logo="" group-title="(no group)",EX-YU: MTV Igman
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2029
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: DM Sat" tvg-logo="" group-title="(no group)",EX-YU: DM Sat
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2030
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Sportska TV" tvg-logo="" group-title="(no group)",EX-YU: Sportska TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2031
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: National Geographic" tvg-logo="" group-title="(no group)",EX-YU: National Geographic
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2032
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Nickelodeon" tvg-logo="" group-title="(no group)",EX-YU: Nickelodeon
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2033
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: NOVA RS pub" tvg-logo="" group-title="(no group)",EX-YU: NOVA RS pub
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2034
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: NOVA TV HR" tvg-logo="" group-title="(no group)",EX-YU: NOVA TV HR
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2035
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: OBN" tvg-logo="" group-title="(no group)",EX-YU: OBN
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2036
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink & Roll" tvg-logo="" group-title="(no group)",EX-YU: Pink & Roll
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2037
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink 1" tvg-logo="" group-title="(no group)",EX-YU: Pink 1
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2038
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink 2" tvg-logo="" group-title="(no group)",EX-YU: Pink 2
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2039
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: PINK 3" tvg-logo="" group-title="(no group)",EX-YU: PINK 3
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2040
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Action" tvg-logo="" group-title="(no group)",EX-YU: Pink Action
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2041
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink BH" tvg-logo="" group-title="(no group)",EX-YU: Pink BH
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2042
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Comedy" tvg-logo="" group-title="(no group)",EX-YU: Pink Comedy
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2043
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Crime  & Mistery" tvg-logo="" group-title="(no group)",EX-YU: Pink Crime  & Mistery
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2044
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Crime & Mystery" tvg-logo="" group-title="(no group)",EX-YU: Pink Crime & Mystery
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2045
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Extra" tvg-logo="" group-title="(no group)",EX-YU: Pink Extra
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2046
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Film" tvg-logo="" group-title="(no group)",EX-YU: Pink Film
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2047
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Folk" tvg-logo="" group-title="(no group)",EX-YU: Pink Folk
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2048
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Folk 2" tvg-logo="" group-title="(no group)",EX-YU: Pink Folk 2
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2049
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Hits 2" tvg-logo="" group-title="(no group)",EX-YU: Pink Hits 2
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2050
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Horror" tvg-logo="" group-title="(no group)",EX-YU: Pink Horror
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2051
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Kids" tvg-logo="" group-title="(no group)",EX-YU: Pink Kids
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2052
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Koncert" tvg-logo="" group-title="(no group)",EX-YU: Pink Koncert
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2053
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Kuvar" tvg-logo="" group-title="(no group)",EX-YU: Pink Kuvar
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2054
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink M" tvg-logo="" group-title="(no group)",EX-YU: Pink M
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2055
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Movies" tvg-logo="" group-title="(no group)",EX-YU: Pink Movies
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2056
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Music" tvg-logo="" group-title="(no group)",EX-YU: Pink Music
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2057
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Music 2" tvg-logo="" group-title="(no group)",EX-YU: Pink Music 2
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2058
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Pedia" tvg-logo="" group-title="(no group)",EX-YU: Pink Pedia
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2059
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Plus" tvg-logo="" group-title="(no group)",EX-YU: Pink Plus
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2060
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Premium" tvg-logo="" group-title="(no group)",EX-YU: Pink Premium
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2061
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Reality" tvg-logo="" group-title="(no group)",EX-YU: Pink Reality
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2062
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Romance" tvg-logo="" group-title="(no group)",EX-YU: Pink Romance
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2063
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Sci-Fi & Fantasy" tvg-logo="" group-title="(no group)",EX-YU: Pink Sci-Fi & Fantasy
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2064
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Sci-Fi&Fantasy" tvg-logo="" group-title="(no group)",EX-YU: Pink Sci-Fi&Fantasy
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2065
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Serije" tvg-logo="" group-title="(no group)",EX-YU: Pink Serije
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2066
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Show" tvg-logo="" group-title="(no group)",EX-YU: Pink Show
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2067
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Soap" tvg-logo="" group-title="(no group)",EX-YU: Pink Soap
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2068
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Super Kids" tvg-logo="" group-title="(no group)",EX-YU: Pink Super Kids
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2069
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Thriller" tvg-logo="" group-title="(no group)",EX-YU: Pink Thriller
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2070
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Western" tvg-logo="" group-title="(no group)",EX-YU: Pink Western
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2071
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink World" tvg-logo="" group-title="(no group)",EX-YU: Pink World
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2072
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Pink Zabava" tvg-logo="" group-title="(no group)",EX-YU: Pink Zabava
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2073
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Prva" tvg-logo="" group-title="(no group)",EX-YU: Prva
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2074
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Prva Plus" tvg-logo="" group-title="(no group)",EX-YU: Prva Plus
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2075
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: RTS 1 (local)" tvg-logo="" group-title="(no group)",EX-YU: RTS 1 (local)
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2076
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: RTS 2 (local)" tvg-logo="" group-title="(no group)",EX-YU: RTS 2 (local)
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2077
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: RTS 3" tvg-logo="" group-title="(no group)",EX-YU: RTS 3
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2078
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: RTS HD" tvg-logo="" group-title="(no group)",EX-YU: RTS HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2079
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: RTV BANOVINA" tvg-logo="" group-title="(no group)",EX-YU: RTV BANOVINA
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2080
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: RTV Zenica" tvg-logo="" group-title="(no group)",EX-YU: RTV Zenica
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2081
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Sport Klub 1" tvg-logo="" group-title="(no group)",EX-YU: Sport Klub 1
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2082
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Sport Klub 2" tvg-logo="" group-title="(no group)",EX-YU: Sport Klub 2
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/20830/test87/wefrew32/59226
+#EXTINF:-1 tvg-id="" tvg-name="------|Yugoslavia|------" tvg-logo="" group-title="BULGARIA TV",------|Yugoslavia|------
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Discovery Channel" tvg-logo="" group-title="(no group)",BG: Discovery Channel
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5561
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Diema TV" tvg-logo="" group-title="(no group)",BG: Diema TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5560
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Diema Family" tvg-logo="" group-title="(no group)",BG: Diema Family
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5559
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Comedy Plus" tvg-logo="" group-title="(no group)",BG: Comedy Plus
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5558
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: City TV" tvg-logo="" group-title="(no group)",BG: City TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5557
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Cinema Plus" tvg-logo="" group-title="(no group)",BG: Cinema Plus
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5556
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Cherno More" tvg-logo="" group-title="(no group)",BG: Cherno More
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5555
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Cartoon Network" tvg-logo="" group-title="(no group)",BG: Cartoon Network
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5554
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Bulgaria 24" tvg-logo="" group-title="(no group)",BG: Bulgaria 24
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5552
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: BTV Lady" tvg-logo="" group-title="(no group)",BG: BTV Lady
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5551
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: BTV Comedy" tvg-logo="" group-title="(no group)",BG: BTV Comedy
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5550
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: bTV Cinema" tvg-logo="" group-title="(no group)",BG: bTV Cinema
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5549
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Bulgaria On Air" tvg-logo="" group-title="(no group)",BG: Bulgaria On Air
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5553
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Box TV" tvg-logo="" group-title="(no group)",BG: Box TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5548
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: BNT World" tvg-logo="" group-title="(no group)",BG: BNT World
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5547
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: BiT" tvg-logo="" group-title="(no group)",BG: BiT
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5546
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Balkanika Music TV HD" tvg-logo="" group-title="(no group)",BG: Balkanika Music TV HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5545
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Baby TV" tvg-logo="" group-title="(no group)",BG: Baby TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5544
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Animal Planet" tvg-logo="" group-title="(no group)",BG: Animal Planet
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5543
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Action Plus HD" tvg-logo="" group-title="(no group)",BG: Action Plus HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5542
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: 24 Kitchen HD" tvg-logo="" group-title="(no group)",BG: 24 Kitchen HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5541
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG:Nat Geo HD" tvg-logo="" group-title="(no group)",BG:Nat Geo HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5540
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG:DISNEY CHANNEL" tvg-logo="" group-title="(no group)",BG:DISNEY CHANNEL
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5539
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: AXN HD" tvg-logo="" group-title="(no group)",BG: AXN HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5538
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: VTV" tvg-logo="" group-title="(no group)",BG: VTV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5537
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: VTK" tvg-logo="" group-title="(no group)",BG: VTK
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5536
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: TV1000" tvg-logo="" group-title="(no group)",BG: TV1000
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5535
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: TV Plus" tvg-logo="" group-title="(no group)",BG: TV Plus
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5534
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: TV Evropa" tvg-logo="" group-title="(no group)",BG: TV Evropa
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5533
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Travel Channel" tvg-logo="" group-title="(no group)",BG: Travel Channel
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5532
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: TLC" tvg-logo="" group-title="(no group)",BG: TLC
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5531
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: The Voice" tvg-logo="" group-title="(no group)",BG: The Voice
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5530
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Skat" tvg-logo="" group-title="(no group)",BG: Skat
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5529
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Planeta TV" tvg-logo="" group-title="(no group)",BG: Planeta TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5528
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Nickelodeon" tvg-logo="" group-title="(no group)",BG: Nickelodeon
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5526
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: National Geographic Channel" tvg-logo="" group-title="(no group)",BG: National Geographic Channel
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5525
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Magic TV" tvg-logo="" group-title="(no group)",BG: Magic TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5524
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: KinoNova" tvg-logo="" group-title="(no group)",BG: KinoNova
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5523
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Kino Nova" tvg-logo="" group-title="(no group)",BG: Kino Nova
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5522
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Kanal 3" tvg-logo="" group-title="(no group)",BG: Kanal 3
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5521
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Jim Jam" tvg-logo="" group-title="(no group)",BG: Jim Jam
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5520
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: ID Xtra" tvg-logo="" group-title="(no group)",BG: ID Xtra
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5519
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Hobby TV" tvg-logo="" group-title="(no group)",BG: Hobby TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5518
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Hobby Lov" tvg-logo="" group-title="(no group)",BG: Hobby Lov
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5517
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Hit Mix Channel" tvg-logo="" group-title="(no group)",BG: Hit Mix Channel
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5516
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: History Channel" tvg-logo="" group-title="(no group)",BG: History Channel
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5515
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: HBO 3 HD" tvg-logo="" group-title="(no group)",BG: HBO 3 HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5514
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: FOX Life HD" tvg-logo="" group-title="(no group)",BG: FOX Life HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5513
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: FOX HD" tvg-logo="" group-title="(no group)",BG: FOX HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5512
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Fox Crime" tvg-logo="" group-title="(no group)",BG: Fox Crime
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5511
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Food Network HD" tvg-logo="" group-title="(no group)",BG: Food Network HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5510
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Film Plus" tvg-logo="" group-title="(no group)",BG: Film Plus
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5509
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Fen TV HD" tvg-logo="" group-title="(no group)",BG: Fen TV HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5508
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Fen TV" tvg-logo="" group-title="(no group)",BG: Fen TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5507
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Fen Folk TV" tvg-logo="" group-title="(no group)",BG: Fen Folk TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5506
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: BNT 1 HD" tvg-logo="" group-title="(no group)",BG: BNT 1 HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1829
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: BNT 2 HD" tvg-logo="" group-title="(no group)",BG: BNT 2 HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: CineMax 1 HD" tvg-logo="" group-title="(no group)",BG: CineMax 1 HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1831
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: CineMax 2 HD" tvg-logo="" group-title="(no group)",BG: CineMax 2 HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1832
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Diema HD" tvg-logo="" group-title="(no group)",BG: Diema HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1833
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Diema Spor 1" tvg-logo="" group-title="(no group)",BG: Diema Spor 1
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1834
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Diema Spor 2" tvg-logo="" group-title="(no group)",BG: Diema Spor 2
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1835
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Planeta Folk TV" tvg-logo="" group-title="(no group)",BG: Planeta Folk TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5527
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Evrokom" tvg-logo="" group-title="(no group)",BG: Evrokom
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5505
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: EKIDS" tvg-logo="" group-title="(no group)",BG: EKIDS
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5504
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Duck TV" tvg-logo="" group-title="(no group)",BG: Duck TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5503
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: DSTV" tvg-logo="" group-title="(no group)",BG: DSTV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5502
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Trace Sport Stars HD" tvg-logo="" group-title="(no group)",BG: Trace Sport Stars HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/4318
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Travel TV" tvg-logo="" group-title="(no group)",BG: Travel TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1855
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: EuroSport" tvg-logo="" group-title="(no group)",BG: EuroSport
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1836
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: EuroSport 2" tvg-logo="" group-title="(no group)",BG: EuroSport 2
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1837
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Destination" tvg-logo="" group-title="(no group)",BG: Destination
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1838
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: BNT HD" tvg-logo="" group-title="(no group)",BG: BNT HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1839
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Fox Tv HD 1080" tvg-logo="" group-title="(no group)",BG: Fox Tv HD 1080
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1840
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: bTV Action HD 1080" tvg-logo="" group-title="(no group)",BG: bTV Action HD 1080
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1841
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: bTV HD" tvg-logo="" group-title="(no group)",BG: bTV HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1842
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: FilmBox Extra HD" tvg-logo="" group-title="(no group)",BG: FilmBox Extra HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1857
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Folklor TV" tvg-logo="" group-title="(no group)",BG: Folklor TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1856
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Planeta" tvg-logo="" group-title="(no group)",BG: Planeta
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1854
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Nova TV" tvg-logo="" group-title="(no group)",BG: Nova TV
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1853
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Nova Sport" tvg-logo="" group-title="(no group)",BG: Nova Sport
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1852
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: NICK JR" tvg-logo="" group-title="(no group)",BG: NICK JR
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1851
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: National Geographic" tvg-logo="" group-title="(no group)",BG: National Geographic
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1850
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Nat Geo Wild HD" tvg-logo="" group-title="(no group)",BG: Nat Geo Wild HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1849
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Music Channel" tvg-logo="" group-title="(no group)",BG: Music Channel
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1848
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: HBO 3 HD 1080" tvg-logo="" group-title="(no group)",BG: HBO 3 HD 1080
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1847
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: HBO 2 HD 1080" tvg-logo="" group-title="(no group)",BG: HBO 2 HD 1080
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1846
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Planeta HD" tvg-logo="" group-title="(no group)",BG: Planeta HD
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1845
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Food Network" tvg-logo="" group-title="(no group)",BG: Food Network
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1844
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Tiankov Folk" tvg-logo="" group-title="(no group)",BG: Tiankov Folk
+http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1843
 #EXTINF:-1 tvg-id="" tvg-name="------|YUGOSLAVIA|------" tvg-logo="" group-title="YUGOSLAVIA Telekom",------|YUGOSLAVIA|------
 http://mu02.v2iptv.com:8880/test55/ewrqw4646/30826
 #EXTINF:-1,EX: HRT 1
