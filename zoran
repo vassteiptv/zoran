@@ -1,6 +1,101 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="------|YUGOSLAVIA|------" tvg-logo="" group-title="YUGOSLAVIA Telekom",------|YUGOSLAVIA|------
-http://mu02.v2iptv.com:8880/test55/ewrqw4646/30826
+#EXTINF:-1 tvg-id="" tvg-name="------|Yugoslavia|------" tvg-logo="" group-title="Yugoslavia TELEKOM",------|Yugoslavia|------
+http://meu02.cularu.com:8880/test76/rew4f6464/49326
+#EXTINF:-1,EX-YU: RTS 1 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3448
+#EXTINF:-1,EX-YU: RTS 2 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3449
+#EXTINF:-1,EX-YU: RTS 3 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3450
+#EXTINF:-1,EX-YU: RTS CBET HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/157166
+#EXTINF:-1,EX-YU: RTV 1
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/10740
+#EXTINF:-1,EX-YU: RTV 2
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/10741
+#EXTINF:-1,EX-YU: Prva CG
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/267112
+#EXTINF:-1,EX-YU: Prva Files
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/168249
+#EXTINF:-1,EX-YU: Prva HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/194270
+#EXTINF:-1,EX-YU: PRVA MAX
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/197259
+#EXTINF:-1,EX-YU: PRVA PLUS
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/197260
+#EXTINF:-1,EX-YU: Prva TV Montenegro
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/267839
+#EXTINF:-1,EX-YU: PRVA World TV
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/196353
+#EXTINF:-1,EX-YU: Nova BH
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/202102
+#EXTINF:-1,EX-YU: Nova BiH
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/194802
+#EXTINF:-1,EX-YU: NOVA HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3406
+#EXTINF:-1,EX-YU: NOVA M
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/198402
+#EXTINF:-1,EX-YU: NOVA RS
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/26816
+#EXTINF:-1,EX-YU: O2TV
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/10719
+#EXTINF:-1,EX-YU: OBN
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/192246
+#EXTINF:-1,EX-YU: BHT 1 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/64559
+#EXTINF:-1,EX-YU: BHT HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/59805
+#EXTINF:-1,EX-YU: BN 2 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/265789
+#EXTINF:-1,EX-YU: BN BIH HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/231619
+#EXTINF:-1,EX-YU: BN HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3455
+#EXTINF:-1,EX-YU: BN Sat
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/148207
+#EXTINF:-1,EX-YU: BN Televizija
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/168264
+#EXTINF:-1,EX-YU: B92
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/4133
+#EXTINF:-1,EX-YU: B92 O2 TV
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/148150
+#EXTINF:-1,EX-YU: KCN 1
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/4169
+#EXTINF:-1,EX-YU: KCN 2
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/4170
+#EXTINF:-1,EX-YU: KCN 3
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/4171
+#EXTINF:-1,EX-YU: HRT 1 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/247835
+#EXTINF:-1,EX-YU: HRT 2 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/41478
+#EXTINF:-1,EX-YU: HRT 3 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3395
+#EXTINF:-1,EX-YU: HRT 4
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/171921
+#EXTINF:-1,EX-YU: HRT INT
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/264962
+#EXTINF:-1,EX-YU: HRT international
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/16583
+#EXTINF:-1,EX-YU: RTCG 1
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/13459
+#EXTINF:-1,EX-YU: RTCG 2
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/10732
+#EXTINF:-1,EX-YU: RTCG Sat
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/10733
+#EXTINF:-1,EX-YU: RTL 1
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/38968
+#EXTINF:-1,EX-YU: RTL 2 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/171920
+#EXTINF:-1,EX-YU: RTL Adria HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/202104
+#EXTINF:-1,EX-YU: RTL Crime
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3403
+#EXTINF:-1,EX-YU: RTL HD
+#EXTINF:-1,EX-YU: Face TV HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/13437
+#EXTINF:-1,EX-YU: Federalna TV
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/10682
 #EXTINF:-1,EX-YU: 24 Kitchen
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/4126
 #EXTINF:-1,EX-YU 24 Kitchen
@@ -27,24 +122,6 @@ http://pascaltv.site:8080/magicoiptv/1ed63025640d/20166
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/58934
 #EXTINF:-1,EX-YU ANIMAL PLANET HD
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/273397
-#EXTINF:-1,EX-YU: Arena Sport 1 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3461
-#EXTINF:-1,EX-YU Arena Sport 1 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273358
-#EXTINF:-1,EX-YU: Arena Sport 2 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3462
-#EXTINF:-1,EX-YU Arena Sport 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/37207
-#EXTINF:-1,EX-YU: Arena Sport 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/264526
-#EXTINF:-1,EX-YU Arena Sport 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273416
-#EXTINF:-1,EX-YU: Arena Sport 4 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3465
-#EXTINF:-1,EX-YU: Arena Sport 5 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3464
-#EXTINF:-1,EX-YU: Arena Sport 6 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145720
 #EXTINF:-1,EX-YU: ATV HD
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/20172
 #EXTINF:-1,EX-YU: AXN
@@ -57,10 +134,6 @@ http://pascaltv.site:8080/magicoiptv/1ed63025640d/247838
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/36885
 #EXTINF:-1,EX-YU: B1
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/157167
-#EXTINF:-1,EX-YU: B92
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4133
-#EXTINF:-1,EX-YU: B92 O2 TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148150
 #EXTINF:-1,EX-YU: Baby Tv
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/13472
 #EXTINF:-1,EX-YU Baby Tv
@@ -81,24 +154,10 @@ http://pascaltv.site:8080/magicoiptv/1ed63025640d/273656
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/200420
 #EXTINF:-1,EX-YU: BBC Entertainment
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/194816
-#EXTINF:-1,EX-YU: BHT 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/64559
-#EXTINF:-1,EX-YU: BHT HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59805
-#EXTINF:-1,EX-YU: BN 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/265789
-#EXTINF:-1,EX-YU: BN BIH HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/231619
-#EXTINF:-1,EX-YU: BN HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3455
 #EXTINF:-1,EX-YU: BN Music HD
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/4137
 #EXTINF:-1,EX-YU BN Music HD
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/274735
-#EXTINF:-1,EX-YU: BN Sat
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148207
-#EXTINF:-1,EX-YU: BN Televizija
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/168264
 #EXTINF:-1,EX-YU: Bosna TV 1
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/145936
 #EXTINF:-1,EX-YU: BRAVO MUSIC
@@ -219,22 +278,6 @@ http://pascaltv.site:8080/magicoiptv/1ed63025640d/146290
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/24399
 #EXTINF:-1,EX-YU: ERA TV
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/148154
-#EXTINF:-1,EX-YU: EUROSPORT
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157161
-#EXTINF:-1,EX-YU EUROSPORT
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273632
-#EXTINF:-1,EX-YU: EUROSPORT 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4151
-#EXTINF:-1,EX-YU EUROSPORT 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273591
-#EXTINF:-1,EX-YU: EUROSPORT 2 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4152
-#EXTINF:-1,EX-YU EUROSPORT 2 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273592
-#EXTINF:-1,EX-YU: Face TV HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/13437
-#EXTINF:-1,EX-YU: Federalna TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10682
 #EXTINF:-1,EX-YU: FEN TV
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/265804
 #EXTINF:-1,EX-YU: FIGHT BOX FHD
@@ -357,18 +400,6 @@ http://pascaltv.site:8080/magicoiptv/1ed63025640d/197256
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/51897
 #EXTINF:-1,EX-YU: Hram TV
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/23093
-#EXTINF:-1,EX-YU: HRT 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/247835
-#EXTINF:-1,EX-YU: HRT 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/41478
-#EXTINF:-1,EX-YU: HRT 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3395
-#EXTINF:-1,EX-YU: HRT 4
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171921
-#EXTINF:-1,EX-YU: HRT INT
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/264962
-#EXTINF:-1,EX-YU: HRT international
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/16583
 #EXTINF:-1,EX-YU: HTV 1
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/194806
 #EXTINF:-1,EX-YU: Hugo
@@ -425,12 +456,6 @@ http://pascaltv.site:8080/magicoiptv/1ed63025640d/265801
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/157360
 #EXTINF:-1,EX-YU: KANAL A HD
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/148157
-#EXTINF:-1,EX-YU: KCN 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4169
-#EXTINF:-1,EX-YU: KCN 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4170
-#EXTINF:-1,EX-YU: KCN 3
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4171
 #EXTINF:-1,EX-YU: KIKA
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/200424
 #EXTINF:-1,EX-YU: KINO HD
@@ -599,20 +624,6 @@ http://pascaltv.site:8080/magicoiptv/1ed63025640d/274931
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/171938
 #EXTINF:-1,EX-YU NICKLEODEON
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/274989
-#EXTINF:-1,EX-YU: Nova BH
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/202102
-#EXTINF:-1,EX-YU: Nova BiH
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/194802
-#EXTINF:-1,EX-YU: NOVA HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3406
-#EXTINF:-1,EX-YU: NOVA M
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198402
-#EXTINF:-1,EX-YU: NOVA RS
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/26816
-#EXTINF:-1,EX-YU: NOVA SPORT HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/202101
-#EXTINF:-1,EX-YU NOVA SPORT HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273543
 #EXTINF:-1,EX-YU: Novi Pazar
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/157365
 #EXTINF:-1,EX-YU: NTV IC
@@ -649,16 +660,6 @@ http://pascaltv.site:8080/magicoiptv/1ed63025640d/120587
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/24381
 #EXTINF:-1,EX-YU: Pink
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/82488
-#EXTINF:-1,EX-YU: Planet Sport 1 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3472
-#EXTINF:-1,EX-YU: Planet Sport 2 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3473
-#EXTINF:-1,EX-YU: Planet Sport 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3474
-#EXTINF:-1,EX-YU: Planet Sport 4 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/192879
-#EXTINF:-1,EX-YU: Planet Sport 5
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120753
 #EXTINF:-1,EX-YU: Planet Tv
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/198395
 #EXTINF:-1,EX-YU: Planeta Tv
@@ -685,45 +686,16 @@ http://pascaltv.site:8080/magicoiptv/1ed63025640d/171936
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/199231
 #EXTINF:-1,EX-YU: Posavina TV
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/148158
-#EXTINF:-1,EX-YU: Prva CG
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/267112
-#EXTINF:-1,EX-YU: Prva Files
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/168249
-#EXTINF:-1,EX-YU: Prva HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/194270
 #EXTINF:-1,EX-YU: Prva Kick
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/196354
 #EXTINF:-1,EX-YU: Prva Life
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/267170
-#EXTINF:-1,EX-YU: PRVA MAX
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197259
-#EXTINF:-1,EX-YU: PRVA PLUS
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197260
-#EXTINF:-1,EX-YU: Prva TV Montenegro
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/267839
-#EXTINF:-1,EX-YU: PRVA World TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/196353
 #EXTINF:-1,EX-YU: Ribolov
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/268089
 #EXTINF:-1,EX-YU: Roma TV
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/10731
 #EXTINF:-1,EX-YU: RT Vojvodina 2
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/168251
-#EXTINF:-1,EX-YU: RTCG 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/13459
-#EXTINF:-1,EX-YU: RTCG 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10732
-#EXTINF:-1,EX-YU: RTCG Sat
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10733
-#EXTINF:-1,EX-YU: RTL 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/38968
-#EXTINF:-1,EX-YU: RTL 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171920
-#EXTINF:-1,EX-YU: RTL Adria HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/202104
-#EXTINF:-1,EX-YU: RTL Crime
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3403
-#EXTINF:-1,EX-YU: RTL HD
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/13880
 #EXTINF:-1,EX-YU: RTL Kockica
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/3402
@@ -737,14 +709,6 @@ http://pascaltv.site:8080/magicoiptv/1ed63025640d/148206
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/192248
 #EXTINF:-1,EX-YU: RTRS PLUS
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/197261
-#EXTINF:-1,EX-YU: RTS 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3448
-#EXTINF:-1,EX-YU: RTS 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3449
-#EXTINF:-1,EX-YU: RTS 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3450
-#EXTINF:-1,EX-YU: RTS CBET HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157166
 #EXTINF:-1,EX-YU: RTS Drama HD
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/171907
 #EXTINF:-1,EX-YU: RTS Kolo
@@ -763,10 +727,6 @@ http://pascaltv.site:8080/magicoiptv/1ed63025640d/195732
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/171908
 #EXTINF:-1,EX-YU: RTS Zivot HD
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/197263
-#EXTINF:-1,EX-YU: RTV 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10740
-#EXTINF:-1,EX-YU: RTV 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10741
 #EXTINF:-1,EX-YU: RTV BOR
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/198394
 #EXTINF:-1,EX-YU: RTV HB
@@ -823,46 +783,6 @@ http://pascaltv.site:8080/magicoiptv/1ed63025640d/13882
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/148160
 #EXTINF:-1,EX-YU: Sonce
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/146293
-#EXTINF:-1,EX-YU: SOS
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148163
-#EXTINF:-1,EX-YU: SOS Kanal
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/27455
-#EXTINF:-1,EX-YU: Sport Klub 1 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3467
-#EXTINF:-1,EX-YU Sport Klub 1 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273491
-#EXTINF:-1,EX-YU: Sport Klub 2 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3468
-#EXTINF:-1,EX-YU Sport Klub 2 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273486
-#EXTINF:-1,EX-YU: Sport Klub 3 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3469
-#EXTINF:-1,EX-YU Sport Klub 3 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273497
-#EXTINF:-1,EX-YU: Sport Klub 4 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/245135
-#EXTINF:-1,EX-YU: Sport Klub 5 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3470
-#EXTINF:-1,EX-YU: Sport Klub 6 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3471
-#EXTINF:-1,EX-YU: Sport Klub 7
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/146299
-#EXTINF:-1,EX-YU: Sport Klub 8
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/54987
-#EXTINF:-1,EX-YU: Sport Klub Golf HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59840
-#EXTINF:-1,EX-YU: Sport Klub HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3466
-#EXTINF:-1,EX-YU: SPORT TV 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/147977
-#EXTINF:-1,EX-YU: SPORT TV 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/147984
-#EXTINF:-1,EX-YU: SPORT TV 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/147982
-#EXTINF:-1,EX-YU: Sportska Televizija
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/192242
-#EXTINF:-1,EX-YU: Sportska TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4206
 #EXTINF:-1,EX-YU: STAR FOLK TV
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/265803
 #EXTINF:-1,EX-YU: Star TV
@@ -1091,6 +1011,92 @@ http://pascaltv.site:8080/magicoiptv/1ed63025640d/3411
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/3412
 #EXTINF:-1,EX-YU: Zadruga Uživo 4
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/80321
+#EXTINF:-1 tvg-id="" tvg-name="------|Yugoslavia|------" tvg-logo="" group-title="Yugoslavia Telekom Sport",------|Yugoslavia|------
+http://meu02.cularu.com:8880/test76/rew4f6464/49326
+#EXTINF:-1,EX-YU: Arena Sport 1 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3461
+#EXTINF:-1,EX-YU Arena Sport 1 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/273358
+#EXTINF:-1,EX-YU: Arena Sport 2 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3462
+#EXTINF:-1,EX-YU Arena Sport 2 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/37207
+#EXTINF:-1,EX-YU: Arena Sport 3 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/264526
+#EXTINF:-1,EX-YU Arena Sport 3 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/273416
+#EXTINF:-1,EX-YU: Arena Sport 4 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3465
+#EXTINF:-1,EX-YU: Arena Sport 5 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3464
+#EXTINF:-1,EX-YU: Arena Sport 6 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/145720
+#EXTINF:-1,EX-YU: EUROSPORT
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/157161
+#EXTINF:-1,EX-YU EUROSPORT
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/273632
+#EXTINF:-1,EX-YU: EUROSPORT 1 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/4151
+#EXTINF:-1,EX-YU EUROSPORT 1 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/273591
+#EXTINF:-1,EX-YU: EUROSPORT 2 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/4152
+#EXTINF:-1,EX-YU EUROSPORT 2 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/273592
+#EXTINF:-1,EX-YU: Planet Sport 1 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3472
+#EXTINF:-1,EX-YU: Planet Sport 2 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3473
+#EXTINF:-1,EX-YU: Planet Sport 3 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3474
+#EXTINF:-1,EX-YU: Planet Sport 4 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/192879
+#EXTINF:-1,EX-YU: Planet Sport 5
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/120753
+#EXTINF:-1,EX-YU: NOVA SPORT HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/202101
+#EXTINF:-1,EX-YU NOVA SPORT HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/273543
+#EXTINF:-1,EX-YU: SOS
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/148163
+#EXTINF:-1,EX-YU: SOS Kanal
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/27455
+#EXTINF:-1,EX-YU: Sport Klub 1 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3467
+#EXTINF:-1,EX-YU Sport Klub 1 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/273491
+#EXTINF:-1,EX-YU: Sport Klub 2 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3468
+#EXTINF:-1,EX-YU Sport Klub 2 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/273486
+#EXTINF:-1,EX-YU: Sport Klub 3 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3469
+#EXTINF:-1,EX-YU Sport Klub 3 FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/273497
+#EXTINF:-1,EX-YU: Sport Klub 4 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/245135
+#EXTINF:-1,EX-YU: Sport Klub 5 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3470
+#EXTINF:-1,EX-YU: Sport Klub 6 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3471
+#EXTINF:-1,EX-YU: Sport Klub 7
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/146299
+#EXTINF:-1,EX-YU: Sport Klub 8
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/54987
+#EXTINF:-1,EX-YU: Sport Klub Golf HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/59840
+#EXTINF:-1,EX-YU: Sport Klub HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/3466
+#EXTINF:-1,EX-YU: SPORT TV 1 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/147977
+#EXTINF:-1,EX-YU: SPORT TV 2 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/147984
+#EXTINF:-1,EX-YU: SPORT TV 3 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/147982
+#EXTINF:-1,EX-YU: Sportska Televizija
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/192242
+#EXTINF:-1,EX-YU: Sportska TV
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/4206
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="### (BIH) BOSNIA ###" tvg-logo="http://107.152.105.108:81/Logo/BOUSNIA/BOSNIAFLAG.png" group-title="EXYU| BOSNIA",### (BIH) BOSNIA ###
 http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9616
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) CORONA VIRUS INFO" tvg-logo="http://107.152.105.108:81/Logo/CANADAENGLISH/CORONAVIRUSINFO.png" group-title="EXYU| BOSNIA",(BIH) CORONA VIRUS INFO
