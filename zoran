@@ -1369,7 +1369,8 @@ http://exclusivetelevision.xyz:8000/live/O4G2RkdBCS/ww9JLm9VAA/21479.ts
 http://exclusivetelevision.xyz:8000/live/O4G2RkdBCS/ww9JLm9VAA/21480.ts
 #EXTINF:-1 tvg-id="21481" tvg-name="FEN TV (BG)" tvg-logo="" group-title="BUGARSKA / BULGARIA",FEN TV (BG)
 http://exclusivetelevision.xyz:8000/live/O4G2RkdBCS/ww9JLm9VAA/21481.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Nacionalni & lokalni -------" tvg-logo="" group-title="Makedonija",------- Nacionalni & lokalni -------
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MACEDONIA" tvg-logo="https://logosrated.net/wp-content/uploads/2016/08/Macedonia-flag-Logo-1.png" group-title="Makedonija",MACEDONIA
 http://mytv.fun:8080/kemal100/fkcjkrj77/683224
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MRT 1 HD MK" tvg-logo="http://pici.life/MK/MRT1.png" group-title="Makedonija",MRT 1 HD MK
 http://mytv.fun:8080/kemal100/fkcjkrj77/12399
@@ -1541,1109 +1542,515 @@ http://mytv.fun:8080/kemal100/fkcjkrj77/13393
 http://mytv.fun:8080/kemal100/fkcjkrj77/674115
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 3 SI" tvg-logo="http://pici.life/Ex-Yu%20Countries/sportklub3hdexyu.png" group-title="Slovenia",Sport Klub 3 SI
 http://mytv.fun:8080/kemal100/fkcjkrj77/674117
-#EXTINF:-1 tvg-id="" tvg-name="------|Yugoslavia|------" tvg-logo="" group-title="Yugoslavia A1",------|Yugoslavia|------
-http://meu02.cularu.com:8880/test76/rew4f6464/49326
-#EXTINF:-1 ,|EXYU| PINK HD
-http://185.71.64.167:80/1569802583/8829358497/85346
-#EXTINF:-1 ,|EXYU| PINK
-http://185.71.64.167:80/1569802583/8829358497/85345
-#EXTINF:-1 ,|EXYU| PINK 2
-http://185.71.64.167:80/1569802583/8829358497/85344
-#EXTINF:-1 ,|EXYU| PINK 3 INFO
-http://185.71.64.167:80/1569802583/8829358497/85343
-#EXTINF:-1 ,|EXYU| PINK ACTION
-http://185.71.64.167:80/1569802583/8829358497/85342
-#EXTINF:-1 ,|EXYU| PINK BIH
-http://185.71.64.167:80/1569802583/8829358497/85341
-#EXTINF:-1 ,|EXYU| PINK MEDIA M
-http://185.71.64.167:80/1569802583/8829358497/85340
-#EXTINF:-1 ,|EXYU| PINK CLASSIC
-http://185.71.64.167:80/1569802583/8829358497/85339
-#EXTINF:-1 ,|EXYU| PINK HAHA
-http://185.71.64.167:80/1569802583/8829358497/85338
-#EXTINF:-1 ,|EXYU| PINK LOL
-http://185.71.64.167:80/1569802583/8829358497/85337
-#EXTINF:-1 ,|EXYU| PINK COMEDY
-http://185.71.64.167:80/1569802583/8829358497/85336
-#EXTINF:-1 ,|EXYU| PINK PREMIUM
-http://185.71.64.167:80/1569802583/8829358497/85335
-#EXTINF:-1 ,|EXYU| PINK CRIME & MYSTERY
-http://185.71.64.167:80/1569802583/8829358497/85334
-#EXTINF:-1 ,|EXYU| PINK EXTRA
-http://185.71.64.167:80/1569802583/8829358497/85333
-#EXTINF:-1 ,|EXYU| PINK KUVAR
-http://185.71.64.167:80/1569802583/8829358497/85332
-#EXTINF:-1 ,|EXYU| PINK FILM
-http://185.71.64.167:80/1569802583/8829358497/85331
-#EXTINF:-1 ,|EXYU| PINK SOAP
-http://185.71.64.167:80/1569802583/8829358497/85330
-#EXTINF:-1 ,|EXYU| PINK PEDIA
-http://185.71.64.167:80/1569802583/8829358497/85329
-#EXTINF:-1 ,|EXYU| PINK SCI-FI-FANTASY
-http://185.71.64.167:80/1569802583/8829358497/85328
-#EXTINF:-1 ,|EXYU| PINK HORROR
-http://185.71.64.167:80/1569802583/8829358497/85327
-#EXTINF:-1 ,|EXYU| PINK STYLE
-http://185.71.64.167:80/1569802583/8829358497/85326
-#EXTINF:-1 ,|EXYU| PINK SHOW
-http://185.71.64.167:80/1569802583/8829358497/85325
-#EXTINF:-1 ,|EXYU| PINK THRILLER
-http://185.71.64.167:80/1569802583/8829358497/85324
-#EXTINF:-1 ,|EXYU| PINK WORLD
-http://185.71.64.167:80/1569802583/8829358497/85323
-#EXTINF:-1 ,|EXYU| PINK ZABAVA
-http://185.71.64.167:80/1569802583/8829358497/85322
-#EXTINF:-1 ,|EXYU| PINK WORLD CINEMA
-http://185.71.64.167:80/1569802583/8829358497/85321
-#EXTINF:-1 ,|EXYU| PINK WESTERN
-http://185.71.64.167:80/1569802583/8829358497/85320
-#EXTINF:-1 ,|EXYU| PINK SUPER KIDS
-http://185.71.64.167:80/1569802583/8829358497/85319
-#EXTINF:-1 ,|EXYU| PINK SERIJE
-http://185.71.64.167:80/1569802583/8829358497/85318
-#EXTINF:-1 ,|EXYU| PINK ROMANCE
-http://185.71.64.167:80/1569802583/8829358497/85317
-#EXTINF:-1 ,|EXYU| PINK REALITY
-http://185.71.64.167:80/1569802583/8829358497/85316
-#EXTINF:-1 ,|EXYU| PINK PLUS
-http://185.71.64.167:80/1569802583/8829358497/85315
-#EXTINF:-1 ,|EXYU| PINK N ROLL
-http://185.71.64.167:80/1569802583/8829358497/85314
-#EXTINF:-1 ,|EXYU| PINK MUSIC 2
-http://185.71.64.167:80/1569802583/8829358497/85313
-#EXTINF:-1 ,|EXYU| PINK MUSIC
-http://185.71.64.167:80/1569802583/8829358497/85312
-#EXTINF:-1 ,|EXYU| PINK KONCERT
-http://185.71.64.167:80/1569802583/8829358497/85311
-#EXTINF:-1 ,|EXYU| PINK KIDS
-http://185.71.64.167:80/1569802583/8829358497/85310
-#EXTINF:-1 ,|EXYU| PINK HITS 2
-http://185.71.64.167:80/1569802583/8829358497/85309
-#EXTINF:-1 ,|EXYU| PINK HITS
-http://185.71.64.167:80/1569802583/8829358497/85308
-#EXTINF:-1 ,|EXYU| PINK FOLK 2
-http://185.71.64.167:80/1569802583/8829358497/85307
-#EXTINF:-1 ,|EXYU| PINK FOLK
-http://185.71.64.167:80/1569802583/8829358497/85306
-#EXTINF:-1 ,|EXYU| HBO HD
-http://185.71.64.167:80/1569802583/8829358497/85304
-#EXTINF:-1 ,|EXYU| HBO 2 HD
-http://185.71.64.167:80/1569802583/8829358497/85303
-#EXTINF:-1 ,|EXYU| HBO 3
-http://185.71.64.167:80/1569802583/8829358497/85302
-#EXTINF:-1 ,|EXYU| EPIC DRAMA HD
-http://185.71.64.167:80/1569802583/8829358497/85301
-#EXTINF:-1 ,|EXYU| STAR TV
-http://185.71.64.167:80/1569802583/8829358497/85300
-#EXTINF:-1 ,|EXYU| TV 1000
-http://185.71.64.167:80/1569802583/8829358497/85299
-#EXTINF:-1 ,|EXYU| SUPER STAR TV TEST
-http://185.71.64.167:80/1569802583/8829358497/85298
-#EXTINF:-1 ,|EXYU| CINESTAR TV1
-http://185.71.64.167:80/1569802583/8829358497/85297
-#EXTINF:-1 ,|EXYU| CINESTAR ACTION TV
-http://185.71.64.167:80/1569802583/8829358497/85296
-#EXTINF:-1 ,|EXYU| CINESTAR FANTASY
-http://185.71.64.167:80/1569802583/8829358497/85295
-#EXTINF:-1 ,|EXYU| CINESTAR PREMIERE 1
-http://185.71.64.167:80/1569802583/8829358497/85294
-#EXTINF:-1 ,|EXYU| CINESTAR PREMIERE 2
-http://185.71.64.167:80/1569802583/8829358497/85293
-#EXTINF:-1 ,|EXYU| CINEMAX 1
-http://185.71.64.167:80/1569802583/8829358497/85292
-#EXTINF:-1 ,|EXYU| CINEMAX 2
-http://185.71.64.167:80/1569802583/8829358497/85291
-#EXTINF:-1 ,|EXYU| KLASIK TV
-http://185.71.64.167:80/1569802583/8829358497/85290
-#EXTINF:-1 ,|EXYU| M1 FILM
-http://185.71.64.167:80/1569802583/8829358497/85289
-#EXTINF:-1 ,|EXYU| M1 GOLD
-http://185.71.64.167:80/1569802583/8829358497/85288
-#EXTINF:-1 ,|EXYU| AXN ADRIA
-http://185.71.64.167:80/1569802583/8829358497/85287
-#EXTINF:-1 ,|EXYU| KINO TV
-http://185.71.64.167:80/1569802583/8829358497/85286
-#EXTINF:-1 ,|EXYU| FOX FHD
-http://185.71.64.167:80/1569802583/8829358497/85285
-#EXTINF:-1 ,|EXYU| FOX LIFE FHD
-http://185.71.64.167:80/1569802583/8829358497/85284
-#EXTINF:-1 ,|EXYU| FOX CRIME FHD
-http://185.71.64.167:80/1569802583/8829358497/85283
-#EXTINF:-1 ,|EXYU| FOX MOVIES FHD
-http://185.71.64.167:80/1569802583/8829358497/85282
-#EXTINF:-1 ,|EXYU| FOX
-http://185.71.64.167:80/1569802583/8829358497/85281
-#EXTINF:-1 ,|EXYU| FOX LIFE
-http://185.71.64.167:80/1569802583/8829358497/85280
-#EXTINF:-1 ,|EXYU| FOX CRIME
-http://185.71.64.167:80/1569802583/8829358497/85279
-#EXTINF:-1 ,|EXYU| FOX MOVIES
-http://185.71.64.167:80/1569802583/8829358497/85278
-#EXTINF:-1 ,|EXYU| AGRO HD
-http://185.71.64.167:80/1569802583/8829358497/85276
-#EXTINF:-1 ,|EXYU| ANIMAL PLANET
-http://185.71.64.167:80/1569802583/8829358497/85275
-#EXTINF:-1 ,|EXYU| ANIMAL PLANET HD
-http://185.71.64.167:80/1569802583/8829358497/85274
-#EXTINF:-1 ,|EXYU| 24 KITCHEN
-http://185.71.64.167:80/1569802583/8829358497/85273
-#EXTINF:-1 ,|EXYU| DISCOVERY
-http://185.71.64.167:80/1569802583/8829358497/85272
-#EXTINF:-1 ,|EXYU| DISCOVERY HD
-http://185.71.64.167:80/1569802583/8829358497/85271
-#EXTINF:-1 ,|EXYU| DISCOVERY ID
-http://185.71.64.167:80/1569802583/8829358497/85270
-#EXTINF:-1 ,|EXYU| DISCOVERY ID XTRA  HD
-http://185.71.64.167:80/1569802583/8829358497/85269
-#EXTINF:-1 ,|EXYU| TRAVEL XP HD
-http://185.71.64.167:80/1569802583/8829358497/85268
-#EXTINF:-1 ,|EXYU| DA VINCI LEARNING
-http://185.71.64.167:80/1569802583/8829358497/85267
-#EXTINF:-1 ,|EXYU| DISCOVERY SCIENCE
-http://185.71.64.167:80/1569802583/8829358497/85266
-#EXTINF:-1 ,|EXYU| CRIME INVESTIGATION
-http://185.71.64.167:80/1569802583/8829358497/85265
-#EXTINF:-1 ,|EXYU| CBS REALITY
-http://185.71.64.167:80/1569802583/8829358497/85264
-#EXTINF:-1 ,|EXYU| TLC
-http://185.71.64.167:80/1569802583/8829358497/85263
-#EXTINF:-1 ,|EXYU| E!
-http://185.71.64.167:80/1569802583/8829358497/85262
-#EXTINF:-1 ,|EXYU| DOKU TV
-http://185.71.64.167:80/1569802583/8829358497/85261
-#EXTINF:-1 ,|EXYU| TRAVEL  CHANNEL
-http://185.71.64.167:80/1569802583/8829358497/85260
-#EXTINF:-1 ,|EXYU| FINE LIVING
-http://185.71.64.167:80/1569802583/8829358497/85259
-#EXTINF:-1 ,|EXYU| DOCUBOX
-http://185.71.64.167:80/1569802583/8829358497/85258
-#EXTINF:-1 ,|EXYU| VIASAT NATURE
-http://185.71.64.167:80/1569802583/8829358497/85257
-#EXTINF:-1 ,|EXYU| VIASAT HISTORY
-http://185.71.64.167:80/1569802583/8829358497/85256
-#EXTINF:-1 ,|EXYU| VIASAT EXPLORER
-http://185.71.64.167:80/1569802583/8829358497/85255
-#EXTINF:-1 ,|EXYU| NATIONAL GEOGRAPHIC WILD
-http://185.71.64.167:80/1569802583/8829358497/85254
-#EXTINF:-1 ,|EXYU| NATIONAL GEOGRAPHIC HD
-http://185.71.64.167:80/1569802583/8829358497/85253
-#EXTINF:-1 ,|EXYU| NATIONAL GEOGRAPHIC
-http://185.71.64.167:80/1569802583/8829358497/85252
-#EXTINF:-1 ,|EXYU| NAT GEO WILD HD
-http://185.71.64.167:80/1569802583/8829358497/85251
-#EXTINF:-1 ,|EXYU| LOV I RIBOLOV HD
-http://185.71.64.167:80/1569802583/8829358497/85250
-#EXTINF:-1 ,|EXYU| HISTORY HD
-http://185.71.64.167:80/1569802583/8829358497/85249
-#EXTINF:-1 ,|EXYU| HISTORY 2 HD
-http://185.71.64.167:80/1569802583/8829358497/85248
-#EXTINF:-1 ,|EXYU| HISTORY 2
-http://185.71.64.167:80/1569802583/8829358497/85247
-#EXTINF:-1 ,|EXYU| HISTORY
-http://185.71.64.167:80/1569802583/8829358497/85246
-#EXTINF:-1 ,|EXYU| FOOD NETWORK
-http://185.71.64.167:80/1569802583/8829358497/85245
-#EXTINF:-1 ,|EXYU| KANAL 5
-http://185.71.64.167:80/1569802583/8829358497/87201
-#EXTINF:-1 ,|EXYU| SITEL
-http://185.71.64.167:80/1569802583/8829358497/87200
-#EXTINF:-1 ,|EXYU| IDJ KIDS
-http://185.71.64.167:80/1569802583/8829358497/85243
-#EXTINF:-1 ,|EXYU| MASA I MEDO
-http://185.71.64.167:80/1569802583/8829358497/85242
-#EXTINF:-1 ,|EXYU| TOM & JERRY
-http://185.71.64.167:80/1569802583/8829358497/85241
-#EXTINF:-1 ,|EXYU| HAYATOVCI
-http://185.71.64.167:80/1569802583/8829358497/85240
-#EXTINF:-1 ,|EXYU| RTV PODRINJE
-http://185.71.64.167:80/1569802583/8829358497/85239
-#EXTINF:-1 ,|EXYU| TNT KIDS
-http://185.71.64.167:80/1569802583/8829358497/85238
-#EXTINF:-1 ,|EXYU| RTL KOCKICA
-http://185.71.64.167:80/1569802583/8829358497/85237
-#EXTINF:-1 ,|EXYU| MINI TV
-http://185.71.64.167:80/1569802583/8829358497/85236
-#EXTINF:-1 ,|EXYU| MINIMAX
-http://185.71.64.167:80/1569802583/8829358497/85235
-#EXTINF:-1 ,|EXYU| PIKABOO
-http://185.71.64.167:80/1569802583/8829358497/85234
-#EXTINF:-1 ,|EXYU| NICKELODEON SR
-http://185.71.64.167:80/1569802583/8829358497/85233
-#EXTINF:-1 ,|EXYU| NICKELODEON HR
-http://185.71.64.167:80/1569802583/8829358497/85232
-#EXTINF:-1 ,|EXYU| NICK JR SR
-http://185.71.64.167:80/1569802583/8829358497/85231
-#EXTINF:-1 ,|EXYU| NICK JR HR
-http://185.71.64.167:80/1569802583/8829358497/85230
-#EXTINF:-1 ,|EXYU| BABY TV
-http://185.71.64.167:80/1569802583/8829358497/85229
-#EXTINF:-1 ,|EXYU| HAYAT  MUSIC
-http://185.71.64.167:80/1569802583/8829358497/85227
-#EXTINF:-1 ,|EXYU| HAYAT  FOLK
-http://185.71.64.167:80/1569802583/8829358497/85226
-#EXTINF:-1 ,|EXYU| GRAND 2
-http://185.71.64.167:80/1569802583/8829358497/85225
-#EXTINF:-1 ,|EXYU| GRAND
-http://185.71.64.167:80/1569802583/8829358497/85224
-#EXTINF:-1 ,|EXYU| BUJRUM TV
-http://185.71.64.167:80/1569802583/8829358497/85223
-#EXTINF:-1 ,|EXYU| IDJ TV
-http://185.71.64.167:80/1569802583/8829358497/85222
-#EXTINF:-1 ,|EXYU| IDJ MUSIC
-http://185.71.64.167:80/1569802583/8829358497/85221
-#EXTINF:-1 ,|EXYU| DM SAT
-http://185.71.64.167:80/1569802583/8829358497/85220
-#EXTINF:-1 ,|EXYU| BALKANIKA TV
-http://185.71.64.167:80/1569802583/8829358497/85219
-#EXTINF:-1 ,|EXYU| BN MUSIC
-http://185.71.64.167:80/1569802583/8829358497/85218
-#EXTINF:-1 ,|EXYU| CMC MUSIC
-http://185.71.64.167:80/1569802583/8829358497/85217
-#EXTINF:-1 ,|EXYU| JUGOTON
-http://185.71.64.167:80/1569802583/8829358497/85216
-#EXTINF:-1 ,|EXYU| IZVORNA TV
-http://185.71.64.167:80/1569802583/8829358497/85215
-#EXTINF:-1 ,|EXYU| SEVDAH TV
-http://185.71.64.167:80/1569802583/8829358497/85214
-#EXTINF:-1 ,|EXYU| GLAS DRINE
-http://185.71.64.167:80/1569802583/8829358497/85213
-#EXTINF:-1 ,|EXYU| YU PLANET
-http://185.71.64.167:80/1569802583/8829358497/85212
-#EXTINF:-1 ,|EXYU| DUGA TV
-http://185.71.64.167:80/1569802583/8829358497/85211
-#EXTINF:-1 ,|EXYU| MTV
-http://185.71.64.167:80/1569802583/8829358497/85210
-#EXTINF:-1 ,|EXYU| SOS (SR)
-http://185.71.64.167:80/1569802583/8829358497/85209
-#EXTINF:-1 ,|EXYU| TV PARTIZAN HD (SR)
-http://185.71.64.167:80/1569802583/8829358497/85208
-#EXTINF:-1 ,|EXYU| HNTV (HR)
-http://185.71.64.167:80/1569802583/8829358497/85207
-#EXTINF:-1 ,|EXYU| SPORTSKA TV (HR)
-http://185.71.64.167:80/1569802583/8829358497/85206
-#EXTINF:-1 ,|EXYU| MOJA TV (BH)
-http://185.71.64.167:80/1569802583/8829358497/85205
-#EXTINF:-1 ,|EXYU| CITY TV (BH)
-http://185.71.64.167:80/1569802583/8829358497/85204
-#EXTINF:-1 ,|EXYU| NOVA SPORT
-http://185.71.64.167:80/1569802583/8829358497/85203
-#EXTINF:-1 ,|EXYU| SPORTKLUB HD
-http://185.71.64.167:80/1569802583/8829358497/85202
-#EXTINF:-1 ,|EXYU| SPORTKLUB 1 HD (SR)
-http://185.71.64.167:80/1569802583/8829358497/85201
-#EXTINF:-1 ,|EXYU| SPORTKLUB 2 HD (SR)
-http://185.71.64.167:80/1569802583/8829358497/85200
-#EXTINF:-1 ,|EXYU| SPORTKLUB 3 HD (SR)
-http://185.71.64.167:80/1569802583/8829358497/85199
-#EXTINF:-1 ,|EXYU| SPORT KLUB 1(HR)
-http://185.71.64.167:80/1569802583/8829358497/85198
-#EXTINF:-1 ,|EXYU| SPORT KLUB 2 (HR)
-http://185.71.64.167:80/1569802583/8829358497/85197
-#EXTINF:-1 ,|EXYU| SPORT KLUB 3 (HR)
-http://185.71.64.167:80/1569802583/8829358497/85196
-#EXTINF:-1 ,|EXYU| SPORT KLUB 4 (HR)
-http://185.71.64.167:80/1569802583/8829358497/85195
-#EXTINF:-1 ,|EXYU| SPORT KLUB 5 (HR)
-http://185.71.64.167:80/1569802583/8829358497/85194
-#EXTINF:-1 ,|EXYU| SPORT KLUB 6 (HR)
-http://185.71.64.167:80/1569802583/8829358497/85193
-#EXTINF:-1 ,|EXYU| SPORT KLUB 7 (HR)
-http://185.71.64.167:80/1569802583/8829358497/85192
-#EXTINF:-1 ,|EXYU| SPORT KLUB 8 (HR)
-http://185.71.64.167:80/1569802583/8829358497/85191
-#EXTINF:-1 ,|EXYU| SPORT KLUB 9 (HR)
-http://185.71.64.167:80/1569802583/8829358497/85190
-#EXTINF:-1 ,|EXYU| SPORT KLUB 10 (HR)
-http://185.71.64.167:80/1569802583/8829358497/85189
-#EXTINF:-1 ,|EXYU| ARENA SPORT 1 BIH
-http://185.71.64.167:80/1569802583/8829358497/85188
-#EXTINF:-1 ,|EXYU| ARENA SPORT 1 HD (SR)
-http://185.71.64.167:80/1569802583/8829358497/85187
-#EXTINF:-1 ,|EXYU| ARENA SPORT 2 HD (SR)
-http://185.71.64.167:80/1569802583/8829358497/85186
-#EXTINF:-1 ,|EXYU| ARENA SPORT 3 HD (SR)
-http://185.71.64.167:80/1569802583/8829358497/85185
-#EXTINF:-1 ,|EXYU| ARENA SPORT 4 HD (SR)
-http://185.71.64.167:80/1569802583/8829358497/85184
-#EXTINF:-1 ,|EXYU| ARENA SPORT 1 HD (HR)
-http://185.71.64.167:80/1569802583/8829358497/85183
-#EXTINF:-1 ,|EXYU| ARENA SPORT 2 HD (HR)
-http://185.71.64.167:80/1569802583/8829358497/85182
-#EXTINF:-1 ,|EXYU| ARENA SPORT 3 HD (HR)
-http://185.71.64.167:80/1569802583/8829358497/85181
-#EXTINF:-1 ,|EXYU| ARENA SPORT 4 HD (HR)
-http://185.71.64.167:80/1569802583/8829358497/85180
-#EXTINF:-1 ,|EXYU| ARENA SPORT 5 HD (HR)
-http://185.71.64.167:80/1569802583/8829358497/85179
-#EXTINF:-1 ,|EXYU| EUROSPORT 1 HD
-http://185.71.64.167:80/1569802583/8829358497/85178
-#EXTINF:-1 ,|EXYU| EUROSPORT 2 HD
-http://185.71.64.167:80/1569802583/8829358497/85177
-#EXTINF:-1 ,|EXYU| FIGHT NETWORK
-http://185.71.64.167:80/1569802583/8829358497/85176
-#EXTINF:-1 ,|EXYU| FIGHTBOX
-http://185.71.64.167:80/1569802583/8829358497/85175
-#EXTINF:-1 ,|EXYU| PLANETSPORT 1
-http://185.71.64.167:80/1569802583/8829358497/85174
-#EXTINF:-1 ,|EXYU| PLANETSPORT 2
-http://185.71.64.167:80/1569802583/8829358497/85173
-#EXTINF:-1 ,|EXYU| PLANETSPORT 3
-http://185.71.64.167:80/1569802583/8829358497/85172
-#EXTINF:-1 ,EX-YU: BHT
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1986
-#EXTINF:-1 ,EX-YU: ANIMAL PLANET
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1987
-#EXTINF:-1 ,EX-YU: PINK 3(1)
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1988
-#EXTINF:-1 ,EX-YU: Cinestar Premier 2
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1990
-#EXTINF:-1 ,EX-YU: Cinestar Premiere 1
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1991
-#EXTINF:-1 ,EX-YU: BN SAT
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1992
-#EXTINF:-1 ,EX-YU: BN
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1993
-#EXTINF:-1 ,EX-YU: Eurosport 1
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1995
-#EXTINF:-1 ,EX-YU: Eurosport 2
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1996
-#EXTINF:-1 ,EX-YU: FOX
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1997
-#EXTINF:-1 ,EX-YU: FACE TV
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1998
-#EXTINF:-1 ,EX-YU: Discovery
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1999
-#EXTINF:-1 ,EX-YU: FilmBox Extra
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2001
-#EXTINF:-1 ,EX-YU: Fightbox
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2002
-#EXTINF:-1 ,EX-YU: Fox Crime
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2003
-#EXTINF:-1 ,EX-YU: Fox Life
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2004
-#EXTINF:-1 ,EX-YU: Federalna TV
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2005
-#EXTINF:-1 ,EX-YU: Al Jazeera Balkan
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2006
-#EXTINF:-1 ,EX-YU: GRAND TV
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2007
-#EXTINF:-1 ,EX-YU: HAYAT
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2008
-#EXTINF:-1 ,EX-YU: HAYAT FOLK
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2009
-#EXTINF:-1 ,EX-YU: HAYAT PLUS
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2010
-#EXTINF:-1 ,EX-YU: Fox Movies
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2011
-#EXTINF:-1 ,EX-YU: BHT 1 HD
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2012
-#EXTINF:-1 ,EX-YU: KCN 1
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2013
-#EXTINF:-1 ,EX-YU: KCN 2
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2014
-#EXTINF:-1 ,EX-YU: KCN 3
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2015
-#EXTINF:-1 ,EX-YU: HRT 1
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2016
-#EXTINF:-1 ,EX-YU: LOV I RIBOLOV
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2018
-#EXTINF:-1 ,EX-YU: BN Music
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2017
-#EXTINF:-1 ,EX-YU: MGM
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2019
-#EXTINF:-1 ,EX-YU: KLASIK TV
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2020
-#EXTINF:-1 ,EX-YU: Cinestar Action
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2021
-#EXTINF:-1 ,EX-YU: MTV Adria
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2022
-#EXTINF:-1 ,EX-YU: MRT 2
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2023
-#EXTINF:-1 ,EX-YU: Nat Geo Wild
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2089
-#EXTINF:-1 ,EX-YU: N1 Bosna
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2088
-#EXTINF:-1 ,EX-YU: SPORTKLUB 6 SD
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2087
-#EXTINF:-1 ,EX-YU: SPORTKLUB 5 SD
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2086
-#EXTINF:-1 ,EX-YU: SPORTKLUB 4 SD
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2085
-#EXTINF:-1 ,EX-YU: Sport Klub 3
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2084
-#EXTINF:-1 ,EX-YU: MRTV 3 MK
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2024
-#EXTINF:-1 ,EX-YU: CMC
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2026
-#EXTINF:-1 ,EX-YU: MRT 1 (local)
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2025
-#EXTINF:-1 ,EX-YU: Mini TV HR
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2027
-#EXTINF:-1 ,EX-YU: Mini TV
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2028
-#EXTINF:-1 ,EX-YU: MTV Igman
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2029
-#EXTINF:-1 ,EX-YU: DM Sat
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2030
-#EXTINF:-1 ,EX-YU: Sportska TV
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2031
-#EXTINF:-1 ,EX-YU: National Geographic
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2032
-#EXTINF:-1 ,EX-YU: Nickelodeon
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2033
-#EXTINF:-1 ,EX-YU: NOVA RS pub
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2034
-#EXTINF:-1 ,EX-YU: NOVA TV HR
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2035
-#EXTINF:-1 ,EX-YU: OBN
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2036
-#EXTINF:-1 ,EX-YU: Pink & Roll
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2037
-#EXTINF:-1 ,EX-YU: Pink 1
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2038
-#EXTINF:-1 ,EX-YU: Pink 2
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2039
-#EXTINF:-1 ,EX-YU: PINK 3
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2040
-#EXTINF:-1 ,EX-YU: Pink Action
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2041
-#EXTINF:-1 ,EX-YU: Pink BH
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2042
-#EXTINF:-1 ,EX-YU: Pink Comedy
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2043
-#EXTINF:-1 ,EX-YU: Pink Crime  & Mistery
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2044
-#EXTINF:-1 ,EX-YU: Pink Crime & Mystery
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2045
-#EXTINF:-1 ,EX-YU: Pink Extra
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2046
-#EXTINF:-1 ,EX-YU: Pink Film
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2047
-#EXTINF:-1 ,EX-YU: Pink Folk
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2048
-#EXTINF:-1 ,EX-YU: Pink Folk 2
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2049
-#EXTINF:-1 ,EX-YU: Pink Hits 2
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2050
-#EXTINF:-1 ,EX-YU: Pink Horror
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2051
-#EXTINF:-1 ,EX-YU: Pink Kids
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2052
-#EXTINF:-1 ,EX-YU: Pink Koncert
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2053
-#EXTINF:-1 ,EX-YU: Pink Kuvar
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2054
-#EXTINF:-1 ,EX-YU: Pink M
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2055
-#EXTINF:-1 ,EX-YU: Pink Movies
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2056
-#EXTINF:-1 ,EX-YU: Pink Music
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2057
-#EXTINF:-1 ,EX-YU: Pink Music 2
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2058
-#EXTINF:-1 ,EX-YU: Pink Pedia
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2059
-#EXTINF:-1 ,EX-YU: Pink Plus
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2060
-#EXTINF:-1 ,EX-YU: Pink Premium
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2061
-#EXTINF:-1 ,EX-YU: Pink Reality
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2062
-#EXTINF:-1 ,EX-YU: Pink Romance
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2063
-#EXTINF:-1 ,EX-YU: Pink Sci-Fi & Fantasy
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2064
-#EXTINF:-1 ,EX-YU: Pink Sci-Fi&Fantasy
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2065
-#EXTINF:-1 ,EX-YU: Pink Serije
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2066
-#EXTINF:-1 ,EX-YU: Pink Show
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2067
-#EXTINF:-1 ,EX-YU: Pink Soap
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2068
-#EXTINF:-1 ,EX-YU: Pink Super Kids
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2069
-#EXTINF:-1 ,EX-YU: Pink Thriller
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2070
-#EXTINF:-1 ,EX-YU: Pink Western
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2071
-#EXTINF:-1 ,EX-YU: Pink World
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2072
-#EXTINF:-1 ,EX-YU: Pink Zabava
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2073
-#EXTINF:-1 ,EX-YU: Prva
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2074
-#EXTINF:-1 ,EX-YU: Prva Plus
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2075
-#EXTINF:-1 ,EX-YU: RTS 1 (local)
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2076
-#EXTINF:-1 ,EX-YU: RTS 2 (local)
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2077
-#EXTINF:-1 ,EX-YU: RTS 3
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2078
-#EXTINF:-1 ,EX-YU: RTS HD
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2079
-#EXTINF:-1 ,EX-YU: RTV BANOVINA
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2080
-#EXTINF:-1 ,EX-YU: RTV Zenica
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2081
-#EXTINF:-1 ,EX-YU: Sport Klub 1
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2082
-#EXTINF:-1 ,EX-YU: Sport Klub 2
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2083
-#EXTINF:-1 ,EX-YU: Grand TV 2
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/4236
-#EXTINF:-1 ,EX-YU: Sitel 3 Mk
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/4237
-#EXTINF:-1 ,EX-YU: Sitel Tv Mk
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/4238
-#EXTINF:-1 ,Ex-Yu: RTL Crime
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/4340
-#EXTINF:-1 ,EX-YU: RTL Living
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/4341
-#EXTINF:-1 ,Ex-Yu: RTL Passion
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/4342
-#EXTINF:-1 ,EX-YU: Viasat nature
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/4493
-#EXTINF:-1 ,EX-YU: Viasat History
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/4492
-#EXTINF:-1 ,EX-YU: RTRS HD
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/4491
-#EXTINF:-1 ,EX-YU: Otv Valentino
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/4490
-#EXTINF:-1 ,EX-YU: AXN
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/4489
-#EXTINF:-1 ,EX-YU: B92
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/4906
-#EXTINF:-1 ,EX-YU: TV Istok 1
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/4888
-#EXTINF:-1 ,EX-YU: TV Istok 2
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/4889
-#EXTINF:-1 ,EX-YU: RTCG
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5351
-#EXTINF:-1 ,EX-YU: RTCG 1
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5352
-#EXTINF:-1 ,EX-YU: RTCG 2
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5353
-#EXTINF:-1 ,EX-YU: RTCG SAT
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5354
-#EXTINF:-1 ,EX-YU: ARENA SPORT 1 (SR)
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5568
-#EXTINF:-1 ,EX-YU: ARENA SPORT 2 HD (SR)
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5569
-#EXTINF:-1 ,EX-YU: ARENA SPORT 3 (SR)
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5570
-#EXTINF:-1 ,EX-YU: ARENA SPORT 4 HD (SR)
-http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5571
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="France",------- Sports -------
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="France Sport",------- Sports -------
 http://mytv.fun:8080/kemal100/fkcjkrj77/678947
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport News HD FR" tvg-logo="http://pici.life/FR/RMC_Sport_News.png" group-title="France",RMC Sport News HD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport News HD FR" tvg-logo="http://pici.life/FR/RMC_Sport_News.png" group-title="France Sport",RMC Sport News HD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/624939
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 1 FHD FR" tvg-logo="http://pici.life/FR/RMC_Sport_1.png" group-title="France",RMC Sport 1 FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 1 FHD FR" tvg-logo="http://pici.life/FR/RMC_Sport_1.png" group-title="France Sport",RMC Sport 1 FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/625254
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 2 HD FR" tvg-logo="http://pici.life/FR/RMC_Sport_2.png" group-title="France",RMC Sport 2 HD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 2 HD FR" tvg-logo="http://pici.life/FR/RMC_Sport_2.png" group-title="France Sport",RMC Sport 2 HD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/86352
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 3 FHD FR" tvg-logo="http://pici.life/fr/SFRSport3.fr.png" group-title="France",RMC Sport 3 FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 3 FHD FR" tvg-logo="http://pici.life/fr/SFRSport3.fr.png" group-title="France Sport",RMC Sport 3 FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/625250
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 4 FHD FR" tvg-logo="http://pici.life/FR/RMC_Sport_4.png" group-title="France",RMC Sport 4 FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 4 FHD FR" tvg-logo="http://pici.life/FR/RMC_Sport_4.png" group-title="France Sport",RMC Sport 4 FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/625253
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Story HD FR" tvg-logo="http://pici.life/fr/Numero23.fr.png" group-title="France",RMC Story HD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Story HD FR" tvg-logo="http://pici.life/fr/Numero23.fr.png" group-title="France Sport",RMC Story HD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/5638
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal+ Sport FHD FR" tvg-logo="http://pici.life/FR/Canalsporthd.png" group-title="France",Canal+ Sport FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal+ Sport FHD FR" tvg-logo="http://pici.life/FR/Canalsporthd.png" group-title="France Sport",Canal+ Sport FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/16926
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal+ Sport HD FR" tvg-logo="http://pici.life/FR/Canalsporthd.png" group-title="France",Canal+ Sport HD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal+ Sport HD FR" tvg-logo="http://pici.life/FR/Canalsporthd.png" group-title="France Sport",Canal+ Sport HD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/5696
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 FHD FR" tvg-logo="http://pici.life/fr/BeinSports1.fr.png" group-title="France",beIN Sports 1 FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 FHD FR" tvg-logo="http://pici.life/fr/BeinSports1.fr.png" group-title="France Sport",beIN Sports 1 FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/5710
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 HD FR" tvg-logo="http://pici.life/ES/Bein_sports_hd.png" group-title="France",beIN Sports 1 HD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 HD FR" tvg-logo="http://pici.life/ES/Bein_sports_hd.png" group-title="France Sport",beIN Sports 1 HD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/12961
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 FHD FR" tvg-logo="http://pici.life/FR/beIN_SPORTS_2%20hd.png" group-title="France",beIN Sports 2 FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 FHD FR" tvg-logo="http://pici.life/FR/beIN_SPORTS_2%20hd.png" group-title="France Sport",beIN Sports 2 FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/12958
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 HD FR" tvg-logo="http://pici.life/fr/BeinSports2.fr.png" group-title="France",beIN Sports 2 HD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 HD FR" tvg-logo="http://pici.life/fr/BeinSports2.fr.png" group-title="France Sport",beIN Sports 2 HD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/5709
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 FR" tvg-logo="http://pici.life/FR/bein_sports_2.png" group-title="France",beIN Sports 2 FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 FR" tvg-logo="http://pici.life/FR/bein_sports_2.png" group-title="France Sport",beIN Sports 2 FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/12959
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 FHD FR" tvg-logo="http://pici.life/fr/BeinSports3.fr.png" group-title="France",beIN Sports 3 FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 FHD FR" tvg-logo="http://pici.life/fr/BeinSports3.fr.png" group-title="France Sport",beIN Sports 3 FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/5708
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 HD FR" tvg-logo="http://pici.life/FR/Logo_beIN_SPORTS_3%20hd.png" group-title="France",beIN Sports 3 HD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 HD FR" tvg-logo="http://pici.life/FR/Logo_beIN_SPORTS_3%20hd.png" group-title="France Sport",beIN Sports 3 HD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/12957
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 4 Max FR" tvg-logo="http://pici.life/fr/Bein4Max.fr.png" group-title="France",beIN Sports 4 Max FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 4 Max FR" tvg-logo="http://pici.life/fr/Bein4Max.fr.png" group-title="France Sport",beIN Sports 4 Max FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8562
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 6 Max FR" tvg-logo="http://pici.life/fr/Bein6Max.fr.png" group-title="France",beIN Sports 6 Max FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 6 Max FR" tvg-logo="http://pici.life/fr/Bein6Max.fr.png" group-title="France Sport",beIN Sports 6 Max FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8538
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 7 Max FR" tvg-logo="http://pici.life/fr/Bein7Max.fr.png" group-title="France",beIN Sports 7 Max FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 7 Max FR" tvg-logo="http://pici.life/fr/Bein7Max.fr.png" group-title="France Sport",beIN Sports 7 Max FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8537
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 8 Max HD FR" tvg-logo="http://pici.life/FR/Bein-sports-max-8.jpg" group-title="France",beIN Sports 8 Max HD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 8 Max HD FR" tvg-logo="http://pici.life/FR/Bein-sports-max-8.jpg" group-title="France Sport",beIN Sports 8 Max HD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/12956
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 9 Max HD FR" tvg-logo="http://pici.life/FR/Bein%20sport%20max9.jpg" group-title="France",beIN Sports 9 Max HD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 9 Max HD FR" tvg-logo="http://pici.life/FR/Bein%20sport%20max9.jpg" group-title="France Sport",beIN Sports 9 Max HD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/12954
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 10 Max FHD FR" tvg-logo="http://pici.life/FR/BEINSPORTS-MAX-10.jpg" group-title="France",beIN Sports 10 Max FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 10 Max FHD FR" tvg-logo="http://pici.life/FR/BEINSPORTS-MAX-10.jpg" group-title="France Sport",beIN Sports 10 Max FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/12953
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 FHD FR" tvg-logo="http://pici.life/FR/eurosport1hd.png" group-title="France",Eurosport 1 FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 FHD FR" tvg-logo="http://pici.life/FR/eurosport1hd.png" group-title="France Sport",Eurosport 1 FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/5672
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD FR" tvg-logo="http://pici.life/logo.png" group-title="France",Eurosport 1 HD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD FR" tvg-logo="http://pici.life/logo.png" group-title="France Sport",Eurosport 1 HD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/682922
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 FHD FR" tvg-logo="http://pici.life/FR/eurosport2hd.png" group-title="France",Eurosport 2 FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 FHD FR" tvg-logo="http://pici.life/FR/eurosport2hd.png" group-title="France Sport",Eurosport 2 FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/5671
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 HD FR" tvg-logo="http://pici.life/eurosport2_2.png" group-title="France",Eurosport 2 HD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 HD FR" tvg-logo="http://pici.life/eurosport2_2.png" group-title="France Sport",Eurosport 2 HD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/12951
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BFM Sport FR" tvg-logo="http://pici.life/fr/BFMTV.fr.png" group-title="France",BFM Sport FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BFM Sport FR" tvg-logo="http://pici.life/fr/BFMTV.fr.png" group-title="France Sport",BFM Sport FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8560
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Equidia Life HD FR" tvg-logo="http://pici.life/FR/equidialive.png" group-title="France",Equidia Life HD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Equidia Life HD FR" tvg-logo="http://pici.life/FR/equidialive.png" group-title="France Sport",Equidia Life HD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/12950
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Equidia Live FHD FR" tvg-logo="http://pici.life/fr/EquidiaLive.fr.png" group-title="France",Equidia Live FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Equidia Live FHD FR" tvg-logo="http://pici.life/fr/EquidiaLive.fr.png" group-title="France Sport",Equidia Live FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/5675
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Equipe HD FR" tvg-logo="http://pici.life/FR/Equipe_Logo.png" group-title="France",Equipe HD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Equipe HD FR" tvg-logo="http://pici.life/FR/Equipe_Logo.png" group-title="France Sport",Equipe HD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/5676
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Equipe 21 HD FR" tvg-logo="http://pici.life/FR/EQUIPE_21.png" group-title="France",Equipe 21 HD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Equipe 21 HD FR" tvg-logo="http://pici.life/FR/EQUIPE_21.png" group-title="France Sport",Equipe 21 HD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/5674
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Foot+ 24 FR" tvg-logo="http://pici.life/fr/FootPlus24.fr.png" group-title="France",Foot+ 24 FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Foot+ 24 FR" tvg-logo="http://pici.life/fr/FootPlus24.fr.png" group-title="France Sport",Foot+ 24 FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/5670
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="InfoSport+ FHD FR" tvg-logo="http://pici.life/FR/infosportplus.png" group-title="France",InfoSport+ FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="InfoSport+ FHD FR" tvg-logo="http://pici.life/FR/infosportplus.png" group-title="France Sport",InfoSport+ FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/16915
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="InfoSport+ HD FR" tvg-logo="http://pici.life/FR/infosportplus.png" group-title="France",InfoSport+ HD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="InfoSport+ HD FR" tvg-logo="http://pici.life/FR/infosportplus.png" group-title="France Sport",InfoSport+ HD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/12952
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="InfoSport+ FR" tvg-logo="http://pici.life/fr/Infosport.fr.png" group-title="France",InfoSport+ FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="InfoSport+ FR" tvg-logo="http://pici.life/fr/Infosport.fr.png" group-title="France Sport",InfoSport+ FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/5660
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golf Channel FHD FR" tvg-logo="http://pici.life/picon/golfchannel_2.png" group-title="France",Golf Channel FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golf Channel FHD FR" tvg-logo="http://pici.life/picon/golfchannel_2.png" group-title="France Sport",Golf Channel FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/16918
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golf+ FHD FR" tvg-logo="http://pici.life/FR/GOLF+_HD.jpg" group-title="France",Golf+ FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golf+ FHD FR" tvg-logo="http://pici.life/FR/GOLF+_HD.jpg" group-title="France Sport",Golf+ FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/12948
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="Germany",------- Sports -------
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="Germany Sport",------- Sports -------
 http://mytv.fun:8080/kemal100/fkcjkrj77/678834
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 FHD DE" tvg-logo="http://pici.life/DE/DAZN-Logo-Perform-Group.png" group-title="Germany",DAZN 1 FHD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 FHD DE" tvg-logo="http://pici.life/DE/DAZN-Logo-Perform-Group.png" group-title="Germany Sport",DAZN 1 FHD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/661090
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 HD DE" tvg-logo="http://pici.life/DE/DAZN-Logo-Perform-Group.png" group-title="Germany",DAZN 1 HD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 HD DE" tvg-logo="http://pici.life/DE/DAZN-Logo-Perform-Group.png" group-title="Germany Sport",DAZN 1 HD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/625243
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 [B] HD DE" tvg-logo="http://pici.life/DE/DAZN-Logo-Perform-Group.png" group-title="Germany",DAZN 1 [B] HD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 [B] HD DE" tvg-logo="http://pici.life/DE/DAZN-Logo-Perform-Group.png" group-title="Germany Sport",DAZN 1 [B] HD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/661088
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 FHD DE" tvg-logo="http://pici.life/DE/DAZN-Logo-Perform-Group.png" group-title="Germany",DAZN 2 FHD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 FHD DE" tvg-logo="http://pici.life/DE/DAZN-Logo-Perform-Group.png" group-title="Germany Sport",DAZN 2 FHD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/661089
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 HD DE" tvg-logo="http://pici.life/DE/DAZN2.png" group-title="Germany",DAZN 2 HD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 HD DE" tvg-logo="http://pici.life/DE/DAZN2.png" group-title="Germany Sport",DAZN 2 HD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/50775
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport1 FHD DE" tvg-logo="http://pici.life/DE/sport1-duslelaslu.png" group-title="Germany",Sport1 FHD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport1 FHD DE" tvg-logo="http://pici.life/DE/sport1-duslelaslu.png" group-title="Germany Sport",Sport1 FHD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/6173
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport1 HD  DE" tvg-logo="http://pici.life/DE/sport1hd-duslelaslu.png" group-title="Germany",Sport1 HD  DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport1 HD  DE" tvg-logo="http://pici.life/DE/sport1hd-duslelaslu.png" group-title="Germany Sport",Sport1 HD  DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/8221
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport1 HD DE" tvg-logo="http://pici.life/DE/sport1hd-duslelaslu.png" group-title="Germany",Sport1 HD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport1 HD DE" tvg-logo="http://pici.life/DE/sport1hd-duslelaslu.png" group-title="Germany Sport",Sport1 HD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/8226
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport1+ FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Sport1+ FHD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport1+ FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",Sport1+ FHD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679847
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport1+ HD [B] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Sport1+ HD [B] DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport1+ HD [B] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",Sport1+ HD [B] DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679848
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Fußball 2 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 2 HD [Match Time] DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Fußball 2 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",Telekom Fußball 2 HD [Match Time] DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679822
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Fußball 1 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 1 HD [Match Time] DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Fußball 1 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",Telekom Fußball 1 HD [Match Time] DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679821
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Fußball 3 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 3 HD [Match Time] DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Fußball 3 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",Telekom Fußball 3 HD [Match Time] DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679823
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Fußball 4 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 4 HD [Match Time] DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Fußball 4 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",Telekom Fußball 4 HD [Match Time] DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679824
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Fußball 5 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 5 HD [Match Time] DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Fußball 5 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",Telekom Fußball 5 HD [Match Time] DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679825
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Fußball 6 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 6 HD [Match Time] DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Fußball 6 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",Telekom Fußball 6 HD [Match Time] DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679826
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Fußball 7 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 7 HD [Match Time] DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Fußball 7 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",Telekom Fußball 7 HD [Match Time] DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679827
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 1 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Eishockey 1 [Match Time] HD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 1 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",Telekom Eishockey 1 [Match Time] HD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679671
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 2 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Eishockey 2 [Match Time] HD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 2 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",Telekom Eishockey 2 [Match Time] HD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679672
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 3 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Eishockey 3 [Match Time] HD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 3 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",Telekom Eishockey 3 [Match Time] HD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679673
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 4 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Eishockey 4 [Match Time] HD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 4 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",Telekom Eishockey 4 [Match Time] HD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679676
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Basketball 1 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Basketball 1 [Match Time] HD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Basketball 1 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",Telekom Basketball 1 [Match Time] HD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679674
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Basketball 2 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Basketball 2 [Match Time] HD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Basketball 2 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",Telekom Basketball 2 [Match Time] HD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679675
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 FHD DE" tvg-logo="http://pici.life/eurosport1hd_2.png" group-title="Germany",Eurosport 1 FHD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 FHD DE" tvg-logo="http://pici.life/eurosport1hd_2.png" group-title="Germany Sport",Eurosport 1 FHD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/8218
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 FHD DE" tvg-logo="http://pici.life/UK/Eurosport-2-UK.jpg" group-title="Germany",Eurosport 2 FHD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 FHD DE" tvg-logo="http://pici.life/UK/Eurosport-2-UK.jpg" group-title="Germany Sport",Eurosport 2 FHD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/9131
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 Xtra FHD DE" tvg-logo="http://pici.life/eurosport2Xtrahd.png" group-title="Germany",Eurosport 2 Xtra FHD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 Xtra FHD DE" tvg-logo="http://pici.life/eurosport2Xtrahd.png" group-title="Germany Sport",Eurosport 2 Xtra FHD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/13163
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 Xtra HD DE" tvg-logo="http://pici.life/eurosport2Xtrahd.png" group-title="Germany",Eurosport 2 Xtra HD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 Xtra HD DE" tvg-logo="http://pici.life/eurosport2Xtrahd.png" group-title="Germany Sport",Eurosport 2 Xtra HD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/9130
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Digital FHD DE" tvg-logo="http://pici.life/DE/Sport-Digital_hd.png" group-title="Germany",Sport Digital FHD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Digital FHD DE" tvg-logo="http://pici.life/DE/Sport-Digital_hd.png" group-title="Germany Sport",Sport Digital FHD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/8244
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Digital HD DE" tvg-logo="http://pici.life/sportdigital.png" group-title="Germany",Sport Digital HD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Digital HD DE" tvg-logo="http://pici.life/sportdigital.png" group-title="Germany Sport",Sport Digital HD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/6171
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Motorvision HD DE" tvg-logo="http://pici.life/DE/Motorvision%20hd.png" group-title="Germany",Motorvision HD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Motorvision HD DE" tvg-logo="http://pici.life/DE/Motorvision%20hd.png" group-title="Germany Sport",Motorvision HD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/8222
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Auto Motor Sport FHD DE" tvg-logo="http://pici.life/Bulgarian/auto-motor-sport.png" group-title="Germany",Auto Motor Sport FHD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Auto Motor Sport FHD DE" tvg-logo="http://pici.life/Bulgarian/auto-motor-sport.png" group-title="Germany Sport",Auto Motor Sport FHD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/9132
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FC Bayern TV HD DE" tvg-logo="http://pici.life/bayerntv.png" group-title="Germany",FC Bayern TV HD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FC Bayern TV HD DE" tvg-logo="http://pici.life/bayerntv.png" group-title="Germany Sport",FC Bayern TV HD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/9128
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEL Sport 1 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",DEL Sport 1 HD [Match Time] DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEL Sport 1 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",DEL Sport 1 HD [Match Time] DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679851
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEL Sport 2 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",DEL Sport 2 HD [Match Time] DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEL Sport 2 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",DEL Sport 2 HD [Match Time] DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679852
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEL Sport 3 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",DEL Sport 3 HD [Match Time] DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEL Sport 3 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",DEL Sport 3 HD [Match Time] DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679853
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEL Sport 4 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",DEL Sport 4 HD [Match Time] DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEL Sport 4 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",DEL Sport 4 HD [Match Time] DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679854
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEL Sport 5 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",DEL Sport 5 HD [Match Time] DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEL Sport 5 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",DEL Sport 5 HD [Match Time] DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679855
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEL Sport 6 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",DEL Sport 6 HD [Match Time] DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEL Sport 6 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany Sport",DEL Sport 6 HD [Match Time] DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679856
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="Portugal",------- Sports -------
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="Portugal Sport",------- Sports -------
 http://mytv.fun:8080/kemal100/fkcjkrj77/682900
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV 1 FHD PT" tvg-logo="http://pici.life/pta/btv1hd.png" group-title="Portugal",BTV 1 FHD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV 1 FHD PT" tvg-logo="http://pici.life/pta/btv1hd.png" group-title="Portugal Sport",BTV 1 FHD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/12521
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV 1 FHD [B] PT" tvg-logo="http://pici.life/benficatv1_2.png" group-title="Portugal",BTV 1 FHD [B] PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV 1 FHD [B] PT" tvg-logo="http://pici.life/benficatv1_2.png" group-title="Portugal Sport",BTV 1 FHD [B] PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/7534
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV 1 HD PT" tvg-logo="http://pici.life/pta/btv1hd.png" group-title="Portugal",BTV 1 HD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV 1 HD PT" tvg-logo="http://pici.life/pta/btv1hd.png" group-title="Portugal Sport",BTV 1 HD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/12520
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 FHD PT" tvg-logo="http://pici.life/eurosport.png" group-title="Portugal",Eurosport 1 FHD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 FHD PT" tvg-logo="http://pici.life/eurosport.png" group-title="Portugal Sport",Eurosport 1 FHD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/7519
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 FHD PT" tvg-logo="http://pici.life/eurosport2_2.png" group-title="Portugal",Eurosport 2 FHD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 FHD PT" tvg-logo="http://pici.life/eurosport2_2.png" group-title="Portugal Sport",Eurosport 2 FHD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/7518
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sport 1 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 1 HD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sport 1 HD PT" tvg-logo="" group-title="Portugal Sport",Eleven Sport 1 HD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/51927
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sport 2 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 2 HD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sport 2 HD PT" tvg-logo="" group-title="Portugal Sport",Eleven Sport 2 HD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/51926
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sport 3 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 3 HD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sport 3 HD PT" tvg-logo="" group-title="Portugal Sport",Eleven Sport 3 HD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/51925
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sport 4 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 4 HD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sport 4 HD PT" tvg-logo="" group-title="Portugal Sport",Eleven Sport 4 HD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/51924
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sport 5 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 5 HD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sport 5 HD PT" tvg-logo="" group-title="Portugal Sport",Eleven Sport 5 HD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/51923
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sport 6 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 6 HD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sport 6 HD PT" tvg-logo="" group-title="Portugal Sport",Eleven Sport 6 HD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/51922
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV + FHD PT" tvg-logo="http://pici.life/sporttvpluspt.png" group-title="Portugal",Sport TV + FHD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV + FHD PT" tvg-logo="http://pici.life/sporttvpluspt.png" group-title="Portugal Sport",Sport TV + FHD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/7477
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sporting TV FHD PT" tvg-logo="http://pici.life/sportingtvpt.png" group-title="Portugal",Sporting TV FHD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sporting TV FHD PT" tvg-logo="http://pici.life/sportingtvpt.png" group-title="Portugal Sport",Sporting TV FHD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/7476
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 1 FHD PT" tvg-logo="http://pici.life/pta/sporttv1pthd.png" group-title="Portugal",Sport TV 1 FHD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 1 FHD PT" tvg-logo="http://pici.life/pta/sporttv1pthd.png" group-title="Portugal Sport",Sport TV 1 FHD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/8818
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 1 [B] FHD PT" tvg-logo="http://pici.life/pta/sporttv1pt.png" group-title="Portugal",Sport TV 1 [B] FHD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 1 [B] FHD PT" tvg-logo="http://pici.life/pta/sporttv1pt.png" group-title="Portugal Sport",Sport TV 1 [B] FHD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/13097
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 1 HD PT" tvg-logo="http://pici.life/pta/sporttv1pthd.png" group-title="Portugal",Sport TV 1 HD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 1 HD PT" tvg-logo="http://pici.life/pta/sporttv1pthd.png" group-title="Portugal Sport",Sport TV 1 HD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/13096
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 2 FHD PT" tvg-logo="http://pici.life/sporttv2pthd.png" group-title="Portugal",Sport TV 2 FHD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 2 FHD PT" tvg-logo="http://pici.life/sporttv2pthd.png" group-title="Portugal Sport",Sport TV 2 FHD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/7481
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 2 HD PT" tvg-logo="http://pici.life/pta/sporttv2pthd.png" group-title="Portugal",Sport TV 2 HD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 2 HD PT" tvg-logo="http://pici.life/pta/sporttv2pthd.png" group-title="Portugal Sport",Sport TV 2 HD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/8814
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 2 PT" tvg-logo="http://pici.life/pta/sporttv2pt.png" group-title="Portugal",Sport TV 2 PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 2 PT" tvg-logo="http://pici.life/pta/sporttv2pt.png" group-title="Portugal Sport",Sport TV 2 PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/13093
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 3 FHD PT" tvg-logo="http://pici.life/pta/sporttv3hdpt.png" group-title="Portugal",Sport TV 3 FHD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 3 FHD PT" tvg-logo="http://pici.life/pta/sporttv3hdpt.png" group-title="Portugal Sport",Sport TV 3 FHD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/8817
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 3 HD PT" tvg-logo="http://pici.life/pta/sporttv3hdpt.png" group-title="Portugal",Sport TV 3 HD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 3 HD PT" tvg-logo="http://pici.life/pta/sporttv3hdpt.png" group-title="Portugal Sport",Sport TV 3 HD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/8813
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 3 PT" tvg-logo="http://pici.life/pta/sporttv3pt.png" group-title="Portugal",Sport TV 3 PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 3 PT" tvg-logo="http://pici.life/pta/sporttv3pt.png" group-title="Portugal Sport",Sport TV 3 PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/13091
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 4 FHD PT" tvg-logo="http://pici.life/pta/sporttv4hdpt.png" group-title="Portugal",Sport TV 4 FHD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 4 FHD PT" tvg-logo="http://pici.life/pta/sporttv4hdpt.png" group-title="Portugal Sport",Sport TV 4 FHD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/8816
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 4 PT" tvg-logo="http://pici.life/pta/sporttv4pt.png" group-title="Portugal",Sport TV 4 PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 4 PT" tvg-logo="http://pici.life/pta/sporttv4pt.png" group-title="Portugal Sport",Sport TV 4 PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/13089
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 4 HD PT" tvg-logo="http://pici.life/sporttv4hdpt.png" group-title="Portugal",Sport TV 4 HD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 4 HD PT" tvg-logo="http://pici.life/sporttv4hdpt.png" group-title="Portugal Sport",Sport TV 4 HD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/7479
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 5 FHD PT" tvg-logo="http://pici.life/sporttv5hdpt.png" group-title="Portugal",Sport TV 5 FHD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 5 FHD PT" tvg-logo="http://pici.life/sporttv5hdpt.png" group-title="Portugal Sport",Sport TV 5 FHD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/7478
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 5 HD PT" tvg-logo="http://pici.life/pta/sporttv5hdpt.png" group-title="Portugal",Sport TV 5 HD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 5 HD PT" tvg-logo="http://pici.life/pta/sporttv5hdpt.png" group-title="Portugal Sport",Sport TV 5 HD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/8812
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 5 PT" tvg-logo="http://pici.life/pta/sporttv5pt.png" group-title="Portugal",Sport TV 5 PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 5 PT" tvg-logo="http://pici.life/pta/sporttv5pt.png" group-title="Portugal Sport",Sport TV 5 PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/13087
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Madrid TV PT" tvg-logo="http://pici.life/realmadridtv_2.png" group-title="Portugal",Real Madrid TV PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Madrid TV PT" tvg-logo="http://pici.life/realmadridtv_2.png" group-title="Portugal Sport",Real Madrid TV PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/7497
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV PT" tvg-logo="http://pici.life/nbausa.png" group-title="Portugal",NBA TV PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV PT" tvg-logo="http://pici.life/nbausa.png" group-title="Portugal Sport",NBA TV PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/8799
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toros TV PT" tvg-logo="http://pici.life/torostv_2.png" group-title="Portugal",Toros TV PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toros TV PT" tvg-logo="http://pici.life/torostv_2.png" group-title="Portugal Sport",Toros TV PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/7473
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fuel TV PT" tvg-logo="http://pici.life/fueltvus.png" group-title="Portugal",Fuel TV PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fuel TV PT" tvg-logo="http://pici.life/fueltvus.png" group-title="Portugal Sport",Fuel TV PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/7512
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kombat Sports PT" tvg-logo="http://pici.life/kombatsportpt.png" group-title="Portugal",Kombat Sports PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kombat Sports PT" tvg-logo="http://pici.life/kombatsportpt.png" group-title="Portugal Sport",Kombat Sports PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/8793
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 11 HD PT" tvg-logo="http://pici.life/PT/canal11.png" group-title="Portugal",Canal 11 HD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 11 HD PT" tvg-logo="http://pici.life/PT/canal11.png" group-title="Portugal Sport",Canal 11 HD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/670849
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PFC PT" tvg-logo="http://pici.life/pfcpt.png" group-title="Portugal",PFC PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PFC PT" tvg-logo="http://pici.life/pfcpt.png" group-title="Portugal Sport",PFC PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/7500
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="Netherlands",------- Sports -------
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="Netherlands Sport",------- Sports -------
 http://mytv.fun:8080/kemal100/fkcjkrj77/683257
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport NL" tvg-logo="http://pici.life/NL/Ziggo-Sport.png" group-title="Netherlands",Ziggo Sport NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport NL" tvg-logo="http://pici.life/NL/Ziggo-Sport.png" group-title="Netherlands Sport",Ziggo Sport NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/11387
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Extra FHD NL" tvg-logo="http://pici.life/NL/ziggosportextra2.png" group-title="Netherlands",Ziggo Sport Extra FHD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Extra FHD NL" tvg-logo="http://pici.life/NL/ziggosportextra2.png" group-title="Netherlands Sport",Ziggo Sport Extra FHD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/625239
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Voetbal HD NL" tvg-logo="http://pici.life/NL/ziggosportvoetbal.png" group-title="Netherlands",Ziggo Sport Voetbal HD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Voetbal HD NL" tvg-logo="http://pici.life/NL/ziggosportvoetbal.png" group-title="Netherlands Sport",Ziggo Sport Voetbal HD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/5112
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Golf FHD NL" tvg-logo="http://pici.life/NL/ziggosportgolf.png" group-title="Netherlands",Ziggo Sport Golf FHD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Golf FHD NL" tvg-logo="http://pici.life/NL/ziggosportgolf.png" group-title="Netherlands Sport",Ziggo Sport Golf FHD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/5114
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Golf HD NL" tvg-logo="http://pici.life/NL/Sport1_Golf.jpg" group-title="Netherlands",Ziggo Sport Golf HD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Golf HD NL" tvg-logo="http://pici.life/NL/Sport1_Golf.jpg" group-title="Netherlands Sport",Ziggo Sport Golf HD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/6460
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Racing FHD NL" tvg-logo="http://pici.life/NL/ziggosportracing.png" group-title="Netherlands",Ziggo Sport Racing FHD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Racing FHD NL" tvg-logo="http://pici.life/NL/ziggosportracing.png" group-title="Netherlands Sport",Ziggo Sport Racing FHD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/13119
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Racing HD NL" tvg-logo="http://pici.life/NL/ziggosportracing.png" group-title="Netherlands",Ziggo Sport Racing HD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Racing HD NL" tvg-logo="http://pici.life/NL/ziggosportracing.png" group-title="Netherlands Sport",Ziggo Sport Racing HD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/5111
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Select FHD NL" tvg-logo="http://pici.life/ziggosportselect_2.png" group-title="Netherlands",Ziggo Sport Select FHD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Select FHD NL" tvg-logo="http://pici.life/ziggosportselect_2.png" group-title="Netherlands Sport",Ziggo Sport Select FHD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/53267
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Select HD NL" tvg-logo="http://pici.life/NL/ziggosportselect.png" group-title="Netherlands",Ziggo Sport Select HD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Select HD NL" tvg-logo="http://pici.life/NL/ziggosportselect.png" group-title="Netherlands Sport",Ziggo Sport Select HD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/5113
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Docu FHD NL" tvg-logo="http://pici.life/NL/ziggosportextra1.png" group-title="Netherlands",Ziggo Sport Docu FHD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Docu FHD NL" tvg-logo="http://pici.life/NL/ziggosportextra1.png" group-title="Netherlands Sport",Ziggo Sport Docu FHD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/5110
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 1 FHD NL" tvg-logo="http://pici.life/NL/foxsports1hd.png" group-title="Netherlands",Fox Sports 1 FHD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 1 FHD NL" tvg-logo="http://pici.life/NL/foxsports1hd.png" group-title="Netherlands Sport",Fox Sports 1 FHD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/6487
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 1 HD NL" tvg-logo="http://pici.life/NL/foxsports1hd.png" group-title="Netherlands",Fox Sports 1 HD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 1 HD NL" tvg-logo="http://pici.life/NL/foxsports1hd.png" group-title="Netherlands Sport",Fox Sports 1 HD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/5143
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2 FHD NL" tvg-logo="http://pici.life/NL/foxsports2hd.png" group-title="Netherlands",Fox Sports 2 FHD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2 FHD NL" tvg-logo="http://pici.life/NL/foxsports2hd.png" group-title="Netherlands Sport",Fox Sports 2 FHD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/6486
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2 NL" tvg-logo="http://pici.life/NL/foxsports2.png" group-title="Netherlands",Fox Sports 2 NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2 NL" tvg-logo="http://pici.life/NL/foxsports2.png" group-title="Netherlands Sport",Fox Sports 2 NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/5142
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 3 FHD NL" tvg-logo="http://pici.life/NL/Fox_Sports_3_HD.png" group-title="Netherlands",Fox Sports 3 FHD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 3 FHD NL" tvg-logo="http://pici.life/NL/Fox_Sports_3_HD.png" group-title="Netherlands Sport",Fox Sports 3 FHD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/6485
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 3 HD NL" tvg-logo="http://pici.life/NL/Fox_Sports_3_HD.png" group-title="Netherlands",Fox Sports 3 HD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 3 HD NL" tvg-logo="http://pici.life/NL/Fox_Sports_3_HD.png" group-title="Netherlands Sport",Fox Sports 3 HD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/5141
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 4 FHD NL" tvg-logo="http://pici.life/NL/foxsports4hd.png" group-title="Netherlands",Fox Sports 4 FHD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 4 FHD NL" tvg-logo="http://pici.life/NL/foxsports4hd.png" group-title="Netherlands Sport",Fox Sports 4 FHD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/64848
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 4 HD NL" tvg-logo="http://pici.life/NL/foxsports4hd.png" group-title="Netherlands",Fox Sports 4 HD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 4 HD NL" tvg-logo="http://pici.life/NL/foxsports4hd.png" group-title="Netherlands Sport",Fox Sports 4 HD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/514522
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 5 FHD NL" tvg-logo="http://pici.life/NL/foxsports5.png" group-title="Netherlands",Fox Sports 5 FHD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 5 FHD NL" tvg-logo="http://pici.life/NL/foxsports5.png" group-title="Netherlands Sport",Fox Sports 5 FHD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/64338
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 5 HD NL" tvg-logo="http://pici.life/NL/foxsports5.png" group-title="Netherlands",Fox Sports 5 HD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 5 HD NL" tvg-logo="http://pici.life/NL/foxsports5.png" group-title="Netherlands Sport",Fox Sports 5 HD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/513532
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 6 FHD NL" tvg-logo="http://pici.life/NL/foxsports6hd.png" group-title="Netherlands",Fox Sports 6 FHD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 6 FHD NL" tvg-logo="http://pici.life/NL/foxsports6hd.png" group-title="Netherlands Sport",Fox Sports 6 FHD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/131212
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 6 HD NL" tvg-logo="http://pici.life/NL/foxsports6hd.png" group-title="Netherlands",Fox Sports 6 HD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 6 HD NL" tvg-logo="http://pici.life/NL/foxsports6hd.png" group-title="Netherlands Sport",Fox Sports 6 HD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/513821
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 FHD NL" tvg-logo="http://pici.life/NL/eurosport1hd.png" group-title="Netherlands",Eurosport 1 FHD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 FHD NL" tvg-logo="http://pici.life/NL/eurosport1hd.png" group-title="Netherlands Sport",Eurosport 1 FHD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/11444
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 NL" tvg-logo="http://pici.life/NL/eurosport1.png" group-title="Netherlands",Eurosport 1 NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 NL" tvg-logo="http://pici.life/NL/eurosport1.png" group-title="Netherlands Sport",Eurosport 1 NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/11445
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 FHD NL" tvg-logo="http://pici.life/NL/eurosport2.png" group-title="Netherlands",Eurosport 2 FHD NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 FHD NL" tvg-logo="http://pici.life/NL/eurosport2.png" group-title="Netherlands Sport",Eurosport 2 FHD NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/11443
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Extreme Sports NL" tvg-logo="http://pici.life/NL/extremesports.png" group-title="Netherlands",Extreme Sports NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Extreme Sports NL" tvg-logo="http://pici.life/NL/extremesports.png" group-title="Netherlands Sport",Extreme Sports NL
 http://mytv.fun:8080/kemal100/fkcjkrj77/11442
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="Romania",------- Sports -------
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="Romania Sport",------- Sports -------
 http://mytv.fun:8080/kemal100/fkcjkrj77/683289
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIGI Sport 1 FHD RO" tvg-logo="http://pici.life/RO/digisport1.png" group-title="Romania",DIGI Sport 1 FHD RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIGI Sport 1 FHD RO" tvg-logo="http://pici.life/RO/digisport1.png" group-title="Romania Sport",DIGI Sport 1 FHD RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/149962
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 1 RO" tvg-logo="http://pici.life/RO/digisport1.png" group-title="Romania",Digi Sport 1 RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 1 RO" tvg-logo="http://pici.life/RO/digisport1.png" group-title="Romania Sport",Digi Sport 1 RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/5321
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIGI Sport 2 FHD RO" tvg-logo="http://pici.life/RO/digisport2.png" group-title="Romania",DIGI Sport 2 FHD RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIGI Sport 2 FHD RO" tvg-logo="http://pici.life/RO/digisport2.png" group-title="Romania Sport",DIGI Sport 2 FHD RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/14995
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 2 RO" tvg-logo="http://pici.life/ro/DigiSport2.ro.png" group-title="Romania",Digi Sport 2 RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 2 RO" tvg-logo="http://pici.life/ro/DigiSport2.ro.png" group-title="Romania Sport",Digi Sport 2 RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/5320
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIGI Sport 3 FHD RO" tvg-logo="http://pici.life/RO/digisport3.png" group-title="Romania",DIGI Sport 3 FHD RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIGI Sport 3 FHD RO" tvg-logo="http://pici.life/RO/digisport3.png" group-title="Romania Sport",DIGI Sport 3 FHD RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/14994
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 3 RO" tvg-logo="http://pici.life/ro/DigiSport3.ro.png" group-title="Romania",Digi Sport 3 RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 3 RO" tvg-logo="http://pici.life/ro/DigiSport3.ro.png" group-title="Romania Sport",Digi Sport 3 RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/5319
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 4 RO" tvg-logo="http://pici.life/RO/digisport4.png" group-title="Romania",Digi Sport 4 RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 4 RO" tvg-logo="http://pici.life/RO/digisport4.png" group-title="Romania Sport",Digi Sport 4 RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/5318
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Sport 1 RO" tvg-logo="http://pici.life/ro/DolceSport1.ro.png" group-title="Romania",Telekom Sport 1 RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Sport 1 RO" tvg-logo="http://pici.life/ro/DolceSport1.ro.png" group-title="Romania Sport",Telekom Sport 1 RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/53855
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Sport 1 [B] RO" tvg-logo="http://pici.life/FR/Telekom_Sport_1.png" group-title="Romania",Telekom Sport 1 [B] RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Sport 1 [B] RO" tvg-logo="http://pici.life/FR/Telekom_Sport_1.png" group-title="Romania Sport",Telekom Sport 1 [B] RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/128252
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Sport 2 FHD RO" tvg-logo="http://pici.life/FR/Telekom_Sport_2.png" group-title="Romania",Telekom Sport 2 FHD RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Sport 2 FHD RO" tvg-logo="http://pici.life/FR/Telekom_Sport_2.png" group-title="Romania Sport",Telekom Sport 2 FHD RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/12920
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Sport 3 RO" tvg-logo="http://pici.life/RO/Telekom_Sport.png" group-title="Romania",Telekom Sport 3 RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Sport 3 RO" tvg-logo="http://pici.life/RO/Telekom_Sport.png" group-title="Romania Sport",Telekom Sport 3 RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/12979
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Sport 4 RO" tvg-logo="http://pici.life/RO/Telekom_Sport_2.png" group-title="Romania",Telekom Sport 4 RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Sport 4 RO" tvg-logo="http://pici.life/RO/Telekom_Sport_2.png" group-title="Romania Sport",Telekom Sport 4 RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/12042
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 FHD RO" tvg-logo="http://pici.life/ro/Eurosport1.ro.png" group-title="Romania",Eurosport 1 FHD RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 FHD RO" tvg-logo="http://pici.life/ro/Eurosport1.ro.png" group-title="Romania Sport",Eurosport 1 FHD RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/5292
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD RO" tvg-logo="http://pici.life/eurosport1hd_2.png" group-title="Romania",Eurosport 1 HD RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD RO" tvg-logo="http://pici.life/eurosport1hd_2.png" group-title="Romania Sport",Eurosport 1 HD RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/12981
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 FHD RO" tvg-logo="http://pici.life/ro/Eurosport2.ro.png" group-title="Romania",Eurosport 2 FHD RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 FHD RO" tvg-logo="http://pici.life/ro/Eurosport2.ro.png" group-title="Romania Sport",Eurosport 2 FHD RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/5291
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 HD RO" tvg-logo="http://pici.life/eurosport2hd_2.png" group-title="Romania",Eurosport 2 HD RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 HD RO" tvg-logo="http://pici.life/eurosport2hd_2.png" group-title="Romania Sport",Eurosport 2 HD RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/14990
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pro X RO" tvg-logo="http://pici.life/RO/Pro_X.png" group-title="Romania",Pro X RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pro X RO" tvg-logo="http://pici.life/RO/Pro_X.png" group-title="Romania Sport",Pro X RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/12057
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Look Sport HD RO" tvg-logo="http://pici.life/ro/LookTV.ro.png" group-title="Romania",Look Sport HD RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Look Sport HD RO" tvg-logo="http://pici.life/ro/LookTV.ro.png" group-title="Romania Sport",Look Sport HD RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/5314
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Look Sport Plus RO" tvg-logo="http://pici.life/ro/LookPlus.ro.png" group-title="Romania",Look Sport Plus RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Look Sport Plus RO" tvg-logo="http://pici.life/ro/LookPlus.ro.png" group-title="Romania Sport",Look Sport Plus RO
 http://mytv.fun:8080/kemal100/fkcjkrj77/5313
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Haber HD TR" tvg-logo="" group-title="Turkey",beIN Sports Haber HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Haber HD TR" tvg-logo="" group-title="Turkey Sport",beIN Sports Haber HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/623058
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sport Haber TR" tvg-logo="http://pici.life/TR/Beinsportshaber.png" group-title="Turkey",Bein Sport Haber TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sport Haber TR" tvg-logo="http://pici.life/TR/Beinsportshaber.png" group-title="Turkey Sport",Bein Sport Haber TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/12836
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 FHD TR" tvg-logo="http://pici.life/beinsport1hd_2.png" group-title="Turkey",beIN Sports 1 FHD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 FHD TR" tvg-logo="http://pici.life/beinsport1hd_2.png" group-title="Turkey Sport",beIN Sports 1 FHD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/681951
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 HD TR" tvg-logo="http://pici.life/beinsport1hd_2.png" group-title="Turkey",beIN Sports 1 HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 HD TR" tvg-logo="http://pici.life/beinsport1hd_2.png" group-title="Turkey Sport",beIN Sports 1 HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/6908
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 [Yedek] HD TR" tvg-logo="http://pici.life/beinsport1hd_2.png" group-title="Turkey",beIN Sports 1 [Yedek] HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 [Yedek] HD TR" tvg-logo="http://pici.life/beinsport1hd_2.png" group-title="Turkey Sport",beIN Sports 1 [Yedek] HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/13232
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 TR" tvg-logo="http://pici.life/beinsport1hd_2.png" group-title="Turkey",beIN Sports 1 TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 TR" tvg-logo="http://pici.life/beinsport1hd_2.png" group-title="Turkey Sport",beIN Sports 1 TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/623692
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 HD TR" tvg-logo="http://pici.life/TR/Logo_beIN_SPORTS_2%20hd.png" group-title="Turkey",beIN Sports 2 HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 HD TR" tvg-logo="http://pici.life/TR/Logo_beIN_SPORTS_2%20hd.png" group-title="Turkey Sport",beIN Sports 2 HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/6907
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 [Yedek] HD TR" tvg-logo="http://pici.life/TR/Logo_beIN_SPORTS_2%20hd.png" group-title="Turkey",beIN Sports 2 [Yedek] HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 [Yedek] HD TR" tvg-logo="http://pici.life/TR/Logo_beIN_SPORTS_2%20hd.png" group-title="Turkey Sport",beIN Sports 2 [Yedek] HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/13231
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 HD TR" tvg-logo="http://pici.life/beinsports3hd_2.png" group-title="Turkey",beIN Sports 3 HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 HD TR" tvg-logo="http://pici.life/beinsports3hd_2.png" group-title="Turkey Sport",beIN Sports 3 HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/6906
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 (Yedek) HD TR" tvg-logo="http://pici.life/TR/Logo_beIN_SPORTS_3%20hd.png" group-title="Turkey",beIN Sports 3 (Yedek) HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 (Yedek) HD TR" tvg-logo="http://pici.life/TR/Logo_beIN_SPORTS_3%20hd.png" group-title="Turkey Sport",beIN Sports 3 (Yedek) HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8740
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 4 HD TR" tvg-logo="http://pici.life/beinsport4hd_2.png" group-title="Turkey",beIN Sports 4 HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 4 HD TR" tvg-logo="http://pici.life/beinsport4hd_2.png" group-title="Turkey Sport",beIN Sports 4 HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/6905
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 4 (Yedek) HD TR" tvg-logo="http://pici.life/TR/beinsport4hd.png" group-title="Turkey",beIN Sports 4 (Yedek) HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 4 (Yedek) HD TR" tvg-logo="http://pici.life/TR/beinsport4hd.png" group-title="Turkey Sport",beIN Sports 4 (Yedek) HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/13874
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 1 HD TR" tvg-logo="http://pici.life/beIN%20Media%20Group/beinmax1.png" group-title="Turkey",beIN Sports Max 1 HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 1 HD TR" tvg-logo="http://pici.life/beIN%20Media%20Group/beinmax1.png" group-title="Turkey Sport",beIN Sports Max 1 HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/16006
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 2 HD TR" tvg-logo="http://pici.life/beIN%20Media%20Group/beinmax2.png" group-title="Turkey",beIN Sports Max 2 HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 2 HD TR" tvg-logo="http://pici.life/beIN%20Media%20Group/beinmax2.png" group-title="Turkey Sport",beIN Sports Max 2 HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/16005
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tivibu Sport 1 FHD TR" tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="Turkey",Tivibu Sport 1 FHD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tivibu Sport 1 FHD TR" tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="Turkey Sport",Tivibu Sport 1 FHD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8725
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tivibu Spor 1 HD TR" tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="Turkey",Tivibu Spor 1 HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tivibu Spor 1 HD TR" tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="Turkey Sport",Tivibu Spor 1 HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8736
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tivibu Sport 2 FHD TR" tvg-logo="http://pici.life/TR/tivibusporttr2.png" group-title="Turkey",Tivibu Sport 2 FHD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tivibu Sport 2 FHD TR" tvg-logo="http://pici.life/TR/tivibusporttr2.png" group-title="Turkey Sport",Tivibu Sport 2 FHD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8724
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tivibu Spor 2 HD TR" tvg-logo="http://pici.life/TR/tivibusporttr2.png" group-title="Turkey",Tivibu Spor 2 HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tivibu Spor 2 HD TR" tvg-logo="http://pici.life/TR/tivibusporttr2.png" group-title="Turkey Sport",Tivibu Spor 2 HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8735
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tivibu Sport 3 FHD TR" tvg-logo="http://pici.life/tivibusporttr3.png" group-title="Turkey",Tivibu Sport 3 FHD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tivibu Sport 3 FHD TR" tvg-logo="http://pici.life/tivibusporttr3.png" group-title="Turkey Sport",Tivibu Sport 3 FHD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8723
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="S Sport HD TR" tvg-logo="http://pici.life/TR/S_sports.jpg" group-title="Turkey",S Sport HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="S Sport HD TR" tvg-logo="http://pici.life/TR/S_sports.jpg" group-title="Turkey Sport",S Sport HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8729
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smart Spor HD TR" tvg-logo="http://pici.life/smartspotv.png" group-title="Turkey",Smart Spor HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smart Spor HD TR" tvg-logo="http://pici.life/smartspotv.png" group-title="Turkey Sport",Smart Spor HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8739
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smart Spor [Yedek] TR" tvg-logo="http://pici.life/TR/smartspotv2.png" group-title="Turkey",Smart Spor [Yedek] TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smart Spor [Yedek] TR" tvg-logo="http://pici.life/TR/smartspotv2.png" group-title="Turkey Sport",Smart Spor [Yedek] TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8738
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sports TV TR" tvg-logo="http://pici.life/sports_tv_tr.png" group-title="Turkey",Sports TV TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sports TV TR" tvg-logo="http://pici.life/sports_tv_tr.png" group-title="Turkey Sport",Sports TV TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8737
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD TR" tvg-logo="http://pici.life/TR/eurosport1hd.png" group-title="Turkey",Eurosport 1 HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD TR" tvg-logo="http://pici.life/TR/eurosport1hd.png" group-title="Turkey Sport",Eurosport 1 HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/6879
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 HD TR" tvg-logo="http://pici.life/TR/eurosport2hd.png" group-title="Turkey",Eurosport 2 HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 HD TR" tvg-logo="http://pici.life/TR/eurosport2hd.png" group-title="Turkey Sport",Eurosport 2 HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/6878
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Spor HD TR" tvg-logo="http://pici.life/trtsporhdtr_2.png" group-title="Turkey",TRT Spor HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Spor HD TR" tvg-logo="http://pici.life/trtsporhdtr_2.png" group-title="Turkey Sport",TRT Spor HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/3482
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Spor HD TR" tvg-logo="http://pici.life/TR/asporthdtr.png" group-title="Turkey",A Spor HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Spor HD TR" tvg-logo="http://pici.life/TR/asporthdtr.png" group-title="Turkey Sport",A Spor HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8726
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Spor TR" tvg-logo="http://pici.life/TR/asporthdtr.png" group-title="Turkey",A Spor TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Spor TR" tvg-logo="http://pici.life/TR/asporthdtr.png" group-title="Turkey Sport",A Spor TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/6918
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GS TV HD TR" tvg-logo="http://pici.life/TR/gstvtr.png" group-title="Turkey",GS TV HD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GS TV HD TR" tvg-logo="http://pici.life/TR/gstvtr.png" group-title="Turkey Sport",GS TV HD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/6873
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galatasaray TV TR" tvg-logo="http://pici.life/TR/gstvtr.png" group-title="Turkey",Galatasaray TV TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galatasaray TV TR" tvg-logo="http://pici.life/TR/gstvtr.png" group-title="Turkey Sport",Galatasaray TV TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8684
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FB TV TR" tvg-logo="http://pici.life/fbtvtr_2.png" group-title="Turkey",FB TV TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FB TV TR" tvg-logo="http://pici.life/fbtvtr_2.png" group-title="Turkey Sport",FB TV TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/6883
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fenerbahce TV TR" tvg-logo="http://pici.life/TR/fbtvtr.png" group-title="Turkey",Fenerbahce TV TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fenerbahce TV TR" tvg-logo="http://pici.life/TR/fbtvtr.png" group-title="Turkey Sport",Fenerbahce TV TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8683
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BJK TV TR" tvg-logo="http://pici.life/TR/bjktr.png" group-title="Turkey",BJK TV TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BJK TV TR" tvg-logo="http://pici.life/TR/bjktr.png" group-title="Turkey Sport",BJK TV TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/6901
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sports TV [B] TR" tvg-logo="http://pici.life/TR/sportstvtr.png" group-title="Turkey",Sports TV [B] TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sports TV [B] TR" tvg-logo="http://pici.life/TR/sportstvtr.png" group-title="Turkey Sport",Sports TV [B] TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8668
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TJK TV FHD TR" tvg-logo="http://pici.life/TR/tjk-tv.png" group-title="Turkey",TJK TV FHD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TJK TV FHD TR" tvg-logo="http://pici.life/TR/tjk-tv.png" group-title="Turkey Sport",TJK TV FHD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/8650
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV TR" tvg-logo="" group-title="Turkey",NBA TV TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV TR" tvg-logo="" group-title="Turkey Sport",NBA TV TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/626988
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- UK Sports -------" tvg-logo="" group-title="United Kingdom",------- UK Sports -------
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- UK Sports -------" tvg-logo="" group-title="United Kingdom Sport",------- UK Sports -------
 http://mytv.fun:8080/kemal100/fkcjkrj77/15576
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUTV FHD VIP UK" tvg-logo="http://pici.life/UK/mutv.png" group-title="United Kingdom",MUTV FHD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUTV FHD VIP UK" tvg-logo="http://pici.life/UK/mutv.png" group-title="United Kingdom Sport",MUTV FHD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/684682
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUTV HD VIP UK" tvg-logo="http://pici.life/UK/mutv.png" group-title="United Kingdom",MUTV HD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUTV HD VIP UK" tvg-logo="http://pici.life/UK/mutv.png" group-title="United Kingdom Sport",MUTV HD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/684683
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1 HD UK" tvg-logo="http://pici.life/logo.png" group-title="United Kingdom",Eleven Sports 1 HD UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1 HD UK" tvg-logo="http://pici.life/logo.png" group-title="United Kingdom Sport",Eleven Sports 1 HD UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/682019
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liverpool FC VIP UK" tvg-logo="http://pici.life/UK/liverpoolfctv.png" group-title="United Kingdom",Liverpool FC VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liverpool FC VIP UK" tvg-logo="http://pici.life/UK/liverpoolfctv.png" group-title="United Kingdom Sport",Liverpool FC VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/656978
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 1 FHD VIP UK" tvg-logo="http://pici.life/uk/BTSport1.uk.png" group-title="United Kingdom",BT Sport 1 FHD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 1 FHD VIP UK" tvg-logo="http://pici.life/uk/BTSport1.uk.png" group-title="United Kingdom Sport",BT Sport 1 FHD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683851
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 1 HD VIP UK" tvg-logo="http://pici.life/uk/BTSport1.uk.png" group-title="United Kingdom",BT Sport 1 HD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 1 HD VIP UK" tvg-logo="http://pici.life/uk/BTSport1.uk.png" group-title="United Kingdom Sport",BT Sport 1 HD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/677901
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 1 VIP UK" tvg-logo="http://pici.life/uk/BTSport1.uk.png" group-title="United Kingdom",BT Sport 1 VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 1 VIP UK" tvg-logo="http://pici.life/uk/BTSport1.uk.png" group-title="United Kingdom Sport",BT Sport 1 VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683852
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 2 FHD VIP UK" tvg-logo="http://pici.life/UK/btsport2hd.png" group-title="United Kingdom",BT Sport 2 FHD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 2 FHD VIP UK" tvg-logo="http://pici.life/UK/btsport2hd.png" group-title="United Kingdom Sport",BT Sport 2 FHD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683854
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 2 HD VIP UK" tvg-logo="http://pici.life/UK/btsport2hd.png" group-title="United Kingdom",BT Sport 2 HD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 2 HD VIP UK" tvg-logo="http://pici.life/UK/btsport2hd.png" group-title="United Kingdom Sport",BT Sport 2 HD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/677902
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 2 VIP UK" tvg-logo="http://pici.life/UK/btsport2hd.png" group-title="United Kingdom",BT Sport 2 VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 2 VIP UK" tvg-logo="http://pici.life/UK/btsport2hd.png" group-title="United Kingdom Sport",BT Sport 2 VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683855
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 3 FHD VIP UK" tvg-logo="http://pici.life/uk/BTSport3.uk.png" group-title="United Kingdom",BT Sport 3 FHD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 3 FHD VIP UK" tvg-logo="http://pici.life/uk/BTSport3.uk.png" group-title="United Kingdom Sport",BT Sport 3 FHD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683856
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 3 HD VIP UK" tvg-logo="http://pici.life/uk/BTSport3.uk.png" group-title="United Kingdom",BT Sport 3 HD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 3 HD VIP UK" tvg-logo="http://pici.life/uk/BTSport3.uk.png" group-title="United Kingdom Sport",BT Sport 3 HD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/684435
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 3 VIP UK" tvg-logo="http://pici.life/uk/BTSport3.uk.png" group-title="United Kingdom",BT Sport 3 VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 3 VIP UK" tvg-logo="http://pici.life/uk/BTSport3.uk.png" group-title="United Kingdom Sport",BT Sport 3 VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/677903
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 1 [Match Time] UK" tvg-logo="http://pici.life/uk/BTSportX1.uk.png" group-title="United Kingdom",BT Sport Extra 1 [Match Time] UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 1 [Match Time] UK" tvg-logo="http://pici.life/uk/BTSportX1.uk.png" group-title="United Kingdom Sport",BT Sport Extra 1 [Match Time] UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683826
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 2 [Match Time] UK" tvg-logo="http://pici.life/uk/BTSportX2.uk.png" group-title="United Kingdom",BT Sport Extra 2 [Match Time] UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 2 [Match Time] UK" tvg-logo="http://pici.life/uk/BTSportX2.uk.png" group-title="United Kingdom Sport",BT Sport Extra 2 [Match Time] UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683827
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 3 [Match Time] UK" tvg-logo="" group-title="United Kingdom",BT Sport Extra 3 [Match Time] UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 3 [Match Time] UK" tvg-logo="" group-title="United Kingdom Sport",BT Sport Extra 3 [Match Time] UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683829
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 4 [Match Time] UK" tvg-logo="http://pici.life/btsport4extra.png" group-title="United Kingdom",BT Sport Extra 4 [Match Time] UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 4 [Match Time] UK" tvg-logo="http://pici.life/btsport4extra.png" group-title="United Kingdom Sport",BT Sport Extra 4 [Match Time] UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683830
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 5 [Match Time] UK" tvg-logo="" group-title="United Kingdom",BT Sport Extra 5 [Match Time] UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 5 [Match Time] UK" tvg-logo="" group-title="United Kingdom Sport",BT Sport Extra 5 [Match Time] UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683831
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 6 [Match Time] UK" tvg-logo="" group-title="United Kingdom",BT Sport Extra 6 [Match Time] UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 6 [Match Time] UK" tvg-logo="" group-title="United Kingdom Sport",BT Sport Extra 6 [Match Time] UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683832
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport ESPN FHD VIP UK" tvg-logo="http://pici.life/uk/BTSportESPN.uk.png" group-title="United Kingdom",BT Sport ESPN FHD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport ESPN FHD VIP UK" tvg-logo="http://pici.life/uk/BTSportESPN.uk.png" group-title="United Kingdom Sport",BT Sport ESPN FHD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/684436
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport ESPN HD VIP UK" tvg-logo="http://pici.life/uk/BTSportESPN.uk.png" group-title="United Kingdom",BT Sport ESPN HD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport ESPN HD VIP UK" tvg-logo="http://pici.life/uk/BTSportESPN.uk.png" group-title="United Kingdom Sport",BT Sport ESPN HD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683993
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport ESPN VIP UK" tvg-logo="http://pici.life/uk/BTSportESPN.uk.png" group-title="United Kingdom",BT Sport ESPN VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport ESPN VIP UK" tvg-logo="http://pici.life/uk/BTSportESPN.uk.png" group-title="United Kingdom Sport",BT Sport ESPN VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683994
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 FHD VIP UK" tvg-logo="http://pici.life/UK/Eurosport-1-UK.jpg" group-title="United Kingdom",Eurosport 1 FHD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 FHD VIP UK" tvg-logo="http://pici.life/UK/Eurosport-1-UK.jpg" group-title="United Kingdom Sport",Eurosport 1 FHD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/684075
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD VIP UK" tvg-logo="http://pici.life/UK/Eurosport-1-UK.jpg" group-title="United Kingdom",Eurosport 1 HD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD VIP UK" tvg-logo="http://pici.life/UK/Eurosport-1-UK.jpg" group-title="United Kingdom Sport",Eurosport 1 HD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/684076
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EuroSport 2 FHD VIP UK" tvg-logo="http://pici.life/UK/eurosport2hd.png" group-title="United Kingdom",EuroSport 2 FHD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EuroSport 2 FHD VIP UK" tvg-logo="http://pici.life/UK/eurosport2hd.png" group-title="United Kingdom Sport",EuroSport 2 FHD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/684077
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EuroSport 2 HD VIP UK" tvg-logo="http://pici.life/UK/eurosport2hd.png" group-title="United Kingdom",EuroSport 2 HD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EuroSport 2 HD VIP UK" tvg-logo="http://pici.life/UK/eurosport2hd.png" group-title="United Kingdom Sport",EuroSport 2 HD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/684078
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Box Nation HD UK" tvg-logo="http://pici.life/UK/BoxNation.uk.png" group-title="United Kingdom",Box Nation HD UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Box Nation HD UK" tvg-logo="http://pici.life/UK/BoxNation.uk.png" group-title="United Kingdom Sport",Box Nation HD UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/671396
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Box Nation VIP UK" tvg-logo="http://pici.life/UK/boxnation.png" group-title="United Kingdom",Box Nation VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Box Nation VIP UK" tvg-logo="http://pici.life/UK/boxnation.png" group-title="United Kingdom Sport",Box Nation VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/15783
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Network UK" tvg-logo="http://pici.life/UK/Fight_Network.png" group-title="United Kingdom",Fight Network UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Network UK" tvg-logo="http://pici.life/UK/Fight_Network.png" group-title="United Kingdom Sport",Fight Network UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/15747
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eir Sports 1 FHD VIP UK" tvg-logo="http://pici.life/UK/Eir1.png" group-title="United Kingdom",Eir Sports 1 FHD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eir Sports 1 FHD VIP UK" tvg-logo="http://pici.life/UK/Eir1.png" group-title="United Kingdom Sport",Eir Sports 1 FHD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683868
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eir Sports HD VIP UK" tvg-logo="http://pici.life/UK/Eir1.png" group-title="United Kingdom",Eir Sports HD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eir Sports HD VIP UK" tvg-logo="http://pici.life/UK/Eir1.png" group-title="United Kingdom Sport",Eir Sports HD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683870
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eir Sports VIP UK" tvg-logo="http://pici.life/UK/Eir1.png" group-title="United Kingdom",Eir Sports VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eir Sports VIP UK" tvg-logo="http://pici.life/UK/Eir1.png" group-title="United Kingdom Sport",Eir Sports VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683871
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eir Sports 2 FHD VIP UK" tvg-logo="http://pici.life/UK/EIR%20Sport%202%20UK.png" group-title="United Kingdom",Eir Sports 2 FHD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eir Sports 2 FHD VIP UK" tvg-logo="http://pici.life/UK/EIR%20Sport%202%20UK.png" group-title="United Kingdom Sport",Eir Sports 2 FHD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683872
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eir Sports 2 HD VIP UK" tvg-logo="http://pici.life/UK/EIR%20Sport%202%20UK.png" group-title="United Kingdom",Eir Sports 2 HD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eir Sports 2 HD VIP UK" tvg-logo="http://pici.life/UK/EIR%20Sport%202%20UK.png" group-title="United Kingdom Sport",Eir Sports 2 HD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683873
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 1 FHD VIP UK" tvg-logo="http://pici.life/premiersports.png" group-title="United Kingdom",Premier Sports 1 FHD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 1 FHD VIP UK" tvg-logo="http://pici.life/premiersports.png" group-title="United Kingdom Sport",Premier Sports 1 FHD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683997
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 1 HD VIP UK" tvg-logo="http://pici.life/premiersports.png" group-title="United Kingdom",Premier Sports 1 HD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 1 HD VIP UK" tvg-logo="http://pici.life/premiersports.png" group-title="United Kingdom Sport",Premier Sports 1 HD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683998
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 1 VIP UK" tvg-logo="http://pici.life/premiersports.png" group-title="United Kingdom",Premier Sports 1 VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 1 VIP UK" tvg-logo="http://pici.life/premiersports.png" group-title="United Kingdom Sport",Premier Sports 1 VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683999
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 2 FHD VIP UK" tvg-logo="http://pici.life/uk/PremierSports.uk.png" group-title="United Kingdom",Premier Sports 2 FHD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 2 FHD VIP UK" tvg-logo="http://pici.life/uk/PremierSports.uk.png" group-title="United Kingdom Sport",Premier Sports 2 FHD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/684000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 2 HD VIP UK" tvg-logo="http://pici.life/uk/PremierSports.uk.png" group-title="United Kingdom",Premier Sports 2 HD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 2 HD VIP UK" tvg-logo="http://pici.life/uk/PremierSports.uk.png" group-title="United Kingdom Sport",Premier Sports 2 HD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/684002
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 2 VIP UK" tvg-logo="http://pici.life/uk/PremierSports.uk.png" group-title="United Kingdom",Premier Sports 2 VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 2 VIP UK" tvg-logo="http://pici.life/uk/PremierSports.uk.png" group-title="United Kingdom Sport",Premier Sports 2 VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/684003
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Free Sports FHD UK" tvg-logo="http://pici.life/UK/Freesport.png" group-title="United Kingdom",Free Sports FHD UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Free Sports FHD UK" tvg-logo="http://pici.life/UK/Freesport.png" group-title="United Kingdom Sport",Free Sports FHD UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/671331
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA FHD VIP UK" tvg-logo="" group-title="United Kingdom",LA LIGA FHD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA FHD VIP UK" tvg-logo="" group-title="United Kingdom Sport",LA LIGA FHD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683833
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA HD VIP UK" tvg-logo="" group-title="United Kingdom",LA LIGA HD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA HD VIP UK" tvg-logo="" group-title="United Kingdom Sport",LA LIGA HD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/685171
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FreeSports HD VIP UK" tvg-logo="http://pici.life/UK/Freesport.png" group-title="United Kingdom",FreeSports HD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FreeSports HD VIP UK" tvg-logo="http://pici.life/UK/Freesport.png" group-title="United Kingdom Sport",FreeSports HD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/641400
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Racing FHD VIP UK" tvg-logo="http://pici.life/UK/racinguk.png" group-title="United Kingdom",Racing FHD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Racing FHD VIP UK" tvg-logo="http://pici.life/UK/racinguk.png" group-title="United Kingdom Sport",Racing FHD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683772
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Racing HD VIP UK" tvg-logo="http://pici.life/UK/racinguk.png" group-title="United Kingdom",Racing HD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Racing HD VIP UK" tvg-logo="http://pici.life/UK/racinguk.png" group-title="United Kingdom Sport",Racing HD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683773
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Racing VIP UK" tvg-logo="http://pici.life/UK/racinguk.png" group-title="United Kingdom",Racing VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Racing VIP UK" tvg-logo="http://pici.life/UK/racinguk.png" group-title="United Kingdom Sport",Racing VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683774
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Red Button VIP UK" tvg-logo="http://pici.life/UK/mtv.png" group-title="United Kingdom",BBC Red Button VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Red Button VIP UK" tvg-logo="http://pici.life/UK/mtv.png" group-title="United Kingdom Sport",BBC Red Button VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/683780
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPFL Hearts TV [Match Time] HD VIP UK" tvg-logo="http://pici.life/logo.png" group-title="United Kingdom",SPFL Hearts TV [Match Time] HD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPFL Hearts TV [Match Time] HD VIP UK" tvg-logo="http://pici.life/logo.png" group-title="United Kingdom Sport",SPFL Hearts TV [Match Time] HD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/678726
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rangers TV [Match Time] FHD VIP UK" tvg-logo="http://pici.life/logo.png" group-title="United Kingdom",Rangers TV [Match Time] FHD VIP UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rangers TV [Match Time] FHD VIP UK" tvg-logo="http://pici.life/logo.png" group-title="United Kingdom Sport",Rangers TV [Match Time] FHD VIP UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/678724
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Celtic FC TV [Match Time] HD UK" tvg-logo="http://pici.life/logo.png" group-title="United Kingdom",Celtic FC TV [Match Time] HD UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Celtic FC TV [Match Time] HD UK" tvg-logo="http://pici.life/logo.png" group-title="United Kingdom Sport",Celtic FC TV [Match Time] HD UK
 http://mytv.fun:8080/kemal100/fkcjkrj77/678725
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="Belgium",------- Sports -------
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="Belgium Sport",------- Sports -------
 http://mytv.fun:8080/kemal100/fkcjkrj77/684083
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Pro League FHD BE" tvg-logo="" group-title="Belgium",Eleven Pro League FHD BE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Pro League FHD BE" tvg-logo="" group-title="Belgium Sport",Eleven Pro League FHD BE
 http://mytv.fun:8080/kemal100/fkcjkrj77/684092
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1 FHD BE" tvg-logo="http://pici.life/logo.png" group-title="Belgium",Eleven Sports 1 FHD BE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1 FHD BE" tvg-logo="http://pici.life/logo.png" group-title="Belgium Sport",Eleven Sports 1 FHD BE
 http://mytv.fun:8080/kemal100/fkcjkrj77/683265
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 2 FHD BE" tvg-logo="http://pici.life/logo.png" group-title="Belgium",Eleven Sports 2 FHD BE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 2 FHD BE" tvg-logo="http://pici.life/logo.png" group-title="Belgium Sport",Eleven Sports 2 FHD BE
 http://mytv.fun:8080/kemal100/fkcjkrj77/683266
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Play Sports 1 HD [Match Time] BE" tvg-logo="" group-title="Belgium",Play Sports 1 HD [Match Time] BE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Play Sports 1 HD [Match Time] BE" tvg-logo="" group-title="Belgium Sport",Play Sports 1 HD [Match Time] BE
 http://mytv.fun:8080/kemal100/fkcjkrj77/684090
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Play Sports 2 HD [Match Time] BE" tvg-logo="" group-title="Belgium",Play Sports 2 HD [Match Time] BE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Play Sports 2 HD [Match Time] BE" tvg-logo="" group-title="Belgium Sport",Play Sports 2 HD [Match Time] BE
 http://mytv.fun:8080/kemal100/fkcjkrj77/684091
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Play Sports 3 HD [Match Time] BE" tvg-logo="" group-title="Belgium",Play Sports 3 HD [Match Time] BE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Play Sports 3 HD [Match Time] BE" tvg-logo="" group-title="Belgium Sport",Play Sports 3 HD [Match Time] BE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679740
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Play Sports 4 HD [Match Time] BE" tvg-logo="" group-title="Belgium",Play Sports 4 HD [Match Time] BE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Play Sports 4 HD [Match Time] BE" tvg-logo="" group-title="Belgium Sport",Play Sports 4 HD [Match Time] BE
 http://mytv.fun:8080/kemal100/fkcjkrj77/679741
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- ?????? -------" tvg-logo="" group-title="Bulgarian",------- ?????? -------
 http://mytv.fun:8080/kemal100/fkcjkrj77/683446
@@ -2847,227 +2254,227 @@ http://mytv.fun:8080/kemal100/fkcjkrj77/9014
 http://mytv.fun:8080/kemal100/fkcjkrj77/37957
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tiankov Folk BG" tvg-logo="http://pici.life/Bulgarian/tiankov-folk.png" group-title="Bulgarian",Tiankov Folk BG
 http://mytv.fun:8080/kemal100/fkcjkrj77/37952
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 1 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="VIP",Telefoot Stadium 1 FHD  FR VIP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 1 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="Sports",Telefoot Stadium 1 FHD  FR VIP
 http://mytv.fun:8080/kemal100/fkcjkrj77/680241
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 2 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="VIP",Telefoot Stadium 2 FHD  FR VIP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 2 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="Sports",Telefoot Stadium 2 FHD  FR VIP
 http://mytv.fun:8080/kemal100/fkcjkrj77/680242
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 3 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="VIP",Telefoot Stadium 3 FHD  FR VIP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 3 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="Sports",Telefoot Stadium 3 FHD  FR VIP
 http://mytv.fun:8080/kemal100/fkcjkrj77/680243
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 4 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="VIP",Telefoot Stadium 4 FHD  FR VIP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 4 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="Sports",Telefoot Stadium 4 FHD  FR VIP
 http://mytv.fun:8080/kemal100/fkcjkrj77/680244
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 5 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="VIP",Telefoot Stadium 5 FHD  FR VIP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 5 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="Sports",Telefoot Stadium 5 FHD  FR VIP
 http://mytv.fun:8080/kemal100/fkcjkrj77/680245
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 6 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="VIP",Telefoot Stadium 6 FHD  FR VIP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 6 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="Sports",Telefoot Stadium 6 FHD  FR VIP
 http://mytv.fun:8080/kemal100/fkcjkrj77/680246
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 7 HD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="VIP",Telefoot Stadium 7 HD  FR VIP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 7 HD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="Sports",Telefoot Stadium 7 HD  FR VIP
 http://mytv.fun:8080/kemal100/fkcjkrj77/680247
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 8 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="VIP",Telefoot Stadium 8 FHD  FR VIP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 8 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="Sports",Telefoot Stadium 8 FHD  FR VIP
 http://mytv.fun:8080/kemal100/fkcjkrj77/680248
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sports 1 FHD HR VIP" tvg-logo="" group-title="VIP",Planet Sports 1 FHD HR VIP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sports 1 FHD HR VIP" tvg-logo="" group-title="Sports",Planet Sports 1 FHD HR VIP
 http://mytv.fun:8080/kemal100/fkcjkrj77/623691
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sports 2 FHD VIP HR" tvg-logo="" group-title="VIP",Planet Sports 2 FHD VIP HR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sports 2 FHD VIP HR" tvg-logo="" group-title="Sports",Planet Sports 2 FHD VIP HR
 http://mytv.fun:8080/kemal100/fkcjkrj77/623690
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sports 3 FHD HR VIP" tvg-logo="" group-title="VIP",Planet Sports 3 FHD HR VIP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sports 3 FHD HR VIP" tvg-logo="" group-title="Sports",Planet Sports 3 FHD HR VIP
 http://mytv.fun:8080/kemal100/fkcjkrj77/623689
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sports 4 HD HR VIP" tvg-logo="" group-title="VIP",Planet Sports 4 HD HR VIP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sports 4 HD HR VIP" tvg-logo="" group-title="Sports",Planet Sports 4 HD HR VIP
 http://mytv.fun:8080/kemal100/fkcjkrj77/663526
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sports 5 HD HR VIP" tvg-logo="" group-title="VIP",Planet Sports 5 HD HR VIP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sports 5 HD HR VIP" tvg-logo="" group-title="Sports",Planet Sports 5 HD HR VIP
 http://mytv.fun:8080/kemal100/fkcjkrj77/663527
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1 FHD PT" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportsuk/thumbs/channels/44_es.jpg" group-title="VIP",Eleven Sports 1 FHD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1 FHD PT" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportsuk/thumbs/channels/44_es.jpg" group-title="Sports",Eleven Sports 1 FHD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/13774
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 2 FHD PT" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportsuk/thumbs/channels/45_es.jpg" group-title="VIP",Eleven Sports 2 FHD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 2 FHD PT" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportsuk/thumbs/channels/45_es.jpg" group-title="Sports",Eleven Sports 2 FHD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/13773
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 3 FHD PT" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/40_es.jpg" group-title="VIP",Eleven Sports 3 FHD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 3 FHD PT" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/40_es.jpg" group-title="Sports",Eleven Sports 3 FHD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/13772
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 4 FHD PT" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://www.thesportsdb.com/images/media/logo/Eleven_Sports_4_Portugal.png" group-title="VIP",Eleven Sports 4 FHD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 4 FHD PT" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://www.thesportsdb.com/images/media/logo/Eleven_Sports_4_Portugal.png" group-title="Sports",Eleven Sports 4 FHD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/13771
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 5 FHD PT" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://www.thesportsdb.com/images/media/logo/Eleven_Sports_US.png" group-title="VIP",Eleven Sports 5 FHD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 5 FHD PT" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://www.thesportsdb.com/images/media/logo/Eleven_Sports_US.png" group-title="Sports",Eleven Sports 5 FHD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/13770
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 6 FHD PT" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://www.thesportsdb.com/images/media/logo/Eleven_Sports_US.png" group-title="VIP",Eleven Sports 6 FHD PT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 6 FHD PT" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://www.thesportsdb.com/images/media/logo/Eleven_Sports_US.png" group-title="Sports",Eleven Sports 6 FHD PT
 http://mytv.fun:8080/kemal100/fkcjkrj77/13769
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MySports FHD CH" tvg-logo="http://pici.life/CH/MySports.png" group-title="VIP",MySports FHD CH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MySports FHD CH" tvg-logo="http://pici.life/CH/MySports.png" group-title="Sports",MySports FHD CH
 http://mytv.fun:8080/kemal100/fkcjkrj77/13784
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1 FHD PL" tvg-logo="http://pici.life/CH/MySports.png" group-title="VIP",Eleven Sports 1 FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1 FHD PL" tvg-logo="http://pici.life/CH/MySports.png" group-title="Sports",Eleven Sports 1 FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/13766
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="http://pici.life/CH/MySports.png" group-title="VIP",Eleven Sports 2 FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="http://pici.life/CH/MySports.png" group-title="Sports",Eleven Sports 2 FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/13765
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 FHD ARB" tvg-logo="" group-title="VIP",beIN Sports 1 FHD ARB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 1 FHD ARB
 http://mytv.fun:8080/kemal100/fkcjkrj77/13860
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 FHD ARB" tvg-logo="" group-title="VIP",beIN Sports 2 FHD ARB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 2 FHD ARB
 http://mytv.fun:8080/kemal100/fkcjkrj77/13859
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 FHD ARB" tvg-logo="" group-title="VIP",beIN Sports 3 FHD ARB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 3 FHD ARB
 http://mytv.fun:8080/kemal100/fkcjkrj77/53268
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 4 FHD ARB" tvg-logo="" group-title="VIP",beIN Sports 4 FHD ARB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 4 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 4 FHD ARB
 http://mytv.fun:8080/kemal100/fkcjkrj77/13857
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 5 FHD ARB" tvg-logo="" group-title="VIP",beIN Sports 5 FHD ARB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 5 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 5 FHD ARB
 http://mytv.fun:8080/kemal100/fkcjkrj77/625256
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 6 FHD ARB" tvg-logo="" group-title="VIP",beIN Sports 6 FHD ARB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 6 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 6 FHD ARB
 http://mytv.fun:8080/kemal100/fkcjkrj77/13855
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 7 FHD ARB" tvg-logo="" group-title="VIP",beIN Sports 7 FHD ARB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 7 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 7 FHD ARB
 http://mytv.fun:8080/kemal100/fkcjkrj77/13854
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 8 FHD ARB" tvg-logo="" group-title="VIP",beIN Sports 8 FHD ARB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 8 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 8 FHD ARB
 http://mytv.fun:8080/kemal100/fkcjkrj77/13853
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 9 FHD ARB" tvg-logo="" group-title="VIP",beIN Sports 9 FHD ARB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 9 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 9 FHD ARB
 http://mytv.fun:8080/kemal100/fkcjkrj77/13852
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 10 FHD ARB" tvg-logo="" group-title="VIP",beIN Sports 10 FHD ARB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 10 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 10 FHD ARB
 http://mytv.fun:8080/kemal100/fkcjkrj77/13851
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports News ARB" tvg-logo="" group-title="VIP",beIN Sports News ARB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports News ARB" tvg-logo="" group-title="Sports",beIN Sports News ARB
 http://mytv.fun:8080/kemal100/fkcjkrj77/13861
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 FHD TR" tvg-logo="" group-title="VIP",beIN Sports 1 FHD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 FHD TR" tvg-logo="" group-title="Sports",beIN Sports 1 FHD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/14096
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 FHD TR" tvg-logo="" group-title="VIP",beIN Sports 2 FHD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 FHD TR" tvg-logo="" group-title="Sports",beIN Sports 2 FHD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/14095
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 FHD TR" tvg-logo="" group-title="VIP",beIN Sports 3 FHD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 FHD TR" tvg-logo="" group-title="Sports",beIN Sports 3 FHD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/14094
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 4 FHD TR" tvg-logo="" group-title="VIP",beIN Sports 4 FHD TR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 4 FHD TR" tvg-logo="" group-title="Sports",beIN Sports 4 FHD TR
 http://mytv.fun:8080/kemal100/fkcjkrj77/14093
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Variety HD ARB" tvg-logo="" group-title="VIP",MBC Variety HD ARB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Variety HD ARB" tvg-logo="" group-title="Sports",MBC Variety HD ARB
 http://mytv.fun:8080/kemal100/fkcjkrj77/14112
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana Aflam HD ARB" tvg-logo="" group-title="VIP",Rotana Aflam HD ARB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana Aflam HD ARB" tvg-logo="" group-title="Sports",Rotana Aflam HD ARB
 http://mytv.fun:8080/kemal100/fkcjkrj77/14111
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MAX 5 FHD FR" tvg-logo="" group-title="VIP",beIN Sports MAX 5 FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MAX 5 FHD FR" tvg-logo="" group-title="Sports",beIN Sports MAX 5 FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/16933
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MAX 7 FHD FR" tvg-logo="" group-title="VIP",beIN Sports MAX 7 FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MAX 7 FHD FR" tvg-logo="" group-title="Sports",beIN Sports MAX 7 FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/16931
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MAX 8 FHD FR" tvg-logo="" group-title="VIP",beIN Sports MAX 8 FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MAX 8 FHD FR" tvg-logo="" group-title="Sports",beIN Sports MAX 8 FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/16930
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MAX 9 FHD FR" tvg-logo="" group-title="VIP",beIN Sports MAX 9 FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MAX 9 FHD FR" tvg-logo="" group-title="Sports",beIN Sports MAX 9 FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/16929
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MAX 10 FHD FR" tvg-logo="" group-title="VIP",beIN Sports MAX 10 FHD FR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MAX 10 FHD FR" tvg-logo="" group-title="Sports",beIN Sports MAX 10 FHD FR
 http://mytv.fun:8080/kemal100/fkcjkrj77/16928
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATG Live SE" tvg-logo="http://pici.life/SE/ATG_live.jpg" group-title="VIP",ATG Live SE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATG Live SE" tvg-logo="http://pici.life/SE/ATG_live.jpg" group-title="Sports",ATG Live SE
 http://mytv.fun:8080/kemal100/fkcjkrj77/14243
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Junior VIP FI" tvg-logo="" group-title="VIP",C More Junior VIP FI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Junior VIP FI" tvg-logo="" group-title="Sports",C More Junior VIP FI
 http://mytv.fun:8080/kemal100/fkcjkrj77/17131
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Juniori VIP FI" tvg-logo="http://pici.life/FI/cmorejuniori.png" group-title="VIP",C More Juniori VIP FI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Juniori VIP FI" tvg-logo="http://pici.life/FI/cmorejuniori.png" group-title="Sports",C More Juniori VIP FI
 http://mytv.fun:8080/kemal100/fkcjkrj77/17114
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Sport 1 VIP FI" tvg-logo="" group-title="VIP",C More Sport 1 VIP FI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Sport 1 VIP FI" tvg-logo="" group-title="Sports",C More Sport 1 VIP FI
 http://mytv.fun:8080/kemal100/fkcjkrj77/17135
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Sport 1 FHD VIP FI" tvg-logo="http://pici.life/FI/cmoresport1.png" group-title="VIP",C More Sport 1 FHD VIP FI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Sport 1 FHD VIP FI" tvg-logo="http://pici.life/FI/cmoresport1.png" group-title="Sports",C More Sport 1 FHD VIP FI
 http://mytv.fun:8080/kemal100/fkcjkrj77/17115
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Sport 2 VIP FI" tvg-logo="" group-title="VIP",C More Sport 2 VIP FI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Sport 2 VIP FI" tvg-logo="" group-title="Sports",C More Sport 2 VIP FI
 http://mytv.fun:8080/kemal100/fkcjkrj77/17134
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Sport HD VIP FI" tvg-logo="" group-title="VIP",C More Sport HD VIP FI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Sport HD VIP FI" tvg-logo="" group-title="Sports",C More Sport HD VIP FI
 http://mytv.fun:8080/kemal100/fkcjkrj77/17110
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Max HD VIP FI" tvg-logo="http://pici.life/FI/cmoremaxhd.png" group-title="VIP",C More Max HD VIP FI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Max HD VIP FI" tvg-logo="http://pici.life/FI/cmoremaxhd.png" group-title="Sports",C More Max HD VIP FI
 http://mytv.fun:8080/kemal100/fkcjkrj77/17125
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jim TV VIP FI" tvg-logo="" group-title="VIP",Jim TV VIP FI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jim TV VIP FI" tvg-logo="" group-title="Sports",Jim TV VIP FI
 http://mytv.fun:8080/kemal100/fkcjkrj77/17132
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 3 FHD VIP FI" tvg-logo="" group-title="VIP",MTV 3 FHD VIP FI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 3 FHD VIP FI" tvg-logo="" group-title="Sports",MTV 3 FHD VIP FI
 http://mytv.fun:8080/kemal100/fkcjkrj77/17127
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild HD VIP SC" tvg-logo="" group-title="VIP",Nat Geo Wild HD VIP SC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild HD VIP SC" tvg-logo="" group-title="Sports",Nat Geo Wild HD VIP SC
 http://mytv.fun:8080/kemal100/fkcjkrj77/17013
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nelonen VIP FI" tvg-logo="http://pici.life/FI/nelonen.png" group-title="VIP",Nelonen VIP FI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nelonen VIP FI" tvg-logo="http://pici.life/FI/nelonen.png" group-title="Sports",Nelonen VIP FI
 http://mytv.fun:8080/kemal100/fkcjkrj77/17136
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sub TV VIP FI" tvg-logo="" group-title="VIP",Sub TV VIP FI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sub TV VIP FI" tvg-logo="" group-title="Sports",Sub TV VIP FI
 http://mytv.fun:8080/kemal100/fkcjkrj77/17133
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat 4 VIP SC" tvg-logo="" group-title="VIP",Viasat 4 VIP SC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat 4 VIP SC" tvg-logo="" group-title="Sports",Viasat 4 VIP SC
 http://mytv.fun:8080/kemal100/fkcjkrj77/17014
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Explore VIP SC" tvg-logo="" group-title="VIP",Viasat Explore VIP SC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Explore VIP SC" tvg-logo="" group-title="Sports",Viasat Explore VIP SC
 http://mytv.fun:8080/kemal100/fkcjkrj77/17077
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VNature HD VIP NO" tvg-logo="http://pici.life/NO/viasatnature.png" group-title="VIP",VNature HD VIP NO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VNature HD VIP NO" tvg-logo="http://pici.life/NO/viasatnature.png" group-title="Sports",VNature HD VIP NO
 http://mytv.fun:8080/kemal100/fkcjkrj77/17103
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Series VIP NO" tvg-logo="" group-title="VIP",Viasat Series VIP NO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Series VIP NO" tvg-logo="" group-title="Sports",Viasat Series VIP NO
 http://mytv.fun:8080/kemal100/fkcjkrj77/17101
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yle TV 1 FHD VIP FI" tvg-logo="" group-title="VIP",Yle TV 1 FHD VIP FI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yle TV 1 FHD VIP FI" tvg-logo="" group-title="Sports",Yle TV 1 FHD VIP FI
 http://mytv.fun:8080/kemal100/fkcjkrj77/17129
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [Florida] VIP HD US" tvg-logo="" group-title="VIP",Fox Sports [Florida] VIP HD US
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [Florida] VIP HD US" tvg-logo="" group-title="Sports",Fox Sports [Florida] VIP HD US
 http://mytv.fun:8080/kemal100/fkcjkrj77/18938
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports Sportstime [OHIO] HD VIP US" tvg-logo="" group-title="VIP",Fox Sports Sportstime [OHIO] HD VIP US
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports Sportstime [OHIO] HD VIP US" tvg-logo="" group-title="Sports",Fox Sports Sportstime [OHIO] HD VIP US
 http://mytv.fun:8080/kemal100/fkcjkrj77/18945
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [South] HD VIP US" tvg-logo="" group-title="VIP",Fox Sports [South] HD VIP US
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [South] HD VIP US" tvg-logo="" group-title="Sports",Fox Sports [South] HD VIP US
 http://mytv.fun:8080/kemal100/fkcjkrj77/650574
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [South East] HD VIP US" tvg-logo="" group-title="VIP",Fox Sports [South East] HD VIP US
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [South East] HD VIP US" tvg-logo="" group-title="Sports",Fox Sports [South East] HD VIP US
 http://mytv.fun:8080/kemal100/fkcjkrj77/18943
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [South West] HD VIP US" tvg-logo="" group-title="VIP",Fox Sports [South West] HD VIP US
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [South West] HD VIP US" tvg-logo="" group-title="Sports",Fox Sports [South West] HD VIP US
 http://mytv.fun:8080/kemal100/fkcjkrj77/18942
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports Sun HD VIP US" tvg-logo="" group-title="VIP",Fox Sports Sun HD VIP US
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports Sun HD VIP US" tvg-logo="" group-title="Sports",Fox Sports Sun HD VIP US
 http://mytv.fun:8080/kemal100/fkcjkrj77/18937
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [West] HD VIP US" tvg-logo="" group-title="VIP",Fox Sports [West] HD VIP US
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [West] HD VIP US" tvg-logo="" group-title="Sports",Fox Sports [West] HD VIP US
 http://mytv.fun:8080/kemal100/fkcjkrj77/18940
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports Wisconsin HD VIP US" tvg-logo="" group-title="VIP",Fox Sports Wisconsin HD VIP US
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports Wisconsin HD VIP US" tvg-logo="" group-title="Sports",Fox Sports Wisconsin HD VIP US
 http://mytv.fun:8080/kemal100/fkcjkrj77/18939
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Beout Sports 1 HD AR" tvg-logo="" group-title="VIP",Beout Sports 1 HD AR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Beout Sports 1 HD AR" tvg-logo="" group-title="Sports",Beout Sports 1 HD AR
 http://mytv.fun:8080/kemal100/fkcjkrj77/38509
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WGN America HD US" tvg-logo="" group-title="VIP",WGN America HD US
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WGN America HD US" tvg-logo="" group-title="Sports",WGN America HD US
 http://mytv.fun:8080/kemal100/fkcjkrj77/620791
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yes Network FHD US" tvg-logo="" group-title="VIP",Yes Network FHD US
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yes Network FHD US" tvg-logo="" group-title="Sports",Yes Network FHD US
 http://mytv.fun:8080/kemal100/fkcjkrj77/620794
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 1 [Match Time] FHD DE" tvg-logo="" group-title="VIP",Telekom Eishockey 1 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 1 [Match Time] FHD DE" tvg-logo="" group-title="Sports",Telekom Eishockey 1 [Match Time] FHD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/620810
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 2 [Match Time] FHD DE" tvg-logo="" group-title="VIP",Telekom Eishockey 2 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 2 [Match Time] FHD DE" tvg-logo="" group-title="Sports",Telekom Eishockey 2 [Match Time] FHD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/620809
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 3 [Match Time] FHD DE" tvg-logo="" group-title="VIP",Telekom Eishockey 3 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 3 [Match Time] FHD DE" tvg-logo="" group-title="Sports",Telekom Eishockey 3 [Match Time] FHD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/620808
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 4 [Match Time] FHD DE" tvg-logo="" group-title="VIP",Telekom Eishockey 4 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 4 [Match Time] FHD DE" tvg-logo="" group-title="Sports",Telekom Eishockey 4 [Match Time] FHD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/620807
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 5 [Match Time] FHD DE" tvg-logo="" group-title="VIP",Telekom Eishockey 5 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 5 [Match Time] FHD DE" tvg-logo="" group-title="Sports",Telekom Eishockey 5 [Match Time] FHD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/620806
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 6 [Match Time] FHD DE" tvg-logo="" group-title="VIP",Telekom Eishockey 6 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 6 [Match Time] FHD DE" tvg-logo="" group-title="Sports",Telekom Eishockey 6 [Match Time] FHD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/620805
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 7 [Match Time] FHD DE" tvg-logo="" group-title="VIP",Telekom Eishockey 7 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 7 [Match Time] FHD DE" tvg-logo="" group-title="Sports",Telekom Eishockey 7 [Match Time] FHD DE
 http://mytv.fun:8080/kemal100/fkcjkrj77/620804
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="Poland",------- Sports -------
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="Poland Sport",------- Sports -------
 http://mytv.fun:8080/kemal100/fkcjkrj77/683432
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal+ Sport 1 FHD PL" tvg-logo="http://pici.life/canalsport.png" group-title="Poland",Canal+ Sport 1 FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal+ Sport 1 FHD PL" tvg-logo="http://pici.life/canalsport.png" group-title="Poland Sport",Canal+ Sport 1 FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/7300
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal+ Sport 2 FHD PL" tvg-logo="http://pici.life/canalplussport_2.png" group-title="Poland",Canal+ Sport 2 FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal+ Sport 2 FHD PL" tvg-logo="http://pici.life/canalplussport_2.png" group-title="Poland Sport",Canal+ Sport 2 FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/7304
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal+ Sport 2 HD PL" tvg-logo="http://pici.life/PL/canalplussport2hd.png" group-title="Poland",Canal+ Sport 2 HD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal+ Sport 2 HD PL" tvg-logo="http://pici.life/PL/canalplussport2hd.png" group-title="Poland Sport",Canal+ Sport 2 HD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/7299
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1 FHD PL" tvg-logo="http://pici.life/PL/elevensports.png" group-title="Poland",Eleven Sports 1 FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1 FHD PL" tvg-logo="http://pici.life/PL/elevensports.png" group-title="Poland Sport",Eleven Sports 1 FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/524331
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="http://pici.life/PL/Eleven_sports_2hd.png" group-title="Poland",Eleven Sports 2 FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="http://pici.life/PL/Eleven_sports_2hd.png" group-title="Poland Sport",Eleven Sports 2 FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/99803
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 3 FHD PL" tvg-logo="http://pici.life/PL/Eleven_sports_3hd.png" group-title="Poland",Eleven Sports 3 FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 3 FHD PL" tvg-logo="http://pici.life/PL/Eleven_sports_3hd.png" group-title="Poland Sport",Eleven Sports 3 FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/99930
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 4 HD PL" tvg-logo="" group-title="Poland",Eleven Sports 4 HD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 4 HD PL" tvg-logo="" group-title="Poland Sport",Eleven Sports 4 HD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/167186
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="nSport Plus FHD PL" tvg-logo="http://pici.life/PL/nsportplushd.png" group-title="Poland",nSport Plus FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="nSport Plus FHD PL" tvg-logo="http://pici.life/PL/nsportplushd.png" group-title="Poland Sport",nSport Plus FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/5238
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD PL" tvg-logo="http://pici.life/NL/eurosport1hd.png" group-title="Poland",Eurosport 1 HD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD PL" tvg-logo="http://pici.life/NL/eurosport1hd.png" group-title="Poland Sport",Eurosport 1 HD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/9878
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 FHD PL" tvg-logo="http://pici.life/eurosport2hd_2.png" group-title="Poland",Eurosport 2 FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 FHD PL" tvg-logo="http://pici.life/eurosport2hd_2.png" group-title="Poland Sport",Eurosport 2 FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/9877
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Box FHD PL" tvg-logo="http://pici.life/PL/fightboxhd.png" group-title="Poland",Fight Box FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Box FHD PL" tvg-logo="http://pici.life/PL/fightboxhd.png" group-title="Poland Sport",Fight Box FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/5239
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Extreme Sports FHD PL" tvg-logo="http://pici.life/PL/extremesportshd.png" group-title="Poland",Extreme Sports FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Extreme Sports FHD PL" tvg-logo="http://pici.life/PL/extremesportshd.png" group-title="Poland Sport",Extreme Sports FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/5240
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golf Channel FHD PL" tvg-logo="http://pici.life/golfchannel_2.png" group-title="Poland",Golf Channel FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golf Channel FHD PL" tvg-logo="http://pici.life/golfchannel_2.png" group-title="Poland Sport",Golf Channel FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/9873
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Motorwizja FHD PL" tvg-logo="http://pici.life/PL/motowizjatv.png" group-title="Poland",Motorwizja FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Motorwizja FHD PL" tvg-logo="http://pici.life/PL/motowizjatv.png" group-title="Poland Sport",Motorwizja FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/9904
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Motowizja PL" tvg-logo="http://pici.life/PL/motowizjatv.png" group-title="Poland",Motowizja PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Motowizja PL" tvg-logo="http://pici.life/PL/motowizjatv.png" group-title="Poland Sport",Motowizja PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/9851
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport FHD PL" tvg-logo="http://pici.life/PL/polsatsporthd.png" group-title="Poland",Polsat Sport FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport FHD PL" tvg-logo="http://pici.life/PL/polsatsporthd.png" group-title="Poland Sport",Polsat Sport FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/625236
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Premium 1 HD PL" tvg-logo="" group-title="Poland",Polsat Sport Premium 1 HD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Premium 1 HD PL" tvg-logo="" group-title="Poland Sport",Polsat Sport Premium 1 HD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/53159
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Premium 2 HD PL" tvg-logo="" group-title="Poland",Polsat Sport Premium 2 HD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Premium 2 HD PL" tvg-logo="" group-title="Poland Sport",Polsat Sport Premium 2 HD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/531582
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Premium PPV 3 FHD" tvg-logo="" group-title="Poland",Polsat Sport Premium PPV 3 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Premium PPV 3 FHD" tvg-logo="" group-title="Poland Sport",Polsat Sport Premium PPV 3 FHD
 http://mytv.fun:8080/kemal100/fkcjkrj77/620683
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Premium PPV 4 FHD" tvg-logo="" group-title="Poland",Polsat Sport Premium PPV 4 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Premium PPV 4 FHD" tvg-logo="" group-title="Poland Sport",Polsat Sport Premium PPV 4 FHD
 http://mytv.fun:8080/kemal100/fkcjkrj77/620682
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Premium PPV 6 FHD" tvg-logo="" group-title="Poland",Polsat Sport Premium PPV 6 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Premium PPV 6 FHD" tvg-logo="" group-title="Poland Sport",Polsat Sport Premium PPV 6 FHD
 http://mytv.fun:8080/kemal100/fkcjkrj77/620680
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Extra FHD PL" tvg-logo="" group-title="Poland",Polsat Sport Extra FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Extra FHD PL" tvg-logo="" group-title="Poland Sport",Polsat Sport Extra FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/625232
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Extra HD PL" tvg-logo="http://pici.life/PL/polsatsportextrahd.png" group-title="Poland",Polsat Sport Extra HD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Extra HD PL" tvg-logo="http://pici.life/PL/polsatsportextrahd.png" group-title="Poland Sport",Polsat Sport Extra HD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/625230
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Fight FHD PL" tvg-logo="http://pici.life/PL/polsatsportfighthd.png" group-title="Poland",Polsat Sport Fight FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Fight FHD PL" tvg-logo="http://pici.life/PL/polsatsportfighthd.png" group-title="Poland Sport",Polsat Sport Fight FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/5247
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport News FHD PL" tvg-logo="http://pici.life/PL/Polsat-Sport-News-HD.png" group-title="Poland",Polsat Sport News FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport News FHD PL" tvg-logo="http://pici.life/PL/Polsat-Sport-News-HD.png" group-title="Poland Sport",Polsat Sport News FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/9869
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Polsat FHD PL" tvg-logo="http://pici.life/PL/superpolsatpl.png" group-title="Poland",Super Polsat FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Polsat FHD PL" tvg-logo="http://pici.life/PL/superpolsatpl.png" group-title="Poland Sport",Super Polsat FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/9897
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVP Sport FHD PL" tvg-logo="http://pici.life/PL/tvpsporthd.png" group-title="Poland",TVP Sport FHD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVP Sport FHD PL" tvg-logo="http://pici.life/PL/tvpsporthd.png" group-title="Poland Sport",TVP Sport FHD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/5225
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVP Sports PL" tvg-logo="http://pici.life/tvpsporthd.png" group-title="Poland",TVP Sports PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVP Sports PL" tvg-logo="http://pici.life/tvpsporthd.png" group-title="Poland Sport",TVP Sports PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/7267
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub HD PL" tvg-logo="http://pici.life/PL/sportklub.png" group-title="Poland",Sportklub HD PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub HD PL" tvg-logo="http://pici.life/PL/sportklub.png" group-title="Poland Sport",Sportklub HD PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/9819
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KSW PPV FHD [Match Time] PL" tvg-logo="" group-title="Poland",KSW PPV FHD [Match Time] PL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KSW PPV FHD [Match Time] PL" tvg-logo="" group-title="Poland Sport",KSW PPV FHD [Match Time] PL
 http://mytv.fun:8080/kemal100/fkcjkrj77/624946
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- SuperSport AF -------" tvg-logo="" group-title="Sports",------- SuperSport AF -------
 http://mytv.fun:8080/kemal100/fkcjkrj77/682923
@@ -3391,123 +2798,123 @@ http://mytv.fun:8080/kemal100/fkcjkrj77/5443
 http://mytv.fun:8080/kemal100/fkcjkrj77/5392
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport FHD AL" tvg-logo="http://pici.life/logo.png" group-title="Sports",SuperSport FHD AL
 http://mytv.fun:8080/kemal100/fkcjkrj77/682920
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="Spain",------- Sports -------
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="Spain Sport",------- Sports -------
 http://mytv.fun:8080/kemal100/fkcjkrj77/679811
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bein Sports Espana FHD ES" tvg-logo="http://pici.life/beinsports.png" group-title="Spain",bein Sports Espana FHD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bein Sports Espana FHD ES" tvg-logo="http://pici.life/beinsports.png" group-title="Spain Sport",bein Sports Espana FHD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/7248
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bein Sports Espana HD ES" tvg-logo="http://pici.life/ES/Bein_sports_hd.png" group-title="Spain",bein Sports Espana HD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bein Sports Espana HD ES" tvg-logo="http://pici.life/ES/Bein_sports_hd.png" group-title="Spain Sport",bein Sports Espana HD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/8745
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Espana ES" tvg-logo="http://pici.life/ES/Bein_sports_hd.png" group-title="Spain",beIN Sports Espana ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Espana ES" tvg-logo="http://pici.life/ES/Bein_sports_hd.png" group-title="Spain Sport",beIN Sports Espana ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/13540
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 FHD VIP ES" tvg-logo="http://pici.life/logo.png" group-title="Spain",DAZN 1 FHD VIP ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 FHD VIP ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",DAZN 1 FHD VIP ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/683544
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 HD VIP ES" tvg-logo="http://pici.life/logo.png" group-title="Spain",DAZN 2 HD VIP ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 HD VIP ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",DAZN 2 HD VIP ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/683545
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 [Web TV] FHD VIP ES" tvg-logo="http://pici.life/logo.png" group-title="Spain",DAZN 1 [Web TV] FHD VIP ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 [Web TV] FHD VIP ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",DAZN 1 [Web TV] FHD VIP ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/683547
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 [Web TV] HD VIP ES" tvg-logo="http://pici.life/logo.png" group-title="Spain",DAZN 1 [Web TV] HD VIP ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 [Web TV] HD VIP ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",DAZN 1 [Web TV] HD VIP ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/683551
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Liga TV BAR HD ES" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_640/https://worldsoccertalk.com/wp-content/uploads/2014/01/laliga-logo-thin.jpg" group-title="Spain",La Liga TV BAR HD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Liga TV BAR HD ES" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_640/https://worldsoccertalk.com/wp-content/uploads/2014/01/laliga-logo-thin.jpg" group-title="Spain Sport",La Liga TV BAR HD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/669971
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga FHD ES" tvg-logo="http://pici.life/ES/movistarfutbol.png" group-title="Spain",Movistar La Liga FHD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga FHD ES" tvg-logo="http://pici.life/ES/movistarfutbol.png" group-title="Spain Sport",Movistar La Liga FHD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/16274
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 1 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain",Movistar La Liga 1 [Match Time] ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 1 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar La Liga 1 [Match Time] ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/683144
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 2 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain",Movistar La Liga 2 [Match Time] ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 2 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar La Liga 2 [Match Time] ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/683145
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 3 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain",Movistar La Liga 3 [Match Time] ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 3 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar La Liga 3 [Match Time] ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/683142
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 9 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain",Movistar La Liga 9 [Match Time] ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 9 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar La Liga 9 [Match Time] ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/683151
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 10 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain",Movistar La Liga 10 [Match Time] ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 10 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar La Liga 10 [Match Time] ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/683152
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Vamos Bar ES" tvg-logo="http://pici.life/logo.png" group-title="Spain",Movistar Vamos Bar ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Vamos Bar ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar Vamos Bar ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/683141
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Vamos FHD ES" tvg-logo="http://pici.life/logo.png" group-title="Spain",Movistar Vamos FHD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Vamos FHD ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar Vamos FHD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/682871
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Vamos HD ES" tvg-logo="http://pici.life/logo.png" group-title="Spain",Movistar Vamos HD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Vamos HD ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar Vamos HD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/682872
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Liga De Campeones FHD ES" tvg-logo="" group-title="Spain",Movistar Liga De Campeones FHD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Liga De Campeones FHD ES" tvg-logo="" group-title="Spain Sport",Movistar Liga De Campeones FHD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/620686
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Liga De Campeones HD ES" tvg-logo="" group-title="Spain",Movistar Liga De Campeones HD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Liga De Campeones HD ES" tvg-logo="" group-title="Spain Sport",Movistar Liga De Campeones HD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/620685
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Liga De Campeones 1 [Match Time] HD ES" tvg-logo="http://pici.life/logo.png" group-title="Spain",Movistar Liga De Campeones 1 [Match Time] HD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Liga De Campeones 1 [Match Time] HD ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar Liga De Campeones 1 [Match Time] HD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/683153
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes FHD ES" tvg-logo="" group-title="Spain",Movistar Deportes FHD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes FHD ES" tvg-logo="" group-title="Spain Sport",Movistar Deportes FHD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/16278
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes HD ES" tvg-logo="http://pici.life/ES/movistardeportes1.png" group-title="Spain",Movistar Deportes HD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes HD ES" tvg-logo="http://pici.life/ES/movistardeportes1.png" group-title="Spain Sport",Movistar Deportes HD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/7240
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes 2 FHD ES" tvg-logo="" group-title="Spain",Movistar Deportes 2 FHD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes 2 FHD ES" tvg-logo="" group-title="Spain Sport",Movistar Deportes 2 FHD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/16277
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes 2 HD ES" tvg-logo="http://pici.life/ES/movistardeportes2.png" group-title="Spain",Movistar Deportes 2 HD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes 2 HD ES" tvg-logo="http://pici.life/ES/movistardeportes2.png" group-title="Spain Sport",Movistar Deportes 2 HD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/7239
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Futbol FHD ES" tvg-logo="http://pici.life/ES/movistarfutbol.png" group-title="Spain",Movistar Futbol FHD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Futbol FHD ES" tvg-logo="http://pici.life/ES/movistarfutbol.png" group-title="Spain Sport",Movistar Futbol FHD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/13551
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Futbol HD ES" tvg-logo="http://pici.life/es/MovistarFutbol.es.png" group-title="Spain",Movistar Futbol HD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Futbol HD ES" tvg-logo="http://pici.life/es/MovistarFutbol.es.png" group-title="Spain Sport",Movistar Futbol HD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/8783
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Futbol ES" tvg-logo="http://pici.life/ES/movistarfutbol.png" group-title="Spain",Movistar Futbol ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Futbol ES" tvg-logo="http://pici.life/ES/movistarfutbol.png" group-title="Spain Sport",Movistar Futbol ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/7238
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 FHD ES" tvg-logo="http://pici.life/canalplus.png" group-title="Spain",Movistar F1 FHD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 FHD ES" tvg-logo="http://pici.life/canalplus.png" group-title="Spain Sport",Movistar F1 FHD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/7246
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 HD ES" tvg-logo="http://pici.life/ES/movistarformula1.png" group-title="Spain",Movistar F1 HD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 HD ES" tvg-logo="http://pici.life/ES/movistarformula1.png" group-title="Spain Sport",Movistar F1 HD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/13549
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 ES" tvg-logo="http://pici.life/es/MovistarFormula1.es.png" group-title="Spain",Movistar F1 ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 ES" tvg-logo="http://pici.life/es/MovistarFormula1.es.png" group-title="Spain Sport",Movistar F1 ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/71971
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Golf FHD ES" tvg-logo="http://pici.life/ES/movistargolf.png" group-title="Spain",Movistar Golf FHD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Golf FHD ES" tvg-logo="http://pici.life/ES/movistargolf.png" group-title="Spain Sport",Movistar Golf FHD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/7237
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Golf HD ES" tvg-logo="http://pici.life/ES/movistargolf.png" group-title="Spain",Movistar Golf HD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Golf HD ES" tvg-logo="http://pici.life/ES/movistargolf.png" group-title="Spain Sport",Movistar Golf HD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/13550
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gol TV ES" tvg-logo="http://pici.life/ES/gol.png" group-title="Spain",Gol TV ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gol TV ES" tvg-logo="http://pici.life/ES/gol.png" group-title="Spain Sport",Gol TV ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/13457
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teledeporte ES" tvg-logo="http://pici.life/es/Teledeporte.es.png" group-title="Spain",Teledeporte ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teledeporte ES" tvg-logo="http://pici.life/es/Teledeporte.es.png" group-title="Spain Sport",Teledeporte ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/7178
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Madrid Channel ES" tvg-logo="http://pici.life/realmadridtv_2.png" group-title="Spain",Real Madrid Channel ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Madrid Channel ES" tvg-logo="http://pici.life/realmadridtv_2.png" group-title="Spain Sport",Real Madrid Channel ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/7182
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tele Madrid ES" tvg-logo="" group-title="Spain",Tele Madrid ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tele Madrid ES" tvg-logo="" group-title="Spain Sport",Tele Madrid ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/679745
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Barca TV ES" tvg-logo="http://pici.life/barcatv.png" group-title="Spain",Barca TV ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Barca TV ES" tvg-logo="http://pici.life/barcatv.png" group-title="Spain Sport",Barca TV ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/7250
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD ES" tvg-logo="http://pici.life/ES/eurosport1.png" group-title="Spain",Eurosport 1 HD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD ES" tvg-logo="http://pici.life/ES/eurosport1.png" group-title="Spain Sport",Eurosport 1 HD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/8746
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 ES" tvg-logo="http://pici.life/ES/eurosport2.png" group-title="Spain",Eurosport 2 ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 ES" tvg-logo="http://pici.life/ES/eurosport2.png" group-title="Spain Sport",Eurosport 2 ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/13531
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viajar FHD ES" tvg-logo="http://pici.life/es/Viajar.es.png" group-title="Spain",Viajar FHD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viajar FHD ES" tvg-logo="http://pici.life/es/Viajar.es.png" group-title="Spain Sport",Viajar FHD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/7170
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toros HD ES" tvg-logo="http://pici.life/ES/torostv.png" group-title="Spain",Toros HD ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toros HD ES" tvg-logo="http://pici.life/ES/torostv.png" group-title="Spain Sport",Toros HD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/13548
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETB SAT ES" tvg-logo="" group-title="Spain",ETB SAT ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETB SAT ES" tvg-logo="" group-title="Spain Sport",ETB SAT ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/684922
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETB 1 ES" tvg-logo="" group-title="Spain",ETB 1 ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETB 1 ES" tvg-logo="" group-title="Spain Sport",ETB 1 ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/684921
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETB 2 ES" tvg-logo="" group-title="Spain",ETB 2 ES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETB 2 ES" tvg-logo="" group-title="Spain Sport",ETB 2 ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/684923
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 1 HD HU" tvg-logo="http://pici.life/HU/Digi%20sport%201%20hd.png" group-title="Hungary",Digi Sport 1 HD HU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 1 HD HU" tvg-logo="http://pici.life/HU/Digi%20sport%201%20hd.png" group-title="Hungary Sport",Digi Sport 1 HD HU
 http://mytv.fun:8080/kemal100/fkcjkrj77/13295
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 2 HD HU" tvg-logo="http://pici.life/HU/Digi%20sport%202%20hd.png" group-title="Hungary",Digi Sport 2 HD HU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 2 HD HU" tvg-logo="http://pici.life/HU/Digi%20sport%202%20hd.png" group-title="Hungary Sport",Digi Sport 2 HD HU
 http://mytv.fun:8080/kemal100/fkcjkrj77/13294
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 3 HD HU" tvg-logo="http://pici.life/HU/digi_sport_3_hd.jpg" group-title="Hungary",Digi Sport 3 HD HU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 3 HD HU" tvg-logo="http://pici.life/HU/digi_sport_3_hd.jpg" group-title="Hungary Sport",Digi Sport 3 HD HU
 http://mytv.fun:8080/kemal100/fkcjkrj77/13293
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat 6 HU" tvg-logo="http://pici.life/viasat6.png" group-title="Hungary",Viasat 6 HU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat 6 HU" tvg-logo="http://pici.life/viasat6.png" group-title="Hungary Sport",Viasat 6 HU
 http://mytv.fun:8080/kemal100/fkcjkrj77/13251
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat 3 HU" tvg-logo="http://pici.life/HU/viasat3.png" group-title="Hungary",Viasat 3 HU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat 3 HU" tvg-logo="http://pici.life/HU/viasat3.png" group-title="Hungary Sport",Viasat 3 HU
 http://mytv.fun:8080/kemal100/fkcjkrj77/8040
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV2 HD HU" tvg-logo="http://pici.life/HU/tv2.png" group-title="Hungary",TV2 HD HU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV2 HD HU" tvg-logo="http://pici.life/HU/tv2.png" group-title="Hungary Sport",TV2 HD HU
 http://mytv.fun:8080/kemal100/fkcjkrj77/13252
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport 1 HD HU" tvg-logo="http://pici.life/HU/sport1cz.png" group-title="Hungary",Sport 1 HD HU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport 1 HD HU" tvg-logo="http://pici.life/HU/sport1cz.png" group-title="Hungary Sport",Sport 1 HD HU
 http://mytv.fun:8080/kemal100/fkcjkrj77/13257
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport 2 HD HU" tvg-logo="http://pici.life/HU/sport2cze.png" group-title="Hungary",Sport 2 HD HU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport 2 HD HU" tvg-logo="http://pici.life/HU/sport2cze.png" group-title="Hungary Sport",Sport 2 HD HU
 http://mytv.fun:8080/kemal100/fkcjkrj77/13256
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Story 4 HU" tvg-logo="http://pici.life/HU/story4.png" group-title="Hungary",Story 4 HU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Story 4 HU" tvg-logo="http://pici.life/HU/story4.png" group-title="Hungary Sport",Story 4 HU
 http://mytv.fun:8080/kemal100/fkcjkrj77/13254
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spektrum HD HU" tvg-logo="http://pici.life/HU/spektrum.png" group-title="Hungary",Spektrum HD HU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spektrum HD HU" tvg-logo="http://pici.life/HU/spektrum.png" group-title="Hungary Sport",Spektrum HD HU
 http://mytv.fun:8080/kemal100/fkcjkrj77/13260
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spektrum Home HU" tvg-logo="http://pici.life/HU/spektrumhome.png" group-title="Hungary",Spektrum Home HU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spektrum Home HU" tvg-logo="http://pici.life/HU/spektrumhome.png" group-title="Hungary Sport",Spektrum Home HU
 http://mytv.fun:8080/kemal100/fkcjkrj77/13259
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M5 HD HU" tvg-logo="http://pici.life/HU/m5.png" group-title="Hungary",M5 HD HU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M5 HD HU" tvg-logo="http://pici.life/HU/m5.png" group-title="Hungary Sport",M5 HD HU
 http://mytv.fun:8080/kemal100/fkcjkrj77/13272
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M1 Hungary HU" tvg-logo="http://pici.life/HU/m1.png" group-title="Hungary",M1 Hungary HU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M1 Hungary HU" tvg-logo="http://pici.life/HU/m1.png" group-title="Hungary Sport",M1 Hungary HU
 http://mytv.fun:8080/kemal100/fkcjkrj77/13276
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fem3 HU" tvg-logo="http://pici.life/m3.png" group-title="Hungary",Fem3 HU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fem3 HU" tvg-logo="http://pici.life/m3.png" group-title="Hungary Sport",Fem3 HU
 http://mytv.fun:8080/kemal100/fkcjkrj77/13274
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4 Sport HD HU" tvg-logo="http://pici.life/HU/M4_sport.png" group-title="Hungary",M4 Sport HD HU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4 Sport HD HU" tvg-logo="http://pici.life/HU/M4_sport.png" group-title="Hungary Sport",M4 Sport HD HU
 http://mytv.fun:8080/kemal100/fkcjkrj77/13273
