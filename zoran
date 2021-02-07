@@ -1,4 +1,168 @@
 #EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 1 FHD RS" tvg-logo="" group-title="EX-YU",RTS 1 FHD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4979
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 1 HD RS" tvg-logo="" group-title="EX-YU",RTS 1 HD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/670712
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 2 RS" tvg-logo="" group-title="EX-YU",RTS 2 RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4978
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 2 [B] RS" tvg-logo="" group-title="EX-YU",RTS 2 [B] RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/10408
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 3 FHD RS" tvg-logo="" group-title="EX-YU",RTS 3 FHD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4977
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 3 HD RS" tvg-logo="" group-title="EX-YU",RTS 3 HD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/10407
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Svet RS" tvg-logo="" group-title="EX-YU",RTS Svet RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/11046
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Vojvodina 1 RS" tvg-logo="" group-title="EX-YU",RTV Vojvodina 1 RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4976
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Vojvodina 2 RS" tvg-logo="" group-title="EX-YU",RTV Vojvodina 2 RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4975
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Novi Pazar RS" tvg-logo="" group-title="EX-YU",RTV Novi Pazar RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9385
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTK 2 HD RS" tvg-logo="" group-title="EX-YU",RTK 2 HD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/680235
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Bor RS" tvg-logo="" group-title="EX-YU",RTV Bor RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/674050
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sportski -------" tvg-logo="" group-title="EX-YU",------- Sportski -------
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/683198
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 HD RS" tvg-logo="" group-title="EX-YU",Arena Sport 1 HD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5465
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2 HD RS" tvg-logo="" group-title="EX-YU",Arena Sport 2 HD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5463
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3 FHD RS" tvg-logo="" group-title="EX-YU",Arena Sport 3 FHD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5461
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4 HD RS" tvg-logo="" group-title="EX-YU",Arena Sport 4 HD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5459
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 5 HD RS" tvg-logo="" group-title="EX-YU",Arena Sport 5 HD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5456
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 1 HD RS" tvg-logo="" group-title="EX-YU",Sport Klub 1 HD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/625234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 2 HD RS" tvg-logo="" group-title="EX-YU",Sport Klub 2 HD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9407
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 3 HD RS" tvg-logo="" group-title="EX-YU",Sport Klub 3 HD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9406
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 4 HD RS" tvg-logo="" group-title="EX-YU",Sport Klub 4 HD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9405
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 5 HD RS" tvg-logo="" group-title="EX-YU",Sport Klub 5 HD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9404
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 6 HD RS" tvg-logo="" group-title="EX-YU",Sport Klub 6 HD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9403
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub Golf FHD RS" tvg-logo="" group-title="EX-YU",Sport Klub Golf FHD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/685941
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova Sport HD RS" tvg-logo="" group-title="EX-YU",Nova Sport HD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/674094
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD RS" tvg-logo="" group-title="EX-YU",Eurosport 1 HD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5056
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 RS" tvg-logo="" group-title="EX-YU",Eurosport 2 RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5055
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Partizan TV HD RS" tvg-logo="" group-title="EX-YU",Partizan TV HD RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/13221
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Koncert RS" tvg-logo="" group-title="EX-YU",Pink Koncert RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9350
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Drama RS" tvg-logo="" group-title="EX-YU",RTS Drama RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/627838
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Trezor RS" tvg-logo="" group-title="EX-YU",RTS Trezor RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/627836
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Zivot RS" tvg-logo="" group-title="EX-YU",RTS Zivot RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/627835
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Poletarac RS" tvg-logo="" group-title="EX-YU",RTS Poletarac RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/13328
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Muzika RS" tvg-logo="" group-title="EX-YU",RTS Muzika RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/627837
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Kolo RS" tvg-logo="" group-title="EX-YU",RTS Kolo RS
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/657464
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 1 FHD HR" tvg-logo="" group-title="EX-YU",HRT 1 FHD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5037
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 1 HD HR" tvg-logo="" group-title="EX-YU",HRT 1 HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/10416
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 2 HR" tvg-logo="" group-title="EX-YU",HRT 2 HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5036
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 2 [B] HR" tvg-logo="" group-title="EX-YU",HRT 2 [B] HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/10415
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 3 HD HR" tvg-logo="" group-title="EX-YU",HRT 3 HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5035
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT3 [B] HD HR" tvg-logo="" group-title="EX-YU",HRT3 [B] HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/10414
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 4 HD HR" tvg-logo="" group-title="EX-YU",HRT 4 HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5033
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 4 HR" tvg-logo="" group-title="EX-YU",HRT 4 HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/10413
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT Int. HR" tvg-logo="" group-title="EX-YU",HRT Int. HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/23780
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL HD HR" tvg-logo="" group-title="EX-YU",RTL HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4985
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL [B] HD HR" tvg-logo="" group-title="EX-YU",RTL [B] HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/10412
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 2 HR" tvg-logo="" group-title="EX-YU",RTL 2 HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4984
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sportski -------" tvg-logo="" group-title="EX-YU",------- Sportski -------
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/683294
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 FHD HR" tvg-logo="" group-title="EX-YU",Arena Sport 1 FHD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5464
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2 HD HR" tvg-logo="" group-title="EX-YU",Arena Sport 2 HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5462
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3 HD HR" tvg-logo="" group-title="EX-YU",Arena Sport 3 HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5460
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4 HD HR" tvg-logo="" group-title="EX-YU",Arena Sport 4 HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5458
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 5 FHD HR" tvg-logo="" group-title="EX-YU",Arena Sport 5 FHD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/545734
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 6 HD HR" tvg-logo="" group-title="EX-YU",Arena Sport 6 HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9415
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub Start HR" tvg-logo="" group-title="EX-YU",Sport Klub Start HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/635089
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 1 HD HR" tvg-logo="" group-title="EX-YU",Sport Klub 1 HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/53605
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 2 HD HR" tvg-logo="" group-title="EX-YU",Sport Klub 2 HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9413
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 3 HD HR" tvg-logo="" group-title="EX-YU",Sport Klub 3 HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/53166
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 4 HD HR" tvg-logo="" group-title="EX-YU",Sport Klub 4 HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9411
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 5 HD HR" tvg-logo="" group-title="EX-YU",Sport Klub 5 HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9410
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 6 HD HR" tvg-logo="" group-title="EX-YU",Sport Klub 6 HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9409
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub Golf HD HR" tvg-logo="" group-title="EX-YU",Sport Klub Golf HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/657465
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SK eSports HR" tvg-logo="" group-title="EX-YU",SK eSports HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/680236
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sport 1 HD HR" tvg-logo="" group-title="EX-YU",Planet Sport 1 HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/685989
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sport 2 FHD HR" tvg-logo="" group-title="EX-YU",Planet Sport 2 FHD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/685990
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sport 3 FHD HR" tvg-logo="" group-title="EX-YU",Planet Sport 3 FHD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/685991
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sport 4 FHD HR" tvg-logo="" group-title="EX-YU",Planet Sport 4 FHD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/685992
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sport 5 FHD HR" tvg-logo="" group-title="EX-YU",Planet Sport 5 FHD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/685993
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportska TV HR" tvg-logo="" group-title="EX-YU",Sportska TV HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9416
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Adria HR" tvg-logo="" group-title="EX-YU",RTL Adria HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/686785
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Crime HR" tvg-logo="" group-title="EX-YU",RTL Crime HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4983
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Passion HD HR" tvg-logo="" group-title="EX-YU",RTL Passion HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/686786
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Passion HR" tvg-logo="" group-title="EX-YU",RTL Passion HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4981
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Earth HD HR" tvg-logo="" group-title="EX-YU",BBC Earth HD HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/674012
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Living HR" tvg-logo="" group-title="EX-YU",RTL Living HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4982
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Kockica HR" tvg-logo="" group-title="EX-YU",RTL Kockica HR
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4980
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Zenica BIH" tvg-logo="" group-title="EX-YU",RTV Zenica BIH
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/11032
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTRS BIH" tvg-logo="" group-title="EX-YU",RTRS BIH
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4987
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTRS Plus BIH" tvg-logo="" group-title="EX-YU",RTRS Plus BIH
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4986
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv Herceg Bosne BIH" tvg-logo="" group-title="EX-YU",Rtv Herceg Bosne BIH
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/684734
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport HD BIH" tvg-logo="" group-title="EX-YU",Arena Sport HD BIH
+http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/675211
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="##### |SRB| SRBIJA #####" tvg-logo="" group-title="EXYU A1",##### |SRB| SRBIJA #####
 http://rv.imax.re:80/477811415312014/477811415312014/86833
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|SRB| RTS SVET" tvg-logo="" group-title="EXYU A1",|SRB| RTS SVET
