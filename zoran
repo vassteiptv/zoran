@@ -1,4 +1,705 @@
 #EXTM3U url-tvg=""
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="☆☆☆☆ Bosna ☆☆☆☆" tvg-logo="" group-title="EX-YU A1",☆☆☆☆ Bosna ☆☆☆☆
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6241
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV" tvg-logo="http://smartntv.pro:25461/images/9c320008163c466642cbf275a26ae94c.png" group-title="EX-YU A1",ATV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6242
+#EXTINF:-1 tvg-id="televizija-alfa" tvg-name="ALFA TV" tvg-logo="http://smartntv.pro:25461/images/19ffdeb691c9a3184f43b4679635a246.png" group-title="EX-YU A1",ALFA TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6243
+#EXTINF:-1 tvg-id="al-jazeera-balkans" tvg-name="Al Jazeera HD" tvg-logo="http://smartntv.pro:25461/images/babd56678a438e8872baaad620b976e6.png" group-title="EX-YU A1",Al Jazeera HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6244
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B1 TV Gradacac" tvg-logo="" group-title="EX-YU A1",B1 TV Gradacac
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6245
+#EXTINF:-1 tvg-id="bht1" tvg-name="BHT1 HD" tvg-logo="http://195.154.191.246/logo_channels/bht-1-ba.png" group-title="EX-YU A1",BHT1 HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6246
+#EXTINF:-1 tvg-id="bht1" tvg-name="Bht1 Backup" tvg-logo="http://195.154.191.246/logo_channels/bht-1-ba.png" group-title="EX-YU A1",Bht1 Backup
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6247
+#EXTINF:-1 tvg-id="face-tv" tvg-name="Face HD" tvg-logo="http://195.154.191.246/logo_channels/face_tv_ba.png" group-title="EX-YU A1",Face HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6248
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Face TV Backup" tvg-logo="" group-title="EX-YU A1",Face TV Backup
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13389
+#EXTINF:-1 tvg-id="obn" tvg-name="OBN" tvg-logo="http://smartntv.pro:25461/images/df6f0cd2cfc0824f12335238d689e133.png" group-title="EX-YU A1",OBN
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6249
+#EXTINF:-1 tvg-id="OBN" tvg-name="OBN Backup" tvg-logo="http://smartntv.pro:25461/images/df6f0cd2cfc0824f12335238d689e133.png" group-title="EX-YU A1",OBN Backup
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6250
+#EXTINF:-1 tvg-id="ftv" tvg-name="Federalna TV" tvg-logo="http://smartntv.pro:25461/images/83933aeecfaf10e28274d2e949e52fcf.png" group-title="EX-YU A1",Federalna TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6251
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Federalna TV Backup" tvg-logo="http://smartntv.pro:25461/images/83933aeecfaf10e28274d2e949e52fcf.png" group-title="EX-YU A1",Federalna TV Backup
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/9864
+#EXTINF:-1 tvg-id="hayat-tv" tvg-name="Hayat HD/FHD" tvg-logo="http://smartntv.pro:25461/images/17dc22080facdd9ec66130f5082a94d4.png" group-title="EX-YU A1",Hayat HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6254
+#EXTINF:-1 tvg-id="hayat-plus" tvg-name="Hayat Plus" tvg-logo="http://smartntv.pro:25461/images/31395a19ea3291772186d08f9190b764.png" group-title="EX-YU A1",Hayat Plus
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6255
+#EXTINF:-1 tvg-id="rtv-ze" tvg-name="Zenica TV" tvg-logo="http://smartntv.pro:25461/images/c4772b44430665ee849fe3205a5c7567.png" group-title="EX-YU A1",Zenica TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6257
+#EXTINF:-1 tvg-id="rtv-hit" tvg-name="HIT Brcko" tvg-logo="http://smartntv.pro:25461/images/bdf3e4d17572e3a6b9710f3f9afc767c.png" group-title="EX-YU A1",HIT Brcko
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6258
+#EXTINF:-1 tvg-id="bir-tv" tvg-name="Bir TV" tvg-logo="" group-title="EX-YU A1",Bir TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12975
+#EXTINF:-1 tvg-id="mtv-igman" tvg-name="MTV Igman HD" tvg-logo="http://smartntv.pro:25461/images/ffa0a277103a5487d9f68824fc3c9171.png" group-title="EX-YU A1",MTV Igman HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6259
+#EXTINF:-1 tvg-id="rtv-usk" tvg-name="RTV USK HD" tvg-logo="http://smartntv.pro:25461/images/7d934b098fcff35b710d0680538c28e4.png" group-title="EX-YU A1",RTV USK HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6260
+#EXTINF:-1 tvg-id="tv-sarajevo" tvg-name="Sarajevo TV HD/FHD" tvg-logo="http://smartntv.pro:25461/images/8fbc8c04848cf5d3f20e84dedaa49e68.jpg" group-title="EX-YU A1",Sarajevo TV HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6261
+#EXTINF:-1 tvg-id="rtv-hb" tvg-name="TV Herceg Bosne" tvg-logo="" group-title="EX-YU A1",TV Herceg Bosne
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12903
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bosansko Posavska TV HD" tvg-logo="" group-title="EX-YU A1",Bosansko Posavska TV HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12974
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Sana HD" tvg-logo="" group-title="EX-YU A1",RTV Sana HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12976
+#EXTINF:-1 tvg-id="rtvtk" tvg-name="TK TUZLA HD" tvg-logo="http://smartntv.pro:25461/images/bcfac74cce4d65108262427270a69a90.png" group-title="EX-YU A1",TK TUZLA HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6262
+#EXTINF:-1 tvg-id="rtv-slon" tvg-name="TV Slon Tuzla" tvg-logo="https://tuzlanski-tuzlanskiba.netdna-ssl.com/wp-content/uploads/2013/12/TV_Slon_Extra_logo.jpg" group-title="EX-YU A1",TV Slon Tuzla
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6263
+#EXTINF:-1 tvg-id="o-kanal" tvg-name="O Kanal" tvg-logo="https://static.klix.ba/media/images/vijesti/b_191108158.jpg?v=1" group-title="EX-YU A1",O Kanal
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6264
+#EXTINF:-1 tvg-id="televizija-5" tvg-name="TV 5 ISLAM HD" tvg-logo="http://195.154.191.246/logo_channels/tv5-ba.png" group-title="EX-YU A1",TV 5 ISLAM HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6265
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR:Mekka TV" tvg-logo="http://195.154.191.246/logo_channels/taraf_tv.png" group-title="EX-YU A1",AR:Mekka TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6266
+#EXTINF:-1 tvg-id="kanal-6" tvg-name="Kanal 6 HD" tvg-logo="http://smartntv.pro:25461/images/76ae4d70869872f893042a5451a28b3b.png" group-title="EX-YU A1",Kanal 6 HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6267
+#EXTINF:-1 tvg-id="SlavonskaTV" tvg-name="Posavina TV" tvg-logo="http://smartntv.pro:25461/images/da78349c47a6927b55e07e9d394f8213.png" group-title="EX-YU A1",Posavina TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6268
+#EXTINF:-1 tvg-id="city-tv" tvg-name="CityTV" tvg-logo="http://smartntv.pro:25461/images/026cfec22fb248c1347ed93cb98fcaa6.png" group-title="EX-YU A1",CityTV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6269
+#EXTINF:-1 tvg-id="studio-b-yu" tvg-name="Studio B" tvg-logo="http://195.154.191.246/logo_channels/studio47-de.png" group-title="EX-YU A1",Studio B
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6270
+#EXTINF:-1 tvg-id="rtv7" tvg-name="RTV 7 Tuzla" tvg-logo="http://195.154.191.246/logo_channels/rtv-pt.png" group-title="EX-YU A1",RTV 7 Tuzla
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6271
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HEMA TV" tvg-logo="http://smartntv.pro:25461/images/75b76091f45fcf5c8196374bc0d02af4.png" group-title="EX-YU A1",HEMA TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6273
+#EXTINF:-1 tvg-id="kanal-3-prnjavor" tvg-name="K3 Prnjavor HD" tvg-logo="http://smartntv.pro:25461/images/a0802551f6f5033f2ef924d0ed7dc4fa.png" group-title="EX-YU A1",K3 Prnjavor HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6275
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Podrinje HD" tvg-logo="" group-title="EX-YU A1",RTV Podrinje HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6276
+#EXTINF:-1 tvg-id="ntv-ic" tvg-name="NTV IC Kakanj" tvg-logo="" group-title="EX-YU A1",NTV IC Kakanj
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12878
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Cazin" tvg-logo="" group-title="EX-YU A1",RTV Cazin
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13819
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra Islamka TV" tvg-logo="" group-title="EX-YU A1",Dobra Islamka TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13820
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra Pravoslavna TV" tvg-logo="" group-title="EX-YU A1",Dobra Pravoslavna TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13821
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra Sport TV" tvg-logo="" group-title="EX-YU A1",Dobra Sport TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13822
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra Cinema TV" tvg-logo="" group-title="EX-YU A1",Dobra Cinema TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13823
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra Djecija TV" tvg-logo="" group-title="EX-YU A1",Dobra Djecija TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13825
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super TV" tvg-logo="" group-title="EX-YU A1",Super TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13828
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game Bar (TEST)" tvg-logo="" group-title="EX-YU A1",Game Bar (TEST)
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13827
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Medugorje" tvg-logo="" group-title="EX-YU A1",TV Medugorje
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/10994
+#EXTINF:-1 tvg-id="rtrs" tvg-name="RTRS HD" tvg-logo="http://smartntv.pro:25461/images/c1b7a3c876fdce320473e8e89afd597f.png" group-title="EX-YU A1",RTRS HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6308
+#EXTINF:-1 tvg-id="RTL2" tvg-name="RTRS Backup" tvg-logo="http://smartntv.pro:25461/images/c1b7a3c876fdce320473e8e89afd597f.png" group-title="EX-YU A1",RTRS Backup
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6309
+#EXTINF:-1 tvg-id="rtrs-plus" tvg-name="RTRS PLUS" tvg-logo="http://195.154.191.246/logo_channels/rtrs_tv_ba_plus.png" group-title="EX-YU A1",RTRS PLUS
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6310
+#EXTINF:-1 tvg-id="bn" tvg-name="BN TV HD" tvg-logo="http://smartntv.pro:25461/images/c8e3f775cba39b06298aade4a5e34291.png" group-title="EX-YU A1",BN TV HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/11177
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elta TV 1 (TEST)" tvg-logo="" group-title="EX-YU A1",Elta TV 1 (TEST)
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13831
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elta TV 2 (TEST)" tvg-logo="" group-title="EX-YU A1",Elta TV 2 (TEST)
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13832
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tatabrada TV (Test)" tvg-logo="" group-title="EX-YU A1",Tatabrada TV (Test)
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/14011
+#EXTINF:-1 tvg-id="VarazdinskaTV" tvg-name="☆☆☆☆ Hrvatska ☆☆☆☆" tvg-logo="http://195.154.191.246/logo_channels/gtrk_vyatka.png" group-title="EX-YU A1",☆☆☆☆ Hrvatska ☆☆☆☆
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6277
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 HD/FHD" tvg-logo="http://195.154.191.246/logo_channels/hrt1.png" group-title="EX-YU A1",HRT 1 HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6278
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 1 Backup" tvg-logo="http://195.154.191.246/logo_channels/hrt1.png" group-title="EX-YU A1",HRT 1 Backup
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6279
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 HD/FHD" tvg-logo="http://smartntv.pro:25461/images/557563031c25f307654ba592d57823cb.png" group-title="EX-YU A1",HRT 2 HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6280
+#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 2 Backup" tvg-logo="http://195.154.191.246/logo_channels/hrt2.png" group-title="EX-YU A1",HRT 2 Backup
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6281
+#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3 HD/FHD" tvg-logo="http://195.154.191.246/logo_channels/hrt3.png" group-title="EX-YU A1",HRT 3 HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6282
+#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4 HD/FHD" tvg-logo="http://smartntv.pro:25461/images/1c53c15f2913decfc54b78ccaac10b1b.png" group-title="EX-YU A1",HRT 4 HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6283
+#EXTINF:-1 tvg-id="htv5" tvg-name="HRT Int." tvg-logo="http://smartntv.pro:25461/images/1253d4bb45eac08df04ed0b799c8da42.png" group-title="EX-YU A1",HRT Int.
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6284
+#EXTINF:-1 tvg-id="rtl-adria" tvg-name="RTL Adria(TEST)" tvg-logo="" group-title="EX-YU A1",RTL Adria(TEST)
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/9635
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL HD/FHD" tvg-logo="http://smartntv.pro:25461/images/191b2429e8a8f3fc62c996fd323cdc97.png" group-title="EX-YU A1",RTL HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6285
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL Backup" tvg-logo="http://smartntv.pro:25461/images/191b2429e8a8f3fc62c996fd323cdc97.png" group-title="EX-YU A1",RTL Backup
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6286
+#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2 HD" tvg-logo="http://smartntv.pro:25461/images/ecb02070218894520979d15f9fae9cff.png" group-title="EX-YU A1",RTL 2 HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6287
+#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL Crime HD" tvg-logo="http://smartntv.pro:25461/images/3df506fd74e59092961b05990805ffcb.png" group-title="EX-YU A1",RTL Crime HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6288
+#EXTINF:-1 tvg-id="rtl-passion" tvg-name="RTL Passion HD" tvg-logo="http://smartntv.pro:25461/images/b8df06bb61780e921f56c5c9e6d50374.png" group-title="EX-YU A1",RTL Passion HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6289
+#EXTINF:-1 tvg-id="rtl-living" tvg-name="RTL Living HD/FHD" tvg-logo="http://195.154.191.246/logo_channels/rtlliving.png" group-title="EX-YU A1",RTL Living HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6290
+#EXTINF:-1 tvg-id="rtl-croworld" tvg-name="RTL Croatia World(TEST)" tvg-logo="" group-title="EX-YU A1",RTL Croatia World(TEST)
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13134
+#EXTINF:-1 tvg-id="z1" tvg-name="Z1 TV" tvg-logo="http://195.154.191.246/logo_channels/z1_hr.png" group-title="EX-YU A1",Z1 TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6296
+#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-name="Vinkovacka HD" tvg-logo="http://195.154.191.246/logo_channels/viva_at.png" group-title="EX-YU A1",Vinkovacka HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6299
+#EXTINF:-1 tvg-id="ostv" tvg-name="Osjecka TV HD/FHD" tvg-logo="http://195.154.191.246/logo_channels/osjecka_tv_hr.png" group-title="EX-YU A1",Osjecka TV HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6300
+#EXTINF:-1 tvg-id="slavonska-tv" tvg-name="Slavonska TV" tvg-logo="http://195.154.191.246/logo_channels/klasiktv.png" group-title="EX-YU A1",Slavonska TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6301
+#EXTINF:-1 tvg-id="laudato-tv" tvg-name="Laudato TV" tvg-logo="http://smartntv.pro:25461/images/4b098e7d26b8a41b908f9e7f422f8253.png" group-title="EX-YU A1",Laudato TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6302
+#EXTINF:-1 tvg-id="dmc" tvg-name="DMC" tvg-logo="http://195.154.191.246/logo_channels/amc.png" group-title="EX-YU A1",DMC
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6303
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Banovina" tvg-logo="http://195.154.191.246/logo_channels/rtvbanovina.png" group-title="EX-YU A1",RTV Banovina
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6298
+#EXTINF:-1 tvg-id="varazdinska-tv" tvg-name="VTV Varazdin" tvg-logo="http://smartntv.pro:25461/images/3f473aac9c6682299c0f89e2c58328a0.png" group-title="EX-YU A1",VTV Varazdin
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6304
+#EXTINF:-1 tvg-id="kanal-ri" tvg-name="Kanal R" tvg-logo="http://smartntv.pro:25461/images/2c5cdba0a28071a97ab87a7eb9063229.png" group-title="EX-YU A1",Kanal R
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6306
+#EXTINF:-1 tvg-id="tv-jadran" tvg-name="Jadran TV" tvg-logo="" group-title="EX-YU A1",Jadran TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12881
+#EXTINF:-1 tvg-id="poljoprivredna-tv" tvg-name="Poljoprivredna TV" tvg-logo="" group-title="EX-YU A1",Poljoprivredna TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12882
+#EXTINF:-1 tvg-id="aurora-tv" tvg-name="Aurora TV FHD" tvg-logo="" group-title="EX-YU A1",Aurora TV FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13138
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STV" tvg-logo="" group-title="EX-YU A1",STV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13126
+#EXTINF:-1 tvg-id="dubrovacka-tv" tvg-name="Dubrovačka TV" tvg-logo="" group-title="EX-YU A1",Dubrovačka TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13128
+#EXTINF:-1 tvg-id="zdrava-televizija" tvg-name="Zdrava Televizija" tvg-logo="" group-title="EX-YU A1",Zdrava Televizija
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13129
+#EXTINF:-1 tvg-id="jabukatv" tvg-name="Jabuka TV HD" tvg-logo="" group-title="EX-YU A1",Jabuka TV HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13130
+#EXTINF:-1 tvg-id="libertas-tv" tvg-name="Libertas TV HD" tvg-logo="" group-title="EX-YU A1",Libertas TV HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13131
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Narodni TV" tvg-logo="" group-title="EX-YU A1",Narodni TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13132
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova Cinema" tvg-logo="http://smartntv.pro:25461/images/04d5f57553c367fc77cb5e71ee6a63b4.png" group-title="EX-YU A1",Nova Cinema
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13818
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prigorska TV" tvg-logo="" group-title="EX-YU A1",Prigorska TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13826
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mreza TV Zagreb(TEST)" tvg-logo="" group-title="EX-YU A1",Mreza TV Zagreb(TEST)
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13829
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mreza TV Split" tvg-logo="" group-title="EX-YU A1",Mreza TV Split
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="☆☆☆☆ Srbija ☆☆☆☆" tvg-logo="http://195.154.191.246/logo_channels/pinkserije-alt.png" group-title="EX-YU A1",☆☆☆☆ Srbija ☆☆☆☆
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6307
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1 HD" tvg-logo="http://195.154.191.246/logo_channels/rts_rs_hd.png" group-title="EX-YU A1",RTS 1 HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6311
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 1 Backup" tvg-logo="http://smartntv.pro:25461/images/21b36b63576f4e471c210756763f21f9.png" group-title="EX-YU A1",RTS 1 Backup
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6312
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS FHD" tvg-logo="http://smartntv.pro:25461/images/21b36b63576f4e471c210756763f21f9.png" group-title="EX-YU A1",RTS FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6313
+#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2 HD/FHD" tvg-logo="http://195.154.191.246/logo_channels/rts_rs_2.png" group-title="EX-YU A1",RTS 2 HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6314
+#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 HD/FHD" tvg-logo="http://smartntv.pro:25461/images/21b36b63576f4e471c210756763f21f9.png" group-title="EX-YU A1",RTS 3 HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6315
+#EXTINF:-1 tvg-id="rts-zivot" tvg-name="RTS Zivot" tvg-logo="http://195.154.191.246/logo_channels/rts_rs_hd.png" group-title="EX-YU A1",RTS Zivot
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6317
+#EXTINF:-1 tvg-id="rts-drama" tvg-name="RTS Drama" tvg-logo="http://195.154.191.246/logo_channels/rts_rs_hd.png" group-title="EX-YU A1",RTS Drama
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6318
+#EXTINF:-1 tvg-id="rts-trezor" tvg-name="RTS Trezor" tvg-logo="" group-title="EX-YU A1",RTS Trezor
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12891
+#EXTINF:-1 tvg-id="rts-kolo" tvg-name="RTS Kolo HD" tvg-logo="" group-title="EX-YU A1",RTS Kolo HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12892
+#EXTINF:-1 tvg-id="rts-muzika" tvg-name="RTS Muzika" tvg-logo="" group-title="EX-YU A1",RTS Muzika
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12893
+#EXTINF:-1 tvg-id="rtszivot" tvg-name="RTS Svet FHD" tvg-logo="http://195.154.191.246/logo_channels/rts_rs_hd.png" group-title="EX-YU A1",RTS Svet FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6319
+#EXTINF:-1 tvg-id="prva-srpska-tv" tvg-name="Prva TV HD/FHD" tvg-logo="http://smartntv.pro:25461/images/1550529752ca8fb12f803121d96ec54e.png" group-title="EX-YU A1",Prva TV HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6320
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prva TV Backup" tvg-logo="http://smartntv.pro:25461/images/1550529752ca8fb12f803121d96ec54e.png" group-title="EX-YU A1",Prva TV Backup
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6321
+#EXTINF:-1 tvg-id="prva-plus" tvg-name="Prva Plus" tvg-logo="http://smartntv.pro:25461/images/8a89773e8164a4c7a333b613e3f50406.png" group-title="EX-YU A1",Prva Plus
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6322
+#EXTINF:-1 tvg-id="prva-max" tvg-name="Prva Max" tvg-logo="http://smartntv.pro:25461/images/913d20ad251bd456a05494df6840c249.png" group-title="EX-YU A1",Prva Max
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6323
+#EXTINF:-1 tvg-id="prva-world" tvg-name="Prva World" tvg-logo="http://smartntv.pro:25461/images/3a4b66868f7006882287178ae96b77c1.png" group-title="EX-YU A1",Prva World
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6324
+#EXTINF:-1 tvg-id="prva-kick" tvg-name="PRVA Kick" tvg-logo="http://smartntv.pro:25461/images/0ff0f9a4da902139c28a4d1caca5e696.png" group-title="EX-YU A1",PRVA Kick
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6325
+#EXTINF:-1 tvg-id="prva-files" tvg-name="Prva Files" tvg-logo="http://smartntv.pro:25461/images/f5f7ffd6e09d4d963246b1a24b84d42e.png" group-title="EX-YU A1",Prva Files
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6326
+#EXTINF:-1 tvg-id="happytv" tvg-name="Happy TV" tvg-logo="http://smartntv.pro:25461/images/17a8dd6e73c22224c3efd64fe3ce0c55.png" group-title="EX-YU A1",Happy TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6327
+#EXTINF:-1 tvg-id="HappyTV" tvg-name="Happy TV Backup" tvg-logo="http://smartntv.pro:25461/images/17a8dd6e73c22224c3efd64fe3ce0c55.png" group-title="EX-YU A1",Happy TV Backup
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6328
+#EXTINF:-1 tvg-id="b92" tvg-name="O2 (B92) TV HD/FHD" tvg-logo="http://smartntv.pro:25461/images/cb4f7997f6c02a394d83c0e834a6d128.png" group-title="EX-YU A1",O2 (B92) TV HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6330
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SANDZAK TV HD" tvg-logo="http://195.154.191.246/logo_channels/sandzak_tv_rs.png" group-title="EX-YU A1",SANDZAK TV HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6333
+#EXTINF:-1 tvg-id="superstar-tv" tvg-name="SUPERSTAR" tvg-logo="http://smartntv.pro:25461/images/dbeb94dba11719f7057437f8c597d110.png" group-title="EX-YU A1",SUPERSTAR
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6334
+#EXTINF:-1 tvg-id="novi-pazar" tvg-name="RTV Novi Pazar HD" tvg-logo="http://195.154.191.246/logo_channels/tv_novi_pazar.png" group-title="EX-YU A1",RTV Novi Pazar HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6335
+#EXTINF:-1 tvg-id="vojvodina-1" tvg-name="RTV Vojvodina" tvg-logo="http://195.154.191.246/logo_channels/rtvbanovina.png" group-title="EX-YU A1",RTV Vojvodina
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6336
+#EXTINF:-1 tvg-id="vojvodina-2" tvg-name="RTV Vojvodina 2" tvg-logo="http://195.154.191.246/logo_channels/rtvbanovina.png" group-title="EX-YU A1",RTV Vojvodina 2
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6337
+#EXTINF:-1 tvg-id="sos" tvg-name="Kanal SOS" tvg-logo="http://195.154.191.246/logo_channels/kanal9_se.png" group-title="EX-YU A1",Kanal SOS
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6338
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sandzačka TV Mreža" tvg-logo="" group-title="EX-YU A1",Sandzačka TV Mreža
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12884
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Jefimija HD" tvg-logo="" group-title="EX-YU A1",TV Jefimija HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12885
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pruga TV FHD" tvg-logo="" group-title="EX-YU A1",Pruga TV FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12887
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Leskovac TV" tvg-logo="http://195.154.191.246/logo_channels/tv_leskovac_rs.png" group-title="EX-YU A1",Leskovac TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6339
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Palma Plus Jagodina" tvg-logo="http://smartntv.pro:25461/images/7c0a28c4324abb6a7ec291e720a613ae.png" group-title="EX-YU A1",TV Palma Plus Jagodina
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6340
+#EXTINF:-1 tvg-id="belle-amie" tvg-name="BELLE AMIE TV" tvg-logo="http://smartntv.pro:25461/images/f9912fca1ab862916d9b46003886d81d.png" group-title="EX-YU A1",BELLE AMIE TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6344
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KCN 1" tvg-logo="http://195.154.191.246/logo_channels/k_cn1_rs.png" group-title="EX-YU A1",KCN 1
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6341
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KCN 2" tvg-logo="http://smartntv.pro:25461/images/c475aff6ec81e2e841fef02ea6424780.png" group-title="EX-YU A1",KCN 2
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6342
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KCN 3" tvg-logo="http://smartntv.pro:25461/images/2ef626793c224da7c9abee37eb7461d9.png" group-title="EX-YU A1",KCN 3
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6343
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hram TV" tvg-logo="http://195.154.191.246/logo_channels/hora_tv.png" group-title="EX-YU A1",Hram TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6345
+#EXTINF:-1 tvg-id="prva-tv-cg" tvg-name="Prva CG" tvg-logo="" group-title="EX-YU A1",Prva CG
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13148
+#EXTINF:-1 tvg-id="tvcg-sat" tvg-name="RTCG Sat HD" tvg-logo="" group-title="EX-YU A1",RTCG Sat HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6800
+#EXTINF:-1 tvg-id="tvcg1" tvg-name="RTCG 1 HD/FHD" tvg-logo="" group-title="EX-YU A1",RTCG 1 HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/11178
+#EXTINF:-1 tvg-id="tvcg2" tvg-name="RTCG 2 HD/FHD" tvg-logo="http://smartntv.pro:25461/images/2d822572eb0d78fa2631112092b88c1f.png" group-title="EX-YU A1",RTCG 2 HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6801
+#EXTINF:-1 tvg-id="nova-m" tvg-name="NovaM" tvg-logo="" group-title="EX-YU A1",NovaM
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/11179
+#EXTINF:-1 tvg-id="tv-vijesti" tvg-name="TV Vijesti" tvg-logo="http://195.154.191.246/logo_channels/tv_vijesti_me.png" group-title="EX-YU A1",TV Vijesti
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6802
+#EXTINF:-1 tvg-id="tvcgsat" tvg-name="TV 777 CG" tvg-logo="http://195.154.191.246/logo_channels/tvc3.png" group-title="EX-YU A1",TV 777 CG
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6803
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K 1 (TEST)" tvg-logo="" group-title="EX-YU A1",K 1 (TEST)
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13869
+#EXTINF:-1 tvg-id="htv1" tvg-name="Star TV(TEST)" tvg-logo="http://smartntv.pro:25461/images/ed9373aa122e86fe4105f17c2f6327ef.png" group-title="EX-YU A1",Star TV(TEST)
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/7015
+#EXTINF:-1 tvg-id="Pink" tvg-name="☆☆☆☆ Pink ☆☆☆☆" tvg-logo="http://195.154.191.246/logo_channels/pink3.png" group-title="EX-YU A1",☆☆☆☆ Pink ☆☆☆☆
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6419
+#EXTINF:-1 tvg-id="pink-bih" tvg-name="Pink BH" tvg-logo="http://smartntv.pro:25461/images/0e28e7c63a1814d28acc5cb179f2717f.png" group-title="EX-YU A1",Pink BH
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6420
+#EXTINF:-1 tvg-id="pink" tvg-name="Pink 1 HD/FHD" tvg-logo="http://195.154.191.246/logo_channels/pink1.png" group-title="EX-YU A1",Pink 1 HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6421
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink 1 Backup" tvg-logo="http://195.154.191.246/logo_channels/pink1.png" group-title="EX-YU A1",Pink 1 Backup
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6422
+#EXTINF:-1 tvg-id="pink-2" tvg-name="RED TV HD" tvg-logo="http://smartntv.pro:25461/images/770d6962b24519d63ea3baafcf95f759.png" group-title="EX-YU A1",RED TV HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6423
+#EXTINF:-1 tvg-id="pink-3" tvg-name="Pink 3" tvg-logo="http://smartntv.pro:25461/images/84060b3e86025741f26ea085c1c4754c.png" group-title="EX-YU A1",Pink 3
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6424
+#EXTINF:-1 tvg-id="pink-action" tvg-name="Pink Action" tvg-logo="http://smartntv.pro:25461/images/9f5d6f2b5c0f8fbe0410d3ad90c2ab4f.png" group-title="EX-YU A1",Pink Action
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6425
+#EXTINF:-1 tvg-id="pink-plus" tvg-name="Pink Plus" tvg-logo="http://smartntv.pro:25461/images/cbb4fb294b30a994e8837418f1951918.png" group-title="EX-YU A1",Pink Plus
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6426
+#EXTINF:-1 tvg-id="pink-extra" tvg-name="Pink Extra" tvg-logo="http://195.154.191.246/logo_channels/pink_extra.png" group-title="EX-YU A1",Pink Extra
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6427
+#EXTINF:-1 tvg-id="pink-classic" tvg-name="Pink Classic" tvg-logo="http://smartntv.pro:25461/images/8f63e2f835e6d99a9dfc674ca25dba64.png" group-title="EX-YU A1",Pink Classic
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6428
+#EXTINF:-1 tvg-id="pink-comedy" tvg-name="Pink Comedy" tvg-logo="http://195.154.191.246/logo_channels/pinkcomedy.png" group-title="EX-YU A1",Pink Comedy
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6429
+#EXTINF:-1 tvg-id="pink-action-3" tvg-name="PINK CRIME & MISTERY" tvg-logo="http://smartntv.pro:25461/images/9b2d6210f21359f2928cf1e006239265.png" group-title="EX-YU A1",PINK CRIME & MISTERY
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6430
+#EXTINF:-1 tvg-id="pink-film" tvg-name="Pink Film" tvg-logo="http://smartntv.pro:25461/images/8564d13e4c08147f62435066d85c76c6.png" group-title="EX-YU A1",Pink Film
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6431
+#EXTINF:-1 tvg-id="pink-movies" tvg-name="Pink Movies" tvg-logo="http://smartntv.pro:25461/images/5d01499ebba85198e8f7f2d36f2b4cf6.png" group-title="EX-YU A1",Pink Movies
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6432
+#EXTINF:-1 tvg-id="pink-reality" tvg-name="Pink Reality" tvg-logo="http://smartntv.pro:25461/images/09a5d8abe34d2377a1a6ee5807ff7f6b.png" group-title="EX-YU A1",Pink Reality
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6433
+#EXTINF:-1 tvg-id="pink-movies-2" tvg-name="Pink Romance" tvg-logo="http://smartntv.pro:25461/images/18869c3ea5a64fecb67f97aaf91f4ab9.png" group-title="EX-YU A1",Pink Romance
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6434
+#EXTINF:-1 tvg-id="pink-family" tvg-name="Pink Family" tvg-logo="http://195.154.191.246/logo_channels/pink_family.png" group-title="EX-YU A1",Pink Family
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6435
+#EXTINF:-1 tvg-id="pink-m" tvg-name="Pink M" tvg-logo="http://smartntv.pro:25461/images/b9a48d8c619a0770b1f8f13d15bd553d.png" group-title="EX-YU A1",Pink M
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6436
+#EXTINF:-1 tvg-id="pink-serije" tvg-name="Pink Serije" tvg-logo="http://smartntv.pro:25461/images/7f50431e5bf893c955ea81a403dede32.png" group-title="EX-YU A1",Pink Serije
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6437
+#EXTINF:-1 tvg-id="pink-soap" tvg-name="Pink Soap" tvg-logo="http://smartntv.pro:25461/images/724cfdfcda952b9e4eb80d3f2071306f.png" group-title="EX-YU A1",Pink Soap
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6438
+#EXTINF:-1 tvg-id="pink-action-2" tvg-name="Pink Thriller" tvg-logo="http://195.154.191.246/logo_channels/pinkthriller.png" group-title="EX-YU A1",Pink Thriller
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6439
+#EXTINF:-1 tvg-id="pink-western" tvg-name="Pink Western" tvg-logo="http://195.154.191.246/logo_channels/pinkwestern.png" group-title="EX-YU A1",Pink Western
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6440
+#EXTINF:-1 tvg-id="pink-world" tvg-name="Pink World" tvg-logo="http://smartntv.pro:25461/images/4932650378cf8c6396acf826a8d2677d.png" group-title="EX-YU A1",Pink World
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6441
+#EXTINF:-1 tvg-id="pink-horror" tvg-name="Pink Horror" tvg-logo="http://195.154.191.246/logo_channels/pinkhorror.png" group-title="EX-YU A1",Pink Horror
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6442
+#EXTINF:-1 tvg-id="pink-world-cinema" tvg-name="Pink World Cinema" tvg-logo="http://smartntv.pro:25461/images/4932650378cf8c6396acf826a8d2677d.png" group-title="EX-YU A1",Pink World Cinema
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6443
+#EXTINF:-1 tvg-id="pink-movies-3" tvg-name="PINK Sci-Fi & Fantasy" tvg-logo="http://smartntv.pro:25461/images/84ae5ab68484cb20b008e050e53fc934.png" group-title="EX-YU A1",PINK Sci-Fi & Fantasy
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6444
+#EXTINF:-1 tvg-id="pink-premium" tvg-name="Pink Premium HD" tvg-logo="" group-title="EX-YU A1",Pink Premium HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6445
+#EXTINF:-1 tvg-id="pink-pedia" tvg-name="Pink Pedia" tvg-logo="http://smartntv.pro:25461/images/7f6048acc87836aceacd67bcb365bda9.png" group-title="EX-YU A1",Pink Pedia
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6446
+#EXTINF:-1 tvg-id="pink-show" tvg-name="Pink Show" tvg-logo="http://195.154.191.246/logo_channels/pinkshow.png" group-title="EX-YU A1",Pink Show
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6447
+#EXTINF:-1 tvg-id="pink-zabava" tvg-name="Pink Zabava" tvg-logo="http://smartntv.pro:25461/images/0dc42a51a98c6bac9efd5a8c15a4751d.png" group-title="EX-YU A1",Pink Zabava
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6448
+#EXTINF:-1 tvg-id="pink-lol" tvg-name="Pink LOL" tvg-logo="http://195.154.191.246/logo_channels/pink_folk2.png" group-title="EX-YU A1",Pink LOL
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6449
+#EXTINF:-1 tvg-id="pink-kuvar" tvg-name="Pink Kuvar" tvg-logo="http://smartntv.pro:25461/images/2d330b4f03fdf07c938ffacf1be5d420.png" group-title="EX-YU A1",Pink Kuvar
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6450
+#EXTINF:-1 tvg-id="pink-fashion" tvg-name="Pink Fashion" tvg-logo="http://195.154.191.246/logo_channels/pinkaction.png" group-title="EX-YU A1",Pink Fashion
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6451
+#EXTINF:-1 tvg-id="pink-hits" tvg-name="Pink HITS" tvg-logo="http://195.154.191.246/logo_channels/pinkhits2.png" group-title="EX-YU A1",Pink HITS
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6452
+#EXTINF:-1 tvg-id="pink-hits-2" tvg-name="Pink HITS 2" tvg-logo="http://smartntv.pro:25461/images/da104b27ff22d98fefce41a7a9867203.png" group-title="EX-YU A1",Pink HITS 2
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6453
+#EXTINF:-1 tvg-id="pink-style" tvg-name="Pink Style" tvg-logo="http://smartntv.pro:25461/images/86b4473b6dff97af1ec37cd20c1f14a7.png" group-title="EX-YU A1",Pink Style
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6454
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zadruga TEST" tvg-logo="http://smartntv.pro:25461/images/dfa3c8e59d9c185e01478beafe48fd2a.png" group-title="EX-YU A1",Zadruga TEST
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6455
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZADRUGA 1 LIVE *TEST*" tvg-logo="" group-title="EX-YU A1",ZADRUGA 1 LIVE *TEST*
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6456
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZADRUGA 2 LIVE *TEST*" tvg-logo="" group-title="EX-YU A1",ZADRUGA 2 LIVE *TEST*
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6457
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZADRUGA 3 LIVE *TEST*" tvg-logo="" group-title="EX-YU A1",ZADRUGA 3 LIVE *TEST*
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6458
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZADRUGA 4 LIVE *TEST*" tvg-logo="" group-title="EX-YU A1",ZADRUGA 4 LIVE *TEST*
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6459
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAROVI (TEST)" tvg-logo="http://195.154.191.246/logo_channels/parole_di_vita_it.png" group-title="EX-YU A1",PAROVI (TEST)
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6460
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="☆☆☆☆ Movies ☆☆☆☆" tvg-logo="" group-title="EX-YU A1",☆☆☆☆ Movies ☆☆☆☆
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6461
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="http://195.154.191.246/logo_channels/amc.png" group-title="EX-YU A1",AMC
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6462
+#EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN Spin" tvg-logo="http://smartntv.pro:25461/images/48bd5da2142f35685c4f43ad7ebb49ad.png" group-title="EX-YU A1",AXN Spin
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6464
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO Adria HD/FHD" tvg-logo="http://smartntv.pro:25461/images/40a93a64ad61bb9f7050acbc209943c4.png" group-title="EX-YU A1",HBO Adria HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6465
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2 HD/FHD" tvg-logo="http://smartntv.pro:25461/images/12713c6ff264a3ac58c707c7b2a4bbcf.png" group-title="EX-YU A1",HBO 2 HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6466
+#EXTINF:-1 tvg-id="hbo3" tvg-name="HBO 3 HD/FHD" tvg-logo="http://smartntv.pro:25461/images/cee71028915464dbf234547f65c22c0e.png" group-title="EX-YU A1",HBO 3 HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6467
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax 1 HD/FHD" tvg-logo="http://smartntv.pro:25461/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="EX-YU A1",Cinemax 1 HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6469
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax 1 L2" tvg-logo="http://smartntv.pro:25461/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="EX-YU A1",Cinemax 1 L2
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6470
+#EXTINF:-1 tvg-id="cinemax-2" tvg-name="Cinemax 2 HD/FHD" tvg-logo="http://195.154.191.246/logo_channels/cinemax2hd.png" group-title="EX-YU A1",Cinemax 2 HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6471
+#EXTINF:-1 tvg-id="cinemax-2" tvg-name="Cinemax 2 L2" tvg-logo="http://195.154.191.246/logo_channels/cinemax2.png" group-title="EX-YU A1",Cinemax 2 L2
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6472
+#EXTINF:-1 tvg-id="cinestar-tv" tvg-name="Cinestar TV 1 HD" tvg-logo="http://137.74.95.115:8080/logo_channels/cinestartv.png" group-title="EX-YU A1",Cinestar TV 1 HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6473
+#EXTINF:-1 tvg-id="cinestar-tv-2" tvg-name="Cinestar TV 2(TEST)" tvg-logo="" group-title="EX-YU A1",Cinestar TV 2(TEST)
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/9636
+#EXTINF:-1 tvg-id="cinestar-action-thriller" tvg-name="Cinestar Action" tvg-logo="http://smartntv.pro:25461/images/bc47b0e1da41eb4f2df84a346515c8ae.png" group-title="EX-YU A1",Cinestar Action
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6474
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinestar Comedy" tvg-logo="" group-title="EX-YU A1",Cinestar Comedy
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/14010
+#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-name="Cinestar Fantasy HD" tvg-logo="http://smartntv.pro:25461/images/1973c2f0c5dc2e0b7915eec45fbd2381.png" group-title="EX-YU A1",Cinestar Fantasy HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6475
+#EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="Cinestar Premiere 1 HD/FHD" tvg-logo="http://smartntv.pro:25461/images/572d2adfbdcf89dec8f29e0916f50e85.png" group-title="EX-YU A1",Cinestar Premiere 1 HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6476
+#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="Cinestar Premiere 2 HD/FHD" tvg-logo="http://smartntv.pro:25461/images/6f22ad0d23c589c3784fe180913c88c9.png" group-title="EX-YU A1",Cinestar Premiere 2 HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6477
+#EXTINF:-1 tvg-id="fox" tvg-name="Fox TV HD/FHD" tvg-logo="http://195.154.191.246/logo_channels/fox.png" group-title="EX-YU A1",Fox TV HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6481
+#EXTINF:-1 tvg-id="fox-crime" tvg-name="Fox Crime HD/FHD" tvg-logo="http://smartntv.pro:25461/images/9f3eb890e64f9781d58d7ff7470f06dc.png" group-title="EX-YU A1",Fox Crime HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6483
+#EXTINF:-1 tvg-id="fox-movies" tvg-name="Fox Movies HD/FHD" tvg-logo="http://smartntv.pro:25461/images/0c03dbe5df06526a692b7da7280b5a70.png" group-title="EX-YU A1",Fox Movies HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6482
+#EXTINF:-1 tvg-id="fox-life" tvg-name="Fox Life HD/FHD" tvg-logo="http://smartntv.pro:25461/images/bc102c9f9ee634e208b9fd58b056eb17.png" group-title="EX-YU A1",Fox Life HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6484
+#EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film HD" tvg-logo="http://195.154.191.246/logo_channels/m1film.png" group-title="EX-YU A1",M1 Film HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6485
+#EXTINF:-1 tvg-id="m1-gold" tvg-name="M1 Film Gold" tvg-logo="" group-title="EX-YU A1",M1 Film Gold
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/9640
+#EXTINF:-1 tvg-id="klasiktv" tvg-name="KLASIK TV" tvg-logo="http://smartntv.pro:25461/images/135473a54fe590e95970010b1219a3fa.png" group-title="EX-YU A1",KLASIK TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6487
+#EXTINF:-1 tvg-id="kinotv" tvg-name="Kino TV HD" tvg-logo="http://195.154.191.246/logo_channels/kinotv.png" group-title="EX-YU A1",Kino TV HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6488
+#EXTINF:-1 tvg-id="universal-channel" tvg-name="DIVA TV" tvg-logo="http://195.154.191.246/logo_channels/diva.png" group-title="EX-YU A1",DIVA TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6489
+#EXTINF:-1 tvg-id="pickbox-tv" tvg-name="PickBox TV" tvg-logo="" group-title="EX-YU A1",PickBox TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/9637
+#EXTINF:-1 tvg-id="epic-drama" tvg-name="Epic Drama HD" tvg-logo="" group-title="EX-YU A1",Epic Drama HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/9638
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CroMax Select 1 FHD" tvg-logo="" group-title="EX-YU A1",CroMax Select 1 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12983
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CroMax Select 2 FHD" tvg-logo="" group-title="EX-YU A1",CroMax Select 2 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12984
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CroMax Select 3 FHD" tvg-logo="" group-title="EX-YU A1",CroMax Select 3 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12985
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CroMax Select 4 FHD" tvg-logo="" group-title="EX-YU A1",CroMax Select 4 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12986
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CroMax Select 5 FHD" tvg-logo="" group-title="EX-YU A1",CroMax Select 5 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12987
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CroMax Select 6 FHD" tvg-logo="" group-title="EX-YU A1",CroMax Select 6 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12988
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CroMax Select 7 FHD" tvg-logo="" group-title="EX-YU A1",CroMax Select 7 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12989
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CroMax Select 8 FHD" tvg-logo="" group-title="EX-YU A1",CroMax Select 8 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12990
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CroMax Select 9 FHD" tvg-logo="" group-title="EX-YU A1",CroMax Select 9 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12991
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CroMax Select 10 FHD" tvg-logo="" group-title="EX-YU A1",CroMax Select 10 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12992
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CroMax Select 11 FHD" tvg-logo="" group-title="EX-YU A1",CroMax Select 11 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12993
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cromax GORA 2 FHD" tvg-logo="" group-title="EX-YU A1",Cromax GORA 2 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12996
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cromax GORA 3 FHD" tvg-logo="" group-title="EX-YU A1",Cromax GORA 3 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12997
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cromax GORA 5 FHD" tvg-logo="" group-title="EX-YU A1",Cromax GORA 5 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12999
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cromax GORA 6 FHD" tvg-logo="" group-title="EX-YU A1",Cromax GORA 6 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cromax GORA 7 FHD" tvg-logo="" group-title="EX-YU A1",Cromax GORA 7 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13001
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cromax GORA 8 FHD" tvg-logo="" group-title="EX-YU A1",Cromax GORA 8 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13002
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cromax GORA 9 FHD" tvg-logo="" group-title="EX-YU A1",Cromax GORA 9 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13003
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cromax GORA 10 FHD" tvg-logo="" group-title="EX-YU A1",Cromax GORA 10 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13004
+#EXTINF:-1 tvg-id="PinkKids" tvg-name="☆☆☆☆ Kids ☆☆☆☆" tvg-logo="http://195.154.191.246/logo_channels/pinkkids.png" group-title="EX-YU A1",☆☆☆☆ Kids ☆☆☆☆
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6520
+#EXTINF:-1 tvg-id="hayatovci" tvg-name="Hayatovci HD" tvg-logo="http://195.154.191.246/logo_channels/hayatovci.png" group-title="EX-YU A1",Hayatovci HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6521
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://smartntv.pro:25461/images/f19b88e6cb8cb067565bb3880b2fb3e1.png" group-title="EX-YU A1",Nickelodeon
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6522
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://195.154.191.246/logo_channels/cartoon_network_global.png" group-title="EX-YU A1",Cartoon Network
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6524
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-name="RTL Kockica HD" tvg-logo="http://195.154.191.246/logo_channels/rtlkockica.png" group-title="EX-YU A1",RTL Kockica HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6525
+#EXTINF:-1 tvg-id="pink-kids" tvg-name="Pink Kids" tvg-logo="http://195.154.191.246/logo_channels/pinkkids.png" group-title="EX-YU A1",Pink Kids
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6528
+#EXTINF:-1 tvg-id="pink-super-kids" tvg-name="Pink Super Kids" tvg-logo="http://smartntv.pro:25461/images/e7b6ecb7f76b07de5812e6a14e9ab832.png" group-title="EX-YU A1",Pink Super Kids
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6529
+#EXTINF:-1 tvg-id="tnt-kids" tvg-name="TNT Kids" tvg-logo="http://195.154.191.246/logo_channels/pinkkids.png" group-title="EX-YU A1",TNT Kids
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6530
+#EXTINF:-1 tvg-id="babytv" tvg-name="Baby TV" tvg-logo="http://195.154.191.246/logo_channels/babytv.png" group-title="EX-YU A1",Baby TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6531
+#EXTINF:-1 tvg-id="kika" tvg-name="Kika DE" tvg-logo="http://195.154.191.246/logo_channels/kika_de.png" group-title="EX-YU A1",Kika DE
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6533
+#EXTINF:-1 tvg-id="comedy-central-extra" tvg-name="NickToons" tvg-logo="" group-title="EX-YU A1",NickToons
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/9641
+#EXTINF:-1 tvg-id="boomerang-de" tvg-name="Boomerang" tvg-logo="" group-title="EX-YU A1",Boomerang
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/13163
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CroMax Select Kids FHD" tvg-logo="" group-title="EX-YU A1",CroMax Select Kids FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12994
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CroMax Select Kids 2 FHD" tvg-logo="" group-title="EX-YU A1",CroMax Select Kids 2 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12995
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masha & Bear" tvg-logo="http://smartntv.pro:25461/images/c513d47e2a354ebb90120dd4e4b0370d.png" group-title="EX-YU A1",Masha & Bear
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6534
+#EXTINF:-1 tvg-id="htv1" tvg-name="Tom & Jerry" tvg-logo="http://195.154.191.246/logo_channels/story_5.png" group-title="EX-YU A1",Tom & Jerry
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6535
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney Channel" tvg-logo="http://195.154.191.246/logo_channels/disney_channel_ru.png" group-title="EX-YU A1",Disney Channel
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6536
+#EXTINF:-1 tvg-id="htv1" tvg-name="Disney Junior DE" tvg-logo="http://195.154.191.246/logo_channels/disney_junior_us.png" group-title="EX-YU A1",Disney Junior DE
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6537
+#EXTINF:-1 tvg-id="disney-channel-de" tvg-name="Disney De" tvg-logo="http://195.154.191.246/logo_channels/disney_xd_us.png" group-title="EX-YU A1",Disney De
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6538
+#EXTINF:-1 tvg-id="disney-xd-de" tvg-name="Disney XD" tvg-logo="http://smartntv.pro:25461/images/17a698cee2d2534b43b91d2169310f2e.png" group-title="EX-YU A1",Disney XD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6540
+#EXTINF:-1 tvg-id="nickelodeon-de" tvg-name="Nickelodeon DE" tvg-logo="http://195.154.191.246/logo_channels/nickelodeon.png" group-title="EX-YU A1",Nickelodeon DE
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6541
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="☆☆☆☆ Sport ☆☆☆☆" tvg-logo="http://195.154.191.246/logo_channels/sport_m.png" group-title="EX-YU A1",☆☆☆☆ Sport ☆☆☆☆
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6543
+#EXTINF:-1 tvg-id="planet-sport-1" tvg-name="PlanetSport 1" tvg-logo="http://smartntv.pro:25461/images/c17307c93b0f08ff8a9ed12e14662e21.png" group-title="EX-YU A1",PlanetSport 1
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6544
+#EXTINF:-1 tvg-id="planet-sport-2" tvg-name="PlanetSport 2" tvg-logo="http://smartntv.pro:25461/images/c17307c93b0f08ff8a9ed12e14662e21.png" group-title="EX-YU A1",PlanetSport 2
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6545
+#EXTINF:-1 tvg-id="htv1" tvg-name="PlanetSpor3" tvg-logo="http://smartntv.pro:25461/images/c17307c93b0f08ff8a9ed12e14662e21.png" group-title="EX-YU A1",PlanetSpor3
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6546
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="ArenaSport 1 HD/FHD HR" tvg-logo="http://smartntv.pro:25461/images/902ead5f8bd5702bdf3a18d9af14f342.png" group-title="EX-YU A1",ArenaSport 1 HD/FHD HR
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6547
+#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="ArenaSport 2 HD/FHD HR" tvg-logo="http://smartntv.pro:25461/images/46e6913291854ecf16a98d6caddf859f.png" group-title="EX-YU A1",ArenaSport 2 HD/FHD HR
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6548
+#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="ArenaSport 3 HD/FHD HR" tvg-logo="http://smartntv.pro:25461/images/3d008400dabe7e7e1816856057669bb1.png" group-title="EX-YU A1",ArenaSport 3 HD/FHD HR
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6549
+#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="ArenaSport 4 HD/FHD HR" tvg-logo="http://smartntv.pro:25461/images/47b3a74399f4b7a652f7a737b5254da6.png" group-title="EX-YU A1",ArenaSport 4 HD/FHD HR
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6550
+#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-name="ArenaSport 5 HD/FHD HR" tvg-logo="http://smartntv.pro:25461/images/5d37a7447fc0ef2a4b152655ae1cb8b2.png" group-title="EX-YU A1",ArenaSport 5 HD/FHD HR
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6551
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="ArenaSport 1 SR (M)" tvg-logo="" group-title="EX-YU A1",ArenaSport 1 SR (M)
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6553
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="ArenaSport 2 SR (M)" tvg-logo="" group-title="EX-YU A1",ArenaSport 2 SR (M)
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6554
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="ArenaSport 3 SR (M)" tvg-logo="" group-title="EX-YU A1",ArenaSport 3 SR (M)
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6555
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="ArenaSport 4 SR (M)" tvg-logo="" group-title="EX-YU A1",ArenaSport 4 SR (M)
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6556
+#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="ArenaSport 5 SR (M)" tvg-logo="" group-title="EX-YU A1",ArenaSport 5 SR (M)
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6557
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="ArenaSport 1 SR HD/FHD" tvg-logo="http://smartntv.pro:25461/images/902ead5f8bd5702bdf3a18d9af14f342.png" group-title="EX-YU A1",ArenaSport 1 SR HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6558
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="ArenaSport 2 SR HD/FHD" tvg-logo="http://smartntv.pro:25461/images/46e6913291854ecf16a98d6caddf859f.png" group-title="EX-YU A1",ArenaSport 2 SR HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6559
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="ArenaSport 3 SR HD/FHD" tvg-logo="http://smartntv.pro:25461/images/3d008400dabe7e7e1816856057669bb1.png" group-title="EX-YU A1",ArenaSport 3 SR HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6560
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="ArenaSport 4 SR HD/FHD" tvg-logo="http://195.154.191.246/logo_channels/arenasport4.png" group-title="EX-YU A1",ArenaSport 4 SR HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6561
+#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="ArenaSport 5 SR HD/FHD" tvg-logo="http://smartntv.pro:25461/images/5d37a7447fc0ef2a4b152655ae1cb8b2.png" group-title="EX-YU A1",ArenaSport 5 SR HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6562
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight Pass" tvg-logo="" group-title="EX-YU A1",UFC Fight Pass
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/14009
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abudhabi Sports 1" tvg-logo="" group-title="EX-YU A1",Abudhabi Sports 1
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6582
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abudhabi Sports 2" tvg-logo="" group-title="EX-YU A1",Abudhabi Sports 2
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6583
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abudhabi Sports 3" tvg-logo="" group-title="EX-YU A1",Abudhabi Sports 3
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6584
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abudhabi Sports 4" tvg-logo="" group-title="EX-YU A1",Abudhabi Sports 4
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6585
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Racing" tvg-logo="" group-title="EX-YU A1",Dubai Racing
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12923
+#EXTINF:-1 tvg-id="htv1" tvg-name="Sportska TV" tvg-logo="http://195.154.191.246/logo_channels/sportska-tv-hr.png" group-title="EX-YU A1",Sportska TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6586
+#EXTINF:-1 tvg-id="kreator-tv" tvg-name="Kreator TV HD" tvg-logo="" group-title="EX-YU A1",Kreator TV HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12909
+#EXTINF:-1 tvg-id="sport-tv1-pt" tvg-name="SportTV 1  FHD" tvg-logo="" group-title="EX-YU A1",SportTV 1  FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12894
+#EXTINF:-1 tvg-id="sport-tv2" tvg-name="SportTV 2 FHD" tvg-logo="" group-title="EX-YU A1",SportTV 2 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12895
+#EXTINF:-1 tvg-id="sport-tv3" tvg-name="SportTV 3 FHD" tvg-logo="" group-title="EX-YU A1",SportTV 3 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12896
+#EXTINF:-1 tvg-id="sport-tv4" tvg-name="SportTV 4 FHD" tvg-logo="" group-title="EX-YU A1",SportTV 4 FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12897
+#EXTINF:-1 tvg-id="sport-tv5" tvg-name="SportTV 5 HD/FHD" tvg-logo="" group-title="EX-YU A1",SportTV 5 HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12898
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 1 HD/FHD" tvg-logo="" group-title="EX-YU A1",RMC Sport 1 HD/FHD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12917
+#EXTINF:-1 tvg-id="moja-tv" tvg-name="MojaTV HD(TEST)" tvg-logo="http://195.154.191.246/logo_channels/mar_tv_es.png" group-title="EX-YU A1",MojaTV HD(TEST)
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6563
+#EXTINF:-1 tvg-id="htv1" tvg-name="HNTV" tvg-logo="http://195.154.191.246/logo_channels/hntv_hr.png" group-title="EX-YU A1",HNTV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6564
+#EXTINF:-1 tvg-id="eurosport-de" tvg-name="EuroSport 1 HD/FHD DE" tvg-logo="http://smartntv.pro:25461/images/311af97d1561f7130762f5761406ec91.png" group-title="EX-YU A1",EuroSport 1 HD/FHD DE
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6588
+#EXTINF:-1 tvg-id="eurosport2-de" tvg-name="EuroSport 2 HD/FHD DE" tvg-logo="http://smartntv.pro:25461/images/fbc75254bdfc1521f7034acfa50fb833.png" group-title="EX-YU A1",EuroSport 2 HD/FHD DE
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6589
+#EXTINF:-1 tvg-id="Eurosport2DE" tvg-name="Eurosport 2 Xtra HD/FHD DE" tvg-logo="http://smartntv.pro:25461/images/d88fd2a5f9715aa0e412d56b66f56215.png" group-title="EX-YU A1",Eurosport 2 Xtra HD/FHD DE
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6590
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SportDigital HD" tvg-logo="" group-title="EX-YU A1",DE: SportDigital HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12910
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Auto Motor Sport HD DE" tvg-logo="" group-title="EX-YU A1",Auto Motor Sport HD DE
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12911
+#EXTINF:-1 tvg-id="motorvision-tv" tvg-name="Motor Vision HD DE" tvg-logo="" group-title="EX-YU A1",Motor Vision HD DE
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12912
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1  HD SPA" tvg-logo="" group-title="EX-YU A1",Movistar F1  HD SPA
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6616
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 1" tvg-logo="http://195.154.191.246/logo_channels/fox_sports_2_nl.png" group-title="EX-YU A1",Fox Sports 1
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6631
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL Network" tvg-logo="" group-title="EX-YU A1",NHL Network
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12916
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2" tvg-logo="http://195.154.191.246/logo_channels/fox_sports_2_nl.png" group-title="EX-YU A1",Fox Sports 2
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6632
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 3" tvg-logo="http://195.154.191.246/logo_channels/fox_sports_2_nl.png" group-title="EX-YU A1",Fox Sports 3
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6633
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 4" tvg-logo="http://195.154.191.246/logo_channels/fox_sports_2_nl.png" group-title="EX-YU A1",Fox Sports 4
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6634
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 5" tvg-logo="http://195.154.191.246/logo_channels/fox_sports_2_nl.png" group-title="EX-YU A1",Fox Sports 5
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6635
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 6" tvg-logo="" group-title="EX-YU A1",Fox Sports 6
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6636
+#EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV" tvg-logo="http://195.154.191.246/logo_channels/babytv.png" group-title="EX-YU A1",NBA TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6642
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Sport 1" tvg-logo="http://195.154.191.246/logo_channels/tring_al_sport_1.png" group-title="EX-YU A1",Tring Sport 1
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6645
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Sport 2" tvg-logo="http://195.154.191.246/logo_channels/tring_al_sport_2.png" group-title="EX-YU A1",Tring Sport 2
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6646
+#EXTINF:-1 tvg-id="htv1" tvg-name="Tring Sport 3" tvg-logo="http://195.154.191.246/logo_channels/tring_al_sport_2.png" group-title="EX-YU A1",Tring Sport 3
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6647
+#EXTINF:-1 tvg-id="htv1" tvg-name="Digi Sport 1 RO" tvg-logo="http://195.154.191.246/logo_channels/digi_sport1_ro.png" group-title="EX-YU A1",Digi Sport 1 RO
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6649
+#EXTINF:-1 tvg-id="htv1" tvg-name="Digi Sport 2 RO" tvg-logo="http://195.154.191.246/logo_channels/digi_sport2_ro.png" group-title="EX-YU A1",Digi Sport 2 RO
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6650
+#EXTINF:-1 tvg-id="htv1" tvg-name="Digi Sport 3 RO" tvg-logo="http://195.154.191.246/logo_channels/digi_sport3_ro.png" group-title="EX-YU A1",Digi Sport 3 RO
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6651
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 4 RO" tvg-logo="http://195.154.191.246/logo_channels/digi_sport4_ro.png" group-title="EX-YU A1",Digi Sport 4 RO
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6652
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Docu" tvg-logo="" group-title="EX-YU A1",Ziggo Sport Docu
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12922
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL: Ziggo Sport Racing" tvg-logo="http://195.154.191.246/logo_channels/ziggo_sport_nl_golf.png" group-title="EX-YU A1",NL: Ziggo Sport Racing
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6658
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL: Ziggo Sport Golf" tvg-logo="http://195.154.191.246/logo_channels/ziggo_sport_nl_golf.png" group-title="EX-YU A1",NL: Ziggo Sport Golf
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6661
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL: Ziggo Sport Select" tvg-logo="http://195.154.191.246/logo_channels/ziggo_sport_nl_select.png" group-title="EX-YU A1",NL: Ziggo Sport Select
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6662
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL: Ziggo Sport Voetbal" tvg-logo="http://195.154.191.246/logo_channels/ziggo_sport_nl_voetbal.png" group-title="EX-YU A1",NL: Ziggo Sport Voetbal
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6663
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Sports 1" tvg-logo="http://195.154.191.246/logo_channels/premier_sports.png" group-title="EX-YU A1",Super Sports 1
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6664
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Sports 2" tvg-logo="http://195.154.191.246/logo_channels/premier_sports.png" group-title="EX-YU A1",Super Sports 2
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6665
+#EXTINF:-1 tvg-id="SlavonskaTV" tvg-name="☆☆☆☆ Macedonia ☆☆☆☆" tvg-logo="http://195.154.191.246/logo_channels/makedonia_tv.png" group-title="EX-YU A1",☆☆☆☆ Macedonia ☆☆☆☆
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6804
+#EXTINF:-1 tvg-id="mrt1" tvg-name="MRT 1 HD" tvg-logo="http://195.154.191.246/logo_channels/hrt1.png" group-title="EX-YU A1",MRT 1 HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6805
+#EXTINF:-1 tvg-id="mrt2" tvg-name="MRT 2" tvg-logo="http://195.154.191.246/logo_channels/rtl2.png" group-title="EX-YU A1",MRT 2
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6806
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MRT 3" tvg-logo="" group-title="EX-YU A1",MRT 3
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12948
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nasa TV" tvg-logo="" group-title="EX-YU A1",Nasa TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12949
+#EXTINF:-1 tvg-id="kanal5" tvg-name="Kanal 5" tvg-logo="http://smartntv.pro:25461/images/594e51a57fb746db0534048416e3c011.png" group-title="EX-YU A1",Kanal 5
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6807
+#EXTINF:-1 tvg-id="24vesti" tvg-name="MK 24 vesti" tvg-logo="http://195.154.191.246/logo_channels/n24_de_austria.png" group-title="EX-YU A1",MK 24 vesti
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6808
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sutel TV" tvg-logo="http://195.154.191.246/logo_channels/sterk_tv.png" group-title="EX-YU A1",Sutel TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6809
+#EXTINF:-1 tvg-id="sitel" tvg-name="Sitel" tvg-logo="http://195.154.191.246/logo_channels/xite-nl.png" group-title="EX-YU A1",Sitel
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6810
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sitel Backup" tvg-logo="" group-title="EX-YU A1",Sitel Backup
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/11980
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telma" tvg-logo="http://195.154.191.246/logo_channels/telerama_it.png" group-title="EX-YU A1",Telma
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6812
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOLK TV" tvg-logo="http://195.154.191.246/logo_channels/folklor_tv.png" group-title="EX-YU A1",FOLK TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6813
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alfa MK" tvg-logo="http://195.154.191.246/logo_channels/alsat_m.png" group-title="EX-YU A1",Alfa MK
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6814
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hugo 1 MK" tvg-logo="http://195.154.191.246/logo_channels/gtrk_omsk.png" group-title="EX-YU A1",Hugo 1 MK
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6815
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hugo 2 MK" tvg-logo="http://195.154.191.246/logo_channels/hbo2.png" group-title="EX-YU A1",Hugo 2 MK
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6816
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Hugo 3" tvg-logo="" group-title="EX-YU A1",TV Hugo 3
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12950
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Sonce" tvg-logo="http://195.154.191.246/logo_channels/tv_one_uk.png" group-title="EX-YU A1",TV Sonce
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6817
+#EXTINF:-1 tvg-id="film-klub" tvg-name="Folk Klub" tvg-logo="http://195.154.191.246/logo_channels/filmklub.png" group-title="EX-YU A1",Folk Klub
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6818
+#EXTINF:-1 tvg-id="htv1" tvg-name="INTV" tvg-logo="http://smartntv.pro:25461/images/f8d75307bac56df8161b38715321944f.png" group-title="EX-YU A1",INTV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/6819
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTM Skoplje" tvg-logo="" group-title="EX-YU A1",MTM Skoplje
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12979
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanal 8" tvg-logo="" group-title="EX-YU A1",Kanal 8
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12980
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Era TV" tvg-logo="" group-title="EX-YU A1",Era TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12981
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hobby Lov" tvg-logo="" group-title="EX-YU A1",Hobby Lov
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12982
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="☆☆☆☆ Slovenia ☆☆☆☆" tvg-logo="" group-title="EX-YU A1",☆☆☆☆ Slovenia ☆☆☆☆
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12951
+#EXTINF:-1 tvg-id="slo1" tvg-name="SLO 1" tvg-logo="" group-title="EX-YU A1",SLO 1
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/7055
+#EXTINF:-1 tvg-id="slo2" tvg-name="SLO 2" tvg-logo="" group-title="EX-YU A1",SLO 2
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/7056
+#EXTINF:-1 tvg-id="slo3" tvg-name="SLO 3" tvg-logo="" group-title="EX-YU A1",SLO 3
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/7057
+#EXTINF:-1 tvg-id="pop-tv" tvg-name="POP TV" tvg-logo="" group-title="EX-YU A1",POP TV
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/7058
+#EXTINF:-1 tvg-id="pop-kino" tvg-name="POP Kino" tvg-logo="" group-title="EX-YU A1",POP Kino
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/7059
+#EXTINF:-1 tvg-id="pop-brio" tvg-name="POP Brio" tvg-logo="" group-title="EX-YU A1",POP Brio
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/7060
+#EXTINF:-1 tvg-id="pop-oto" tvg-name="POP Oto" tvg-logo="" group-title="EX-YU A1",POP Oto
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/7061
+#EXTINF:-1 tvg-id="kanal-a" tvg-name="A kanal" tvg-logo="" group-title="EX-YU A1",A kanal
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/7062
+#EXTINF:-1 tvg-id="fox-crime-si" tvg-name="FOX Crime SLO" tvg-logo="" group-title="EX-YU A1",FOX Crime SLO
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/7063
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet TV SLO" tvg-logo="" group-title="EX-YU A1",Planet TV SLO
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/7067
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova 24 Slo" tvg-logo="" group-title="EX-YU A1",Nova 24 Slo
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12888
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Maribor" tvg-logo="" group-title="EX-YU A1",TV Maribor
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12889
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Koper TV HD" tvg-logo="" group-title="EX-YU A1",Koper TV HD
+http://standardex.xyz:25461/StevceDimitrievski/zdNBhQdDFr/12890
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:24 KITCHEN" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:24 KITCHEN
 http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9659
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:24 Vesti" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:24 Vesti
