@@ -1,602 +1,482 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Al Jazeera Balkans BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Al Jazeera Balkans BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35878
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Alfa TV BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Alfa TV BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35879
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ATV BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: ATV BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35880
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: BHT 1 HD BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: BHT 1 HD BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35881
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: BN Music BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: BN Music BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35882
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: BN Sat FHD BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: BN Sat FHD BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35883
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: BN TV FHD BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: BN TV FHD BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35884
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: O kanal BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: O kanal BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35885
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: City TV BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: City TV BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35886
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Face TV FHD BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Face TV FHD BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35887
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Federalna TV BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Federalna TV BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35888
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Glas Drine TV BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Glas Drine TV BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35889
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Hayat FHD BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Hayat FHD BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35890
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Hayat Folk BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Hayat Folk BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35891
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Hayat Music BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Hayat Music BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35892
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Hayat Plus HD BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Hayat Plus HD BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35893
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Hema TV BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Hema TV BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35894
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Izvorna TV BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Izvorna TV BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35895
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Elta TV HD BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Elta TV HD BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35896
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Mekka TV FHD BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Mekka TV FHD BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35897
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: MIR TV HD BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: MIR TV HD BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35898
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Moj Kanal HD BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Moj Kanal HD BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35899
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Mtv Igman HD BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Mtv Igman HD BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35900
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: N1 BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: N1 BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35901
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: OBN BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: OBN BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35902
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: OSM BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: OSM BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35903
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: OTV Valentino BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: OTV Valentino BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35904
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35905
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Posavina TV BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Posavina TV BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35906
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: RTRS BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: RTRS BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35907
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: TK Tuzla BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: TK Tuzla BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35908
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: O kanal [B] BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: O kanal [B] BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35909
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: TV Kakanj BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: TV Kakanj BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35910
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Lud Zbunjen Normalan 24h HD BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Lud Zbunjen Normalan 24h HD BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35911
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: NTV 101 BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: NTV 101 BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35912
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: NTV IC Kakanj BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: NTV IC Kakanj BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35913
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: RTV Herceg Bosna BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: RTV Herceg Bosna BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35914
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: TV Sehara HD BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: TV Sehara HD BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35915
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: TV Slon Extra BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: TV Slon Extra BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35916
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: TV Vogo?ca HD BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: TV Vogo?ca HD BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35917
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: TV Zenica HD BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: TV Zenica HD BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35918
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: TV Sarajevo FHD BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: TV Sarajevo FHD BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35919
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: RTV Bugojno BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: RTV Bugojno BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35920
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: USK HD BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: USK HD BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35921
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: TV 5 Islam BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: TV 5 Islam BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35922
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: TV TK BA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: TV TK BA
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35923
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="???---- Hrvatska ----???" tvg-logo="" group-title="EX-YU TOTAL TV",???---- Hrvatska ----???
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35924
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: MaxCro Select 1 FHD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: MaxCro Select 1 FHD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35925
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: MaxCro Select 2 FHD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: MaxCro Select 2 FHD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35926
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: MaxCro Select Gold FHD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: MaxCro Select Gold FHD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35927
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: MaxCro Select Horor FHD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: MaxCro Select Horor FHD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35928
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: MaxCro Select Premium FHD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: MaxCro Select Premium FHD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35929
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: 24 Kitchen HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: 24 Kitchen HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35930
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: AXN Adria HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: AXN Adria HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35931
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: AXN Spin HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: AXN Spin HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35932
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Animal Planet HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Animal Planet HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35933
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: CMC FHD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: CMC FHD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35934
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: CineMax 1 FHD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: CineMax 1 FHD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35935
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: CineMax 1 HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: CineMax 1 HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35936
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: CineMax 2 HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: CineMax 2 HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35937
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: CineStar Premiere 2 HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: CineStar Premiere 2 HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35938
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: CineStar Premiere 1 HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: CineStar Premiere 1 HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35939
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Crime Investigation HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Crime Investigation HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35940
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Discovery Turbo Xtra HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Discovery Turbo Xtra HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35941
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: DocuBox HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: DocuBox HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35942
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Laudato TV HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Laudato TV HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35943
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Osjecka HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Osjecka HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35944
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Lov I Ribolov HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Lov I Ribolov HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35945
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: RTL FHD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: RTL FHD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35946
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: RTL 2 HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: RTL 2 HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35947
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: RTL Crime HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: RTL Crime HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35948
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: RTL Kockica HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: RTL Kockica HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35949
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Diva HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Diva HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35950
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: M1 Film HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: M1 Film HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35951
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Narodna TV HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Narodna TV HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35952
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: N1 Hrvatska HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: N1 Hrvatska HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35953
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: N1 TV HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: N1 TV HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35954
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Nova TV HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Nova TV HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35955
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Nova HD HR [Backup]" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Nova HD HR [Backup]
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35956
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: National Geographic HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: National Geographic HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35957
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: National Geographic Wild FHD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: National Geographic Wild FHD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35958
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: MTV Adria HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: MTV Adria HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35959
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Klasik TV HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Klasik TV HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35960
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Jabuka TV HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Jabuka TV HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35961
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Jugoton TV HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Jugoton TV HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35962
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: HRT 1 HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: HRT 1 HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35963
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: HRT 2 HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: HRT 2 HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35964
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: HRT 3 HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: HRT 3 HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35965
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: HRT 4 HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: HRT 4 HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35966
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: HNTV HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: HNTV HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35967
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: HBO Adria HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: HBO Adria HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35968
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: History Channel FHD RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: History Channel FHD RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35969
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Fox Movies HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Fox Movies HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35970
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Fox Life FHD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Fox Life FHD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35971
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Fox Crime FHD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Fox Crime FHD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35972
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Fox FHD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Fox FHD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35973
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: E! Entertainment HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: E! Entertainment HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35974
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Doma TV HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Doma TV HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35975
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Discovery ID HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Discovery ID HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35976
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Discovery Channel HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Discovery Channel HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35977
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Comedy Central Extra HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Comedy Central Extra HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35978
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: CineStar Action & Thriller HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: CineStar Action & Thriller HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35979
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: SBTV HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: SBTV HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35980
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Slavonska TV HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Slavonska TV HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35981
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Srce TV HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Srce TV HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35982
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Trend TV Karlovac HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Trend TV Karlovac HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35983
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Viasat Explorer HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Viasat Explorer HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35984
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Viasat History HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Viasat History HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35985
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Viasat Nature HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Viasat Nature HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35986
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Vinkovacka TV HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Vinkovacka TV HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35987
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: VTV Varazdin HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: VTV Varazdin HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35988
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Zdrava TV HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Zdrava TV HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35989
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: TLC HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: TLC HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35990
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: TV 1000 HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: TV 1000 HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35991
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: TV Banovina HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: TV Banovina HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35992
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Z1 HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Z1 HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35993
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 1 HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Sport Klub 1 HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35994
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 2 HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Sport Klub 2 HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35995
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 3 HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Sport Klub 3 HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35996
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 4 HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Sport Klub 4 HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35997
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 5 HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Sport Klub 5 HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35998
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 6 HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Sport Klub 6 HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/35999
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 7 HD HR [Live During Events Only]" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Sport Klub 7 HD HR [Live During Events Only]
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 8 HD HR [Live During Events Only]" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Sport Klub 8 HD HR [Live During Events Only]
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36001
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 9 HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Sport Klub 9 HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36002
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 10 HD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Sport Klub 10 HD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36003
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Arena Sport 1 FHD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Arena Sport 1 FHD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36004
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Arena Sport 2 FHD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Arena Sport 2 FHD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36005
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Arena Sport 3 FHD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Arena Sport 3 FHD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36006
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Arena Sport 4 FHD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Arena Sport 4 FHD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36007
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Arena Sport 5 FHD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Arena Sport 5 FHD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36008
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Arena Sport 6 FHD HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Arena Sport 6 FHD HR
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36009
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="???---- Srbija ----???" tvg-logo="" group-title="EX-YU TOTAL TV",???---- Srbija ----???
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36010
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Balkanika Music HD RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Balkanika Music HD RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36011
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: DM Sat RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: DM Sat RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36012
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Duga Plus TV RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Duga Plus TV RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36013
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Grand TV RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Grand TV RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36014
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Eurosport 1 HD RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Eurosport 1 HD RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36015
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Eurosport 2 HD RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Eurosport 2 HD RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36016
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Filmbox Premium RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Filmbox Premium RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36017
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Filmbox Extra RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Filmbox Extra RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36018
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Happy TV RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Happy TV RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36019
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: HBO 3 HD RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: HBO 3 HD RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36020
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: HBO HD RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: HBO HD RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36021
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: HBO 2 RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: HBO 2 RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36022
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Insajder TV RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Insajder TV RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36023
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Minimax RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Minimax RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36024
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink FHD RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink FHD RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36025
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink 2 RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink 2 RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36026
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink 3 RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink 3 RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36027
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink n Roll RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink n Roll RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36028
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Action RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Action RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36029
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Comedy RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Comedy RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36030
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Crime & Mystery RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Crime & Mystery RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36031
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Extra RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Extra RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36032
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Film RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Film RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36033
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Folk RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Folk RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36034
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink HAHA RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink HAHA RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36035
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Hits RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Hits RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36036
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Hits 2 RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Hits 2 RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36037
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Horror RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Horror RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36038
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Kids RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Kids RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36039
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Super Kids RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Super Kids RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36040
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Koncert RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Koncert RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36041
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Kuvar RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Kuvar RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36042
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Movies RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Movies RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36043
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Music RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Music RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36044
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink LOL RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink LOL RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36045
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Pedia RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Pedia RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36046
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Plus RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Plus RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36047
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Premium RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Premium RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36048
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Reality RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Reality RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36049
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Romance RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Romance RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36050
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Sci-Fi & Fantasy RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Sci-Fi & Fantasy RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36051
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Serije RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Serije RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36052
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Show RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Show RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36053
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Style RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Style RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36054
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Soap RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Soap RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36055
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Thriller RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Thriller RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36056
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Western RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Western RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36057
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink World RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink World RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36058
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink World Cinema RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink World Cinema RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36059
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Pink Zabava RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Pink Zabava RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36060
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Roma TV RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Roma TV RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36061
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: PTC FHD RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: PTC FHD RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36062
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Prva TV RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Prva TV RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36063
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Prva Plus RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Prva Plus RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36064
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Prva Kick RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Prva Kick RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36065
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Prva Max RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Prva Max RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36066
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Prva World RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Prva World RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36067
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: RTS 1 RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: RTS 1 RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36068
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: RTS 2 HD RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: RTS 2 HD RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36069
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: RTS 3 RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: RTS 3 RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36070
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: RTV Vojvodina 1 RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: RTV Vojvodina 1 RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36071
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: RTV Vojvodina 2 RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: RTV Vojvodina 2 RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36072
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sandzak TV RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Sandzak TV RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36073
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: TV Novi Pazar RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: TV Novi Pazar RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36074
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: TV Palma Plus Jagodina FHD RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: TV Palma Plus Jagodina FHD RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36075
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Top Music RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Top Music RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36076
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Nova S HD RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Nova S HD RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36077
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Arena Sport 1 HD RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Arena Sport 1 HD RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36078
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Arena Sport 1 (Backup) RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Arena Sport 1 (Backup) RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36079
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Arena Sport 2 HD RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Arena Sport 2 HD RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36080
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Arena Sport 2 (Backup) RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Arena Sport 2 (Backup) RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36081
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Arena Sport 3 HD RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Arena Sport 3 HD RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36082
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Arena Sport 3 (Backup) RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Arena Sport 3 (Backup) RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36083
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Arena Sport 4 HD RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Arena Sport 4 HD RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36084
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Arena Sport 4 (Backup) RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Arena Sport 4 (Backup) RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36085
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Arena Sport 5 FHD RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Arena Sport 5 FHD RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36086
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Arena Sport 5 (Backup) RS" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Arena Sport 5 (Backup) RS
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36087
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="???---- Crna Gora ----???" tvg-logo="" group-title="EX-YU TOTAL TV",???---- Crna Gora ----???
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36088
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Prva TV CG MNE" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: Prva TV CG MNE
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36089
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: 777 TV MNE" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: 777 TV MNE
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36090
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: TV Vijesti MNE" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: TV Vijesti MNE
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36091
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: RTCG 1 MNE" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: RTCG 1 MNE
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36092
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: RTCG 2 MNE" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: RTCG 2 MNE
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36093
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: RTCG Sat MNE" tvg-logo="" group-title="EX-YU TOTAL TV",Ex-Yu: RTCG Sat MNE
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/36094
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 1 FHD RS" tvg-logo="" group-title="EX-YU",RTS 1 FHD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4979
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 1 HD RS" tvg-logo="" group-title="EX-YU",RTS 1 HD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/670712
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 2 RS" tvg-logo="" group-title="EX-YU",RTS 2 RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4978
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 2 [B] RS" tvg-logo="" group-title="EX-YU",RTS 2 [B] RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/10408
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 3 FHD RS" tvg-logo="" group-title="EX-YU",RTS 3 FHD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4977
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 3 HD RS" tvg-logo="" group-title="EX-YU",RTS 3 HD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/10407
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Svet RS" tvg-logo="" group-title="EX-YU",RTS Svet RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/11046
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Vojvodina 1 RS" tvg-logo="" group-title="EX-YU",RTV Vojvodina 1 RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4976
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Vojvodina 2 RS" tvg-logo="" group-title="EX-YU",RTV Vojvodina 2 RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4975
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Novi Pazar RS" tvg-logo="" group-title="EX-YU",RTV Novi Pazar RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9385
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTK 2 HD RS" tvg-logo="" group-title="EX-YU",RTK 2 HD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/680235
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Bor RS" tvg-logo="" group-title="EX-YU",RTV Bor RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/674050
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sportski -------" tvg-logo="" group-title="EX-YU",------- Sportski -------
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/683198
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 HD RS" tvg-logo="" group-title="EX-YU",Arena Sport 1 HD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5465
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2 HD RS" tvg-logo="" group-title="EX-YU",Arena Sport 2 HD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5463
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3 FHD RS" tvg-logo="" group-title="EX-YU",Arena Sport 3 FHD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5461
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4 HD RS" tvg-logo="" group-title="EX-YU",Arena Sport 4 HD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5459
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 5 HD RS" tvg-logo="" group-title="EX-YU",Arena Sport 5 HD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5456
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 1 HD RS" tvg-logo="" group-title="EX-YU",Sport Klub 1 HD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/625234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 2 HD RS" tvg-logo="" group-title="EX-YU",Sport Klub 2 HD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9407
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 3 HD RS" tvg-logo="" group-title="EX-YU",Sport Klub 3 HD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9406
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 4 HD RS" tvg-logo="" group-title="EX-YU",Sport Klub 4 HD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9405
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 5 HD RS" tvg-logo="" group-title="EX-YU",Sport Klub 5 HD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9404
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 6 HD RS" tvg-logo="" group-title="EX-YU",Sport Klub 6 HD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9403
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub Golf FHD RS" tvg-logo="" group-title="EX-YU",Sport Klub Golf FHD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/685941
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova Sport HD RS" tvg-logo="" group-title="EX-YU",Nova Sport HD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/674094
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD RS" tvg-logo="" group-title="EX-YU",Eurosport 1 HD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5056
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 RS" tvg-logo="" group-title="EX-YU",Eurosport 2 RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5055
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Partizan TV HD RS" tvg-logo="" group-title="EX-YU",Partizan TV HD RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/13221
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Koncert RS" tvg-logo="" group-title="EX-YU",Pink Koncert RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9350
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Drama RS" tvg-logo="" group-title="EX-YU",RTS Drama RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/627838
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Trezor RS" tvg-logo="" group-title="EX-YU",RTS Trezor RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/627836
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Zivot RS" tvg-logo="" group-title="EX-YU",RTS Zivot RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/627835
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Poletarac RS" tvg-logo="" group-title="EX-YU",RTS Poletarac RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/13328
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Muzika RS" tvg-logo="" group-title="EX-YU",RTS Muzika RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/627837
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Kolo RS" tvg-logo="" group-title="EX-YU",RTS Kolo RS
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/657464
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 1 FHD HR" tvg-logo="" group-title="EX-YU",HRT 1 FHD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5037
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 1 HD HR" tvg-logo="" group-title="EX-YU",HRT 1 HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/10416
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 2 HR" tvg-logo="" group-title="EX-YU",HRT 2 HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5036
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 2 [B] HR" tvg-logo="" group-title="EX-YU",HRT 2 [B] HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/10415
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 3 HD HR" tvg-logo="" group-title="EX-YU",HRT 3 HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5035
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT3 [B] HD HR" tvg-logo="" group-title="EX-YU",HRT3 [B] HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/10414
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 4 HD HR" tvg-logo="" group-title="EX-YU",HRT 4 HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5033
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 4 HR" tvg-logo="" group-title="EX-YU",HRT 4 HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/10413
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT Int. HR" tvg-logo="" group-title="EX-YU",HRT Int. HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/23780
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL HD HR" tvg-logo="" group-title="EX-YU",RTL HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4985
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL [B] HD HR" tvg-logo="" group-title="EX-YU",RTL [B] HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/10412
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 2 HR" tvg-logo="" group-title="EX-YU",RTL 2 HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4984
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sportski -------" tvg-logo="" group-title="EX-YU",------- Sportski -------
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/683294
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 FHD HR" tvg-logo="" group-title="EX-YU",Arena Sport 1 FHD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5464
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2 HD HR" tvg-logo="" group-title="EX-YU",Arena Sport 2 HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5462
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3 HD HR" tvg-logo="" group-title="EX-YU",Arena Sport 3 HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5460
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4 HD HR" tvg-logo="" group-title="EX-YU",Arena Sport 4 HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/5458
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 5 FHD HR" tvg-logo="" group-title="EX-YU",Arena Sport 5 FHD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/545734
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 6 HD HR" tvg-logo="" group-title="EX-YU",Arena Sport 6 HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9415
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub Start HR" tvg-logo="" group-title="EX-YU",Sport Klub Start HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/635089
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 1 HD HR" tvg-logo="" group-title="EX-YU",Sport Klub 1 HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/53605
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 2 HD HR" tvg-logo="" group-title="EX-YU",Sport Klub 2 HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9413
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 3 HD HR" tvg-logo="" group-title="EX-YU",Sport Klub 3 HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/53166
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 4 HD HR" tvg-logo="" group-title="EX-YU",Sport Klub 4 HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9411
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 5 HD HR" tvg-logo="" group-title="EX-YU",Sport Klub 5 HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9410
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 6 HD HR" tvg-logo="" group-title="EX-YU",Sport Klub 6 HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9409
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub Golf HD HR" tvg-logo="" group-title="EX-YU",Sport Klub Golf HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/657465
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SK eSports HR" tvg-logo="" group-title="EX-YU",SK eSports HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/680236
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sport 1 HD HR" tvg-logo="" group-title="EX-YU",Planet Sport 1 HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/685989
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sport 2 FHD HR" tvg-logo="" group-title="EX-YU",Planet Sport 2 FHD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/685990
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sport 3 FHD HR" tvg-logo="" group-title="EX-YU",Planet Sport 3 FHD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/685991
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sport 4 FHD HR" tvg-logo="" group-title="EX-YU",Planet Sport 4 FHD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/685992
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sport 5 FHD HR" tvg-logo="" group-title="EX-YU",Planet Sport 5 FHD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/685993
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportska TV HR" tvg-logo="" group-title="EX-YU",Sportska TV HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/9416
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Adria HR" tvg-logo="" group-title="EX-YU",RTL Adria HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/686785
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Crime HR" tvg-logo="" group-title="EX-YU",RTL Crime HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4983
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Passion HD HR" tvg-logo="" group-title="EX-YU",RTL Passion HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/686786
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Passion HR" tvg-logo="" group-title="EX-YU",RTL Passion HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4981
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Earth HD HR" tvg-logo="" group-title="EX-YU",BBC Earth HD HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/674012
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Living HR" tvg-logo="" group-title="EX-YU",RTL Living HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4982
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Kockica HR" tvg-logo="" group-title="EX-YU",RTL Kockica HR
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4980
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Zenica BIH" tvg-logo="" group-title="EX-YU",RTV Zenica BIH
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/11032
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTRS BIH" tvg-logo="" group-title="EX-YU",RTRS BIH
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4987
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTRS Plus BIH" tvg-logo="" group-title="EX-YU",RTRS Plus BIH
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/4986
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv Herceg Bosne BIH" tvg-logo="" group-title="EX-YU",Rtv Herceg Bosne BIH
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/684734
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport HD BIH" tvg-logo="" group-title="EX-YU",Arena Sport HD BIH
-http://ipflix.click:8080/zw2hue78v/z4zyx4k7di/675211
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:24 KITCHEN" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:24 KITCHEN
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9659
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:24 Vesti" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:24 Vesti
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9595
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: 24 Vesti" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: 24 Vesti
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9558
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Alfa" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Alfa
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9592
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Alfa TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Alfa TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9540
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Al Jazeera Balkans" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Al Jazeera Balkans
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9505
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Alternativna TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Alternativna TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9528
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:AMC HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:AMC HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9687
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Animal Planet HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Animal Planet HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9638
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Arena Sport 1 HD Hr" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Arena Sport 1 HD Hr
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9611
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Arena Sport 1 srb FHD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Arena Sport 1 srb FHD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9606
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Arena Sport 2 HD Hr" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Arena Sport 2 HD Hr
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9612
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Arena Sport 2 srb FHD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Arena Sport 2 srb FHD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9607
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Arena Sport 3 HD Hr" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Arena Sport 3 HD Hr
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9613
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Arena Sport 3 srb FHD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Arena Sport 3 srb FHD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9608
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Arena Sport 4 HD Hr" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Arena Sport 4 HD Hr
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9614
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Arena Sport 4 srb FHD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Arena Sport 4 srb FHD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9609
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Arena Sport 5 HD Hr" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Arena Sport 5 HD Hr
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9615
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Arena Sport 5 srb FHD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Arena Sport 5 srb FHD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9610
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Arena Sport 6 HR" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Arena Sport 6 HR
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9616
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:ATV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:ATV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9541
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:AXN" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:AXN
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9681
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:AXN Spin" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:AXN Spin
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9682
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Baby TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Baby TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9751
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Balkanika" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Balkanika
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9740
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Banovina TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Banovina TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9523
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:BBC Earth HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:BBC Earth HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9640
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: BHT HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: BHT HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9526
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:BN Music" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:BN Music
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9737
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: BN TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: BN TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9531
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:CBS REALITY" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:CBS REALITY
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9654
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Cinemania" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Cinemania
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9688
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Cinemax 2 HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Cinemax 2 HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9670
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Cinemax HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Cinemax HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9669
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Cinestar Comedy" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Cinestar Comedy
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9673
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:CineStar TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:CineStar TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9671
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:CineStar TV Fantasy" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:CineStar TV Fantasy
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9672
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:CineStar TV Premiere 1 HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:CineStar TV Premiere 1 HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9675
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:CineStar TV Premiere 2 HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:CineStar TV Premiere 2 HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9676
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: City TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: City TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9636
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:CMC TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:CMC TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9734
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Comedy Central Extra" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Comedy Central Extra
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9692
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Crime & Investigation" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Crime & Investigation
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9653
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Da Vinci Learning" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Da Vinci Learning
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9664
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Discovery Channel HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Discovery Channel HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9643
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Discovery ID" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Discovery ID
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9646
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Discovery Science HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Discovery Science HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9644
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Discovery Showcase HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Discovery Showcase HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9645
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Diva" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Diva
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9690
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:DM Sat" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:DM Sat
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9733
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Docubox" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Docubox
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9658
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:DOKU TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:DOKU TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9662
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Doma TV HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Doma TV HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9520
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:E! Entertainment" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:E! Entertainment
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9656
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Elta HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Elta HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9542
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Eurosport 1" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Eurosport 1
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9604
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Eurosport 2" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Eurosport 2
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9605
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Face TV HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Face TV HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9530
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Federalna TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Federalna TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9527
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Fight Channel HD (HR)" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Fight Channel HD (HR)
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9634
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Filmbox Plus HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Filmbox Plus HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9685
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Fine Living" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Fine Living
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9663
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:FOX Crime HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:FOX Crime HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9678
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:FOX HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:FOX HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9677
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:FOX Life HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:FOX Life HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9680
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:FOX Movies HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:FOX Movies HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9679
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Grand 2" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Grand 2
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9742
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Grand TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Grand TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9741
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:HaHa" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:HaHa
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9582
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Happy" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Happy
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9499
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Hayat Folk" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Hayat Folk
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9743
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Hayat Music" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Hayat Music
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9735
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Hayatovci" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Hayatovci
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9754
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Hayat Plus" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Hayat Plus
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9546
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:HAYAT TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:HAYAT TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9545
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:HBO 2 HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:HBO 2 HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9667
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:HBO 3 HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:HBO 3 HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9668
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:HBO HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:HBO HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9666
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: HEMA" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: HEMA
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9535
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:History" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:History
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9647
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:History 2" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:History 2
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9648
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:HNTV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:HNTV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9637
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:HRT 1" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:HRT 1
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9509
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:HRT 2" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:HRT 2
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9510
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: HRT 3" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: HRT 3
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9511
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:HRT 4" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:HRT 4
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9512
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:HRT Int." tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:HRT Int.
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9513
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:HUGO 1" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:HUGO 1
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9725
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: HUGO 2" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: HUGO 2
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9726
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:HUGO 3" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:HUGO 3
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9727
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:IDJ TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:IDJ TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9736
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Izvorna TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Izvorna TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9550
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Jugoton" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Jugoton
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9739
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: K3 Prnjavor" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: K3 Prnjavor
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9549
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Kanal 5" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Kanal 5
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9594
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Kanal 6 HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Kanal 6 HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9551
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:KCN 1" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:KCN 1
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9507
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:KCN 2" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:KCN 2
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9745
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:KCN 3" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:KCN 3
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9746
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Kino TV HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Kino TV HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9689
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Klasik TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Klasik TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9695
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:KOHA TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:KOHA TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9597
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Kreator TV HD (HR)" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Kreator TV HD (HR)
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9660
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Laudato TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Laudato TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9522
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:LOL" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:LOL
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9583
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Lov i Ribolov" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Lov i Ribolov
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9657
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:M1 Gold" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:M1 Gold
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9684
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:MaxCro Select 1 FHD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:MaxCro Select 1 FHD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9697
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:MaxCro Select 2 FHD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:MaxCro Select 2 FHD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9698
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:MaxCro Select 3 FHD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:MaxCro Select 3 FHD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9699
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:MaxCro Select 4 FHD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:MaxCro Select 4 FHD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9700
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:MaxCro Select 5 FHD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:MaxCro Select 5 FHD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9701
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:MaxCro Select 6 FHD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:MaxCro Select 6 FHD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9702
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:MaxCro Select 7 FHD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:MaxCro Select 7 FHD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9703
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:MaxCro Select 8 FHD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:MaxCro Select 8 FHD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9704
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:MaxCro Select 9 FHD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:MaxCro Select 9 FHD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9705
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:MaxCro Select 10 FHD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:MaxCro Select 10 FHD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9706
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:MiniMax" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:MiniMax
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9750
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Mini TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Mini TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9752
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Moja TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Moja TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9635
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:MRT 1" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:MRT 1
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9589
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: MRT 2" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: MRT 2
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9590
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: MTV Igman" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: MTV Igman
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9539
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: N1 BH" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: N1 BH
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9538
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:N1 HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:N1 HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9501
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:N1 HR" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:N1 HR
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9521
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Nasha TV" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Nasha TV
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9601
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Nat Geo HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Nat Geo HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9641
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Nat Geo Wild HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Nat Geo Wild HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9642
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Nick JR" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Nick JR
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9757
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: NICKLEODEON" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: NICKLEODEON
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9747
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Nova 12" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Nova 12
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9598
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Nova BH" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Nova BH
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9532
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Nova M" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Nova M
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9557
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Nova RS HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Nova RS HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9500
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Nova TV HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Nova TV HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9519
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:O2" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:O2
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9498
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:OBN" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:OBN
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9529
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:OTV Valentino" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:OTV Valentino
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9547
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9490
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink 2" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink 2
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9562
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink 3 Info" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink 3 Info
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9563
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Action" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Action
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9568
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink BH" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink BH
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9548
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Classic" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Classic
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9579
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Comedy" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Comedy
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9567
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Crime & Mystery" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Crime & Mystery
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9566
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Extra" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Extra
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9581
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Folk 1" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Folk 1
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9731
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Folk 2" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Folk 2
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9732
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Hits" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Hits
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9730
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Horror" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Horror
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9575
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:PINK KIDS" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:PINK KIDS
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9749
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink M" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink M
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9561
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Pink Movies" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Pink Movies
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9574
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Music" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Music
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9729
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Pedia" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Pedia
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9576
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Plus" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Plus
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9564
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Premium" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Premium
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9580
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Reality" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Reality
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9584
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Sci-Fi/Fantasy" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Sci-Fi/Fantasy
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9573
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Serije" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Serije
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9577
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Soap" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Soap
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9578
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Super Kids" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Super Kids
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9755
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Thriller" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Thriller
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9572
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink Western" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink Western
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9571
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Pink World" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Pink World
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9570
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Planet Earth HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Planet Earth HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9639
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Planet Sport 1" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Planet Sport 1
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9629
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Planet Sport 2" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Planet Sport 2
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9630
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Planet Sport 3" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Planet Sport 3
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9631
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Prva" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Prva
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9491
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Prva CG" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Prva CG
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9556
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Prva Kick" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Prva Kick
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9495
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Prva Max" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Prva Max
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9493
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Prva Plus" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Prva Plus
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9492
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Prva World" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Prva World
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9494
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:RTCG SAT" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:RTCG SAT
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9560
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: RTL" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: RTL
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9514
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: RTL 2" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: RTL 2
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9515
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:RTL Crime" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:RTL Crime
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9516
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:RTL KOCKICA" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:RTL KOCKICA
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9753
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:RTL Living" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:RTL Living
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9517
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:RTL Passion" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:RTL Passion
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9518
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:RTRS" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:RTRS
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9533
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:RTRS Plus" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:RTRS Plus
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9534
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: RTS 1" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: RTS 1
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9483
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:RTS 2" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:RTS 2
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9484
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:RTS 3" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:RTS 3
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9485
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:RTS Drama" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:RTS Drama
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9487
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:RTS Svet" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:RTS Svet
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9486
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:RTS Trezor" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:RTS Trezor
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9488
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:RTS Zivot" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:RTS Zivot
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9489
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:RTV 1" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:RTV 1
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9503
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: RTV 2" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: RTV 2
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9504
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:RTV Mlava" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:RTV Mlava
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9506
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:RTV USK" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:RTV USK
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9543
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: RTV Zenica" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: RTV Zenica
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9552
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:SciFi" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:SciFi
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9686
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Sitel" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Sitel
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9603
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Sitel 2" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Sitel 2
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9591
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: SKY Folk MK" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: SKY Folk MK
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9596
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Sonce" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Sonce
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9600
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:SOS Kanal" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:SOS Kanal
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9508
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Sport Klub 1" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Sport Klub 1
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9619
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Sport Klub 2" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Sport Klub 2
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9620
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Sport Klub 3" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Sport Klub 3
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9621
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Sport Klub 4" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Sport Klub 4
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9622
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Sport Klub 5" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Sport Klub 5
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9623
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Sport Klub 6" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Sport Klub 6
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9624
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Sport Klub 7" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Sport Klub 7
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9625
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Sport Klub 8" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Sport Klub 8
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9626
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Sport Klub 9" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Sport Klub 9
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9627
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Sport Klub Golf HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Sport Klub Golf HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9617
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Sport Klub HD" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Sport Klub HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9618
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Sportska TV (HR)" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Sportska TV (HR)
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9632
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Studio B" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Studio B
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9502
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Sutel" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Sutel
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9599
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Televizija 5" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Televizija 5
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9553
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Telma" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Telma
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9602
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:TLC" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:TLC
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9655
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:TOM AND JERRY" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:TOM AND JERRY
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9748
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Travel Channel" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Travel Channel
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9652
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:TV 1" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:TV 1
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9537
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: TV 777" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: TV 777
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9559
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:TV 1000" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:TV 1000
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9691
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: TVCG 1" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: TVCG 1
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9554
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: TVCG 2" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: TVCG 2
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9555
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:TV Duga" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:TV Duga
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9744
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:TVSA" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:TVSA
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9536
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: TVTK" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: TVTK
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9544
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Viasat Explore" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Viasat Explore
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9650
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Viasat History" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Viasat History
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9651
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Viasat Nature" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Viasat Nature
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9649
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:YU PLANET" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:YU PLANET
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9738
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU:Z 1" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU:Z 1
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9525
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Zadruga 1" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Zadruga 1
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9585
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Zadruga 2" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Zadruga 2
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9586
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXYU: Zadruga 3" tvg-logo="" group-title="EX-YU TOTAL TV",EXYU: Zadruga 3
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9587
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YU002:Al Jazeera Balkan" tvg-logo="" group-title="Yugoslavia",YU002:Al Jazeera Balkan
 http://c2.comloor.club:8880/kw14m282/asdf2222/49324
